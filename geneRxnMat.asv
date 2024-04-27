@@ -1,0 +1,33 @@
+%model = readCbModel('Recon2M.2_BiGG_Entrez_Gene.xml');
+gene_reaction_matrix = zeros(numel(model.rules), numel(model.genes));
+rule_condition = []
+for i = 1:numel(model.rules)
+    rule = model.rules{i};
+    genes_in_rule = regexp(rule, '\d+', 'match');
+    for j = 1:numel(genes_in_rule)
+        gene_reaction_matrix(i, j) = 1;
+    end
+    if strfind(rule, '|') > 0
+        rule_condition(end+1) = 'OR'
+    elseif strfind(rule, '&') > 0
+            rule_condition(end+1) = 'AND'
+    else
+            rule_condition(end+1) = ''
+    end
+end
+
+id = upperboundshel.(1);
+upper = upperboundshel.(2);
+
+gene_reaction_matrix(gene_reaction_matrix(:, gene_idx) == 1, :)
+
+for r=1:
+
+for i=1:1150
+    gene = id(i);
+    col = find(strcmp(model.genes, num2str(gene)));
+    rxns = find(gene_reaction_matrix(:, col) == 1);
+    for r=1:numel(rxns)
+        model.ub(r) = upper(i)
+    end
+end

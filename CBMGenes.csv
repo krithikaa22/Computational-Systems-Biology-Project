@@ -1,0 +1,1673 @@
+initial_alias,converted_alias,name,description,namespace
+65985,ENSG00000081760,AACS,acetoacetyl-CoA synthetase [Source:HGNC Symbol;Acc:HGNC:21298],ENTREZGENE_ACC
+8639,ENSG00000131471,AOC3,amine oxidase copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550],ENTREZGENE_ACC
+39,ENSG00000120437,ACAT2,acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94],ENTREZGENE_ACC
+38,ENSG00000075239,ACAT1,acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93],ENTREZGENE_ACC
+55902,ENSG00000131069,ACSS2,acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814],ENTREZGENE_ACC
+79611,ENSG00000111058,ACSS3,acyl-CoA synthetase short chain family member 3 [Source:HGNC Symbol;Acc:HGNC:24723],ENTREZGENE_ACC
+84532,ENSG00000154930,ACSS1,acyl-CoA synthetase short chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091],ENTREZGENE_ACC
+6566,ENSG00000155380,SLC16A1,solute carrier family 16 member 1 [Source:HGNC Symbol;Acc:HGNC:10922],ENTREZGENE_ACC
+2585,ENSG00000156958,GALK2,galactokinase 2 [Source:HGNC Symbol;Acc:HGNC:4119],ENTREZGENE_ACC
+5973,ENSG00000102032,RENBP,renin binding protein [Source:HGNC Symbol;Acc:HGNC:9959],ENTREZGENE_ACC
+55577,ENSG00000124357,NAGK,N-acetylglucosamine kinase [Source:HGNC Symbol;Acc:HGNC:17174],ENTREZGENE_ACC
+5238,ENSG00000013375,PGM3,phosphoglucomutase 3 [Source:HGNC Symbol;Acc:HGNC:8907],ENTREZGENE_ACC
+47,ENSG00000131473,ACLY,ATP citrate lyase [Source:HGNC Symbol;Acc:HGNC:115],ENTREZGENE_ACC
+54187,ENSG00000095380,NANS,N-acetylneuraminate synthase [Source:HGNC Symbol;Acc:HGNC:19237],ENTREZGENE_ACC
+140838,ENSG00000170191,NANP,N-acetylneuraminic acid phosphatase [Source:HGNC Symbol;Acc:HGNC:16140],ENTREZGENE_ACC
+51205,ENSG00000162836,ACP6,"acid phosphatase 6, lysophosphatidic [Source:HGNC Symbol;Acc:HGNC:29609]",ENTREZGENE_ACC
+54,ENSG00000102575,ACP5,"acid phosphatase 5, tartrate resistant [Source:HGNC Symbol;Acc:HGNC:124]",ENTREZGENE_ACC
+27034,ENSG00000151498,ACAD8,acyl-CoA dehydrogenase family member 8 [Source:HGNC Symbol;Acc:HGNC:87],ENTREZGENE_ACC
+28976,ENSG00000177646,ACAD9,acyl-CoA dehydrogenase family member 9 [Source:HGNC Symbol;Acc:HGNC:21497],ENTREZGENE_ACC
+34,ENSG00000117054,ACADM,acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89],ENTREZGENE_ACC
+35,ENSG00000122971,ACADS,acyl-CoA dehydrogenase short chain [Source:HGNC Symbol;Acc:HGNC:90],ENTREZGENE_ACC
+36,ENSG00000196177,ACADSB,acyl-CoA dehydrogenase short/branched chain [Source:HGNC Symbol;Acc:HGNC:91],ENTREZGENE_ACC
+80724,ENSG00000111271,ACAD10,acyl-CoA dehydrogenase family member 10 [Source:HGNC Symbol;Acc:HGNC:21597],ENTREZGENE_ACC
+84129,ENSG00000240303,ACAD11,acyl-CoA dehydrogenase family member 11 [Source:HGNC Symbol;Acc:HGNC:30211],ENTREZGENE_ACC
+134526,ENSG00000172497,ACOT12,acyl-CoA thioesterase 12 [Source:HGNC Symbol;Acc:HGNC:24436],ENTREZGENE_ACC
+48,ENSG00000122729,ACO1,aconitase 1 [Source:HGNC Symbol;Acc:HGNC:117],ENTREZGENE_ACC
+50,ENSG00000100412,ACO2,aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118],ENTREZGENE_ACC
+1571,ENSG00000130649,CYP2E1,cytochrome P450 family 2 subfamily E member 1 [Source:HGNC Symbol;Acc:HGNC:2631],ENTREZGENE_ACC
+112611,ENSG00000013392,RWDD2A,RWD domain containing 2A [Source:HGNC Symbol;Acc:HGNC:21385],ENTREZGENE_ACC
+97,ENSG00000119640,ACYP1,acylphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:179],ENTREZGENE_ACC
+98,ENSG00000170634,ACYP2,acylphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:180],ENTREZGENE_ACC
+203,ENSG00000106992,AK1,adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361],ENTREZGENE_ACC
+204,ENSG00000004455,AK2,adenylate kinase 2 [Source:HGNC Symbol;Acc:HGNC:362],ENTREZGENE_ACC
+26289,ENSG00000154027,AK5,adenylate kinase 5 [Source:HGNC Symbol;Acc:HGNC:365],ENTREZGENE_ACC
+2030,ENSG00000112759,SLC29A1,solute carrier family 29 member 1 (Augustine blood group) [Source:HGNC Symbol;Acc:HGNC:11003],ENTREZGENE_ACC
+51005,ENSG00000162066,AMDHD2,amidohydrolase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24262],ENTREZGENE_ACC
+189,ENSG00000172482,AGXT,alanine--glyoxylate aminotransferase [Source:HGNC Symbol;Acc:HGNC:341],ENTREZGENE_ACC
+64850,ENSG00000164089,ETNPPL,ethanolamine-phosphate phospho-lyase [Source:HGNC Symbol;Acc:HGNC:14404],ENTREZGENE_ACC
+1738,ENSG00000091140,DLD,dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898],ENTREZGENE_ACC
+1743,ENSG00000119689,DLST,dihydrolipoamide S-succinyltransferase [Source:HGNC Symbol;Acc:HGNC:2911],ENTREZGENE_ACC
+4967,ENSG00000105953,OGDH,oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124],ENTREZGENE_ACC
+8050,ENSG00000110435,PDHX,pyruvate dehydrogenase complex component X [Source:HGNC Symbol;Acc:HGNC:21350],ENTREZGENE_ACC
+1468,ENSG00000183048,SLC25A10,solute carrier family 25 member 10 [Source:HGNC Symbol;Acc:HGNC:10980],ENTREZGENE_ACC
+8402,ENSG00000108528,SLC25A11,solute carrier family 25 member 11 [Source:HGNC Symbol;Acc:HGNC:10981],ENTREZGENE_ACC
+124,ENSG00000187758,ADH1A,"alcohol dehydrogenase 1A (class I), alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:249]",ENTREZGENE_ACC
+125,ENSG00000196616,ADH1B,"alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]",ENTREZGENE_ACC
+126,ENSG00000248144,ADH1C,"alcohol dehydrogenase 1C (class I), gamma polypeptide [Source:HGNC Symbol;Acc:HGNC:251]",ENTREZGENE_ACC
+127,ENSG00000198099,ADH4,"alcohol dehydrogenase 4 (class II), pi polypeptide [Source:HGNC Symbol;Acc:HGNC:252]",ENTREZGENE_ACC
+128,ENSG00000197894,ADH5,"alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]",ENTREZGENE_ACC
+130,ENSG00000172955,ADH6,alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:HGNC:255],ENTREZGENE_ACC
+131,ENSG00000196344,ADH7,"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [Source:HGNC Symbol;Acc:HGNC:256]",ENTREZGENE_ACC
+137872,ENSG00000147576,ADHFE1,alcohol dehydrogenase iron containing 1 [Source:HGNC Symbol;Acc:HGNC:16354],ENTREZGENE_ACC
+284273,ENSG00000180011,PTGR3,prostaglandin reductase 3 [Source:HGNC Symbol;Acc:HGNC:28697],ENTREZGENE_ACC
+216,ENSG00000165092,ALDH1A1,aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402],ENTREZGENE_ACC
+218,ENSG00000108602,ALDH3A1,aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405],ENTREZGENE_ACC
+219,ENSG00000137124,ALDH1B1,aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407],ENTREZGENE_ACC
+220,ENSG00000184254,ALDH1A3,aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409],ENTREZGENE_ACC
+221,ENSG00000006534,ALDH3B1,aldehyde dehydrogenase 3 family member B1 [Source:HGNC Symbol;Acc:HGNC:410],ENTREZGENE_ACC
+222,ENSG00000132746,ALDH3B2,aldehyde dehydrogenase 3 family member B2 [Source:HGNC Symbol;Acc:HGNC:411],ENTREZGENE_ACC
+223,ENSG00000143149,ALDH9A1,aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412],ENTREZGENE_ACC
+224,ENSG00000072210,ALDH3A2,aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403],ENTREZGENE_ACC
+501,ENSG00000164904,ALDH7A1,aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877],ENTREZGENE_ACC
+8854,ENSG00000128918,ALDH1A2,aldehyde dehydrogenase 1 family member A2 [Source:HGNC Symbol;Acc:HGNC:15472],ENTREZGENE_ACC
+217,ENSG00000111275,ALDH2,aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404],ENTREZGENE_ACC
+10327,ENSG00000117448,AKR1A1,aldo-keto reductase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:380],ENTREZGENE_ACC
+231,ENSG00000085662,AKR1B1,aldo-keto reductase family 1 member B [Source:HGNC Symbol;Acc:HGNC:381],ENTREZGENE_ACC
+8574,ENSG00000053371,AKR7A2,aldo-keto reductase family 7 member A2 [Source:HGNC Symbol;Acc:HGNC:389],ENTREZGENE_ACC
+10020,ENSG00000159921,GNE,glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase [Source:HGNC Symbol;Acc:HGNC:23657],ENTREZGENE_ACC
+18,ENSG00000183044,ABAT,4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23],ENTREZGENE_ACC
+10165,ENSG00000004864,SLC25A13,solute carrier family 25 member 13 [Source:HGNC Symbol;Acc:HGNC:10983],ENTREZGENE_ACC
+8604,ENSG00000115840,SLC25A12,solute carrier family 25 member 12 [Source:HGNC Symbol;Acc:HGNC:10982],ENTREZGENE_ACC
+2805,ENSG00000120053,GOT1,glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432],ENTREZGENE_ACC
+2806,ENSG00000125166,GOT2,glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433],ENTREZGENE_ACC
+10476,ENSG00000167863,ATP5PD,ATP synthase peripheral stalk subunit d [Source:HGNC Symbol;Acc:HGNC:845],ENTREZGENE_ACC
+10632,ENSG00000167283,ATP5MG,ATP synthase membrane subunit g [Source:HGNC Symbol;Acc:HGNC:14247],ENTREZGENE_ACC
+267020,ENSG00000249222,ATP5MGL,ATP synthase membrane subunit g like [Source:HGNC Symbol;Acc:HGNC:13213],ENTREZGENE_ACC
+27109,ENSG00000125375,DMAC2L,distal membrane arm assembly component 2 like [Source:HGNC Symbol;Acc:HGNC:18799],ENTREZGENE_ACC
+4905,ENSG00000073969,NSF,"N-ethylmaleimide sensitive factor, vesicle fusing ATPase [Source:HGNC Symbol;Acc:HGNC:8016]",ENTREZGENE_ACC
+498,ENSG00000152234,ATP5F1A,ATP synthase F1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:823],ENTREZGENE_ACC
+506,ENSG00000110955,ATP5F1B,ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830],ENTREZGENE_ACC
+509,ENSG00000165629,ATP5F1C,ATP synthase F1 subunit gamma [Source:HGNC Symbol;Acc:HGNC:833],ENTREZGENE_ACC
+513,ENSG00000099624,ATP5F1D,ATP synthase F1 subunit delta [Source:HGNC Symbol;Acc:HGNC:837],ENTREZGENE_ACC
+514,ENSG00000124172,ATP5F1E,ATP synthase F1 subunit epsilon [Source:HGNC Symbol;Acc:HGNC:838],ENTREZGENE_ACC
+515,ENSG00000116459,ATP5PB,ATP synthase peripheral stalk-membrane subunit b [Source:HGNC Symbol;Acc:HGNC:840],ENTREZGENE_ACC
+516,ENSG00000159199,ATP5MC1,ATP synthase membrane subunit c locus 1 [Source:HGNC Symbol;Acc:HGNC:841],ENTREZGENE_ACC
+517,ENSG00000135390,ATP5MC2,ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842],ENTREZGENE_ACC
+518,ENSG00000154518,ATP5MC3,ATP synthase membrane subunit c locus 3 [Source:HGNC Symbol;Acc:HGNC:843],ENTREZGENE_ACC
+521,ENSG00000169020,ATP5ME,ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846],ENTREZGENE_ACC
+522,ENSG00000154723,ATP5PF,ATP synthase peripheral stalk subunit F6 [Source:HGNC Symbol;Acc:HGNC:847],ENTREZGENE_ACC
+539,ENSG00000241837,ATP5PO,ATP synthase peripheral stalk subunit OSCP [Source:HGNC Symbol;Acc:HGNC:850],ENTREZGENE_ACC
+9551,ENSG00000241468,ATP5MF,ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848],ENTREZGENE_ACC
+56898,ENSG00000164039,BDH2,3-hydroxybutyrate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:32389],ENTREZGENE_ACC
+622,ENSG00000161267,BDH1,3-hydroxybutyrate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:1027],ENTREZGENE_ACC
+50814,ENSG00000147383,NSDHL,NAD(P) dependent steroid dehydrogenase-like [Source:HGNC Symbol;Acc:HGNC:13398],ENTREZGENE_ACC
+847,ENSG00000121691,CAT,catalase [Source:HGNC Symbol;Acc:HGNC:1516],ENTREZGENE_ACC
+2538,ENSG00000131482,G6PC1,glucose-6-phosphatase catalytic subunit 1 [Source:HGNC Symbol;Acc:HGNC:4056],ENTREZGENE_ACC
+57818,ENSG00000152254,G6PC2,glucose-6-phosphatase catalytic subunit 2 [Source:HGNC Symbol;Acc:HGNC:28906],ENTREZGENE_ACC
+92579,ENSG00000141349,G6PC3,glucose-6-phosphatase catalytic subunit 3 [Source:HGNC Symbol;Acc:HGNC:24861],ENTREZGENE_ACC
+10423,ENSG00000103502,CDIPT,CDP-diacylglycerol--inositol 3-phosphatidyltransferase [Source:HGNC Symbol;Acc:HGNC:1769],ENTREZGENE_ACC
+1118,ENSG00000133063,CHIT1,chitinase 1 [Source:HGNC Symbol;Acc:HGNC:1936],ENTREZGENE_ACC
+27159,ENSG00000134216,CHIA,chitinase acidic [Source:HGNC Symbol;Acc:HGNC:17432],ENTREZGENE_ACC
+54682,ENSG00000111261,MANSC1,MANSC domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25505],ENTREZGENE_ACC
+55907,ENSG00000111726,CMAS,cytidine monophosphate N-acetylneuraminic acid synthetase [Source:HGNC Symbol;Acc:HGNC:18290],ENTREZGENE_ACC
+1431,ENSG00000062485,CS,citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422],ENTREZGENE_ACC
+2745,ENSG00000173221,GLRX,glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330],ENTREZGENE_ACC
+51022,ENSG00000023572,GLRX2,glutaredoxin 2 [Source:HGNC Symbol;Acc:HGNC:16065],ENTREZGENE_ACC
+60386,ENSG00000125454,SLC25A19,solute carrier family 25 member 19 [Source:HGNC Symbol;Acc:HGNC:14409],ENTREZGENE_ACC
+1621,ENSG00000123454,DBH,dopamine beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:2689],ENTREZGENE_ACC
+26002,ENSG00000079931,MOXD1,monooxygenase DBH like 1 [Source:HGNC Symbol;Acc:HGNC:21063],ENTREZGENE_ACC
+5223,ENSG00000171314,PGAM1,phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888],ENTREZGENE_ACC
+5224,ENSG00000164708,PGAM2,phosphoglycerate mutase 2 [Source:HGNC Symbol;Acc:HGNC:8889],ENTREZGENE_ACC
+669,ENSG00000172331,BPGM,bisphosphoglycerate mutase [Source:HGNC Symbol;Acc:HGNC:1093],ENTREZGENE_ACC
+64080,ENSG00000171174,RBKS,ribokinase [Source:HGNC Symbol;Acc:HGNC:30325],ENTREZGENE_ACC
+51071,ENSG00000023697,DERA,deoxyribose-phosphate aldolase [Source:HGNC Symbol;Acc:HGNC:24269],ENTREZGENE_ACC
+2023,ENSG00000074800,ENO1,enolase 1 [Source:HGNC Symbol;Acc:HGNC:3350],ENTREZGENE_ACC
+2026,ENSG00000111674,ENO2,enolase 2 [Source:HGNC Symbol;Acc:HGNC:3353],ENTREZGENE_ACC
+2027,ENSG00000108515,ENO3,enolase 3 [Source:HGNC Symbol;Acc:HGNC:3354],ENTREZGENE_ACC
+8790,ENSG00000254685,FPGT,fucose-1-phosphate guanylyltransferase [Source:HGNC Symbol;Acc:HGNC:3825],ENTREZGENE_ACC
+116285,ENSG00000166743,ACSM1,acyl-CoA synthetase medium chain family member 1 [Source:HGNC Symbol;Acc:HGNC:18049],ENTREZGENE_ACC
+226,ENSG00000149925,ALDOA,"aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]",ENTREZGENE_ACC
+229,ENSG00000136872,ALDOB,"aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]",ENTREZGENE_ACC
+230,ENSG00000109107,ALDOC,"aldolase, fructose-bisphosphate C [Source:HGNC Symbol;Acc:HGNC:418]",ENTREZGENE_ACC
+2203,ENSG00000165140,FBP1,fructose-bisphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3606],ENTREZGENE_ACC
+8789,ENSG00000130957,FBP2,fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607],ENTREZGENE_ACC
+5207,ENSG00000158571,PFKFB1,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:8872]",ENTREZGENE_ACC
+5208,ENSG00000123836,PFKFB2,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:8873]",ENTREZGENE_ACC
+5209,ENSG00000170525,PFKFB3,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:HGNC Symbol;Acc:HGNC:8874]",ENTREZGENE_ACC
+5210,ENSG00000114268,PFKFB4,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 [Source:HGNC Symbol;Acc:HGNC:8875]",ENTREZGENE_ACC
+197258,ENSG00000157353,FCSK,fucose kinase [Source:HGNC Symbol;Acc:HGNC:29500],ENTREZGENE_ACC
+2271,ENSG00000091483,FH,fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700],ENTREZGENE_ACC
+2820,ENSG00000115159,GPD2,glycerol-3-phosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4456],ENTREZGENE_ACC
+10007,ENSG00000113552,GNPDA1,glucosamine-6-phosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:4417],ENTREZGENE_ACC
+132789,ENSG00000163281,GNPDA2,glucosamine-6-phosphate deaminase 2 [Source:HGNC Symbol;Acc:HGNC:21526],ENTREZGENE_ACC
+2539,ENSG00000160211,G6PD,glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057],ENTREZGENE_ACC
+2542,ENSG00000137700,SLC37A4,solute carrier family 37 member 4 [Source:HGNC Symbol;Acc:HGNC:4061],ENTREZGENE_ACC
+2592,ENSG00000213930,GALT,galactose-1-phosphate uridylyltransferase [Source:HGNC Symbol;Acc:HGNC:4135],ENTREZGENE_ACC
+2597,ENSG00000111640,GAPDH,glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141],ENTREZGENE_ACC
+26330,ENSG00000105679,GAPDHS,"glyceraldehyde-3-phosphate dehydrogenase, spermatogenic [Source:HGNC Symbol;Acc:HGNC:24864]",ENTREZGENE_ACC
+2673,ENSG00000198380,GFPT1,glutamine--fructose-6-phosphate transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4241],ENTREZGENE_ACC
+9945,ENSG00000131459,GFPT2,glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242],ENTREZGENE_ACC
+7264,ENSG00000104522,GFUS,GDP-L-fucose synthase [Source:HGNC Symbol;Acc:HGNC:12390],ENTREZGENE_ACC
+2992,ENSG00000163754,GYG1,glycogenin 1 [Source:HGNC Symbol;Acc:HGNC:4699],ENTREZGENE_ACC
+2997,ENSG00000104812,GYS1,glycogen synthase 1 [Source:HGNC Symbol;Acc:HGNC:4706],ENTREZGENE_ACC
+2998,ENSG00000111713,GYS2,glycogen synthase 2 [Source:HGNC Symbol;Acc:HGNC:4707],ENTREZGENE_ACC
+8908,ENSG00000056998,GYG2,glycogenin 2 [Source:HGNC Symbol;Acc:HGNC:4700],ENTREZGENE_ACC
+8659,ENSG00000159423,ALDH4A1,aldehyde dehydrogenase 4 family member A1 [Source:HGNC Symbol;Acc:HGNC:406],ENTREZGENE_ACC
+2632,ENSG00000114480,GBE1,"1,4-alpha-glucan branching enzyme 1 [Source:HGNC Symbol;Acc:HGNC:4180]",ENTREZGENE_ACC
+178,ENSG00000162688,AGL,"amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]",ENTREZGENE_ACC
+5834,ENSG00000100994,PYGB,glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723],ENTREZGENE_ACC
+5836,ENSG00000100504,PYGL,glycogen phosphorylase L [Source:HGNC Symbol;Acc:HGNC:9725],ENTREZGENE_ACC
+5837,ENSG00000068976,PYGM,"glycogen phosphorylase, muscle associated [Source:HGNC Symbol;Acc:HGNC:9726]",ENTREZGENE_ACC
+79751,ENSG00000177542,SLC25A22,solute carrier family 25 member 22 [Source:HGNC Symbol;Acc:HGNC:19954],ENTREZGENE_ACC
+83733,ENSG00000182902,SLC25A18,solute carrier family 25 member 18 [Source:HGNC Symbol;Acc:HGNC:10988],ENTREZGENE_ACC
+160287,ENSG00000166800,LDHAL6A,lactate dehydrogenase A like 6A [Source:HGNC Symbol;Acc:HGNC:28335],ENTREZGENE_ACC
+197257,ENSG00000166816,LDHD,lactate dehydrogenase D [Source:HGNC Symbol;Acc:HGNC:19708],ENTREZGENE_ACC
+3939,ENSG00000134333,LDHA,lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535],ENTREZGENE_ACC
+3945,ENSG00000111716,LDHB,lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541],ENTREZGENE_ACC
+3948,ENSG00000166796,LDHC,lactate dehydrogenase C [Source:HGNC Symbol;Acc:HGNC:6544],ENTREZGENE_ACC
+55293,ENSG00000151116,UEVLD,UEV and lactate/malate dehyrogenase domains [Source:HGNC Symbol;Acc:HGNC:30866],ENTREZGENE_ACC
+92483,ENSG00000171989,LDHAL6B,lactate dehydrogenase A like 6B [Source:HGNC Symbol;Acc:HGNC:21481],ENTREZGENE_ACC
+51179,ENSG00000116882,HAO2,hydroxyacid oxidase 2 [Source:HGNC Symbol;Acc:HGNC:4810],ENTREZGENE_ACC
+54363,ENSG00000101323,HAO1,hydroxyacid oxidase 1 [Source:HGNC Symbol;Acc:HGNC:4809],ENTREZGENE_ACC
+9380,ENSG00000137106,GRHPR,glyoxylate and hydroxypyruvate reductase [Source:HGNC Symbol;Acc:HGNC:4570],ENTREZGENE_ACC
+3029,ENSG00000063854,HAGH,hydroxyacylglutathione hydrolase [Source:HGNC Symbol;Acc:HGNC:4805],ENTREZGENE_ACC
+84264,ENSG00000103253,HAGHL,hydroxyacylglutathione hydrolase like [Source:HGNC Symbol;Acc:HGNC:14177],ENTREZGENE_ACC
+2762,ENSG00000112699,GMDS,"GDP-mannose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:4369]",ENTREZGENE_ACC
+5226,ENSG00000142657,PGD,phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891],ENTREZGENE_ACC
+2645,ENSG00000106633,GCK,glucokinase [Source:HGNC Symbol;Acc:HGNC:4195],ENTREZGENE_ACC
+3098,ENSG00000156515,HK1,hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922],ENTREZGENE_ACC
+3099,ENSG00000159399,HK2,hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923],ENTREZGENE_ACC
+3101,ENSG00000160883,HK3,hexokinase 3 [Source:HGNC Symbol;Acc:HGNC:4925],ENTREZGENE_ACC
+80201,ENSG00000156510,HKDC1,hexokinase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:23302],ENTREZGENE_ACC
+3419,ENSG00000166411,IDH3A,isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:5384],ENTREZGENE_ACC
+3420,ENSG00000101365,IDH3B,isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385],ENTREZGENE_ACC
+3421,ENSG00000067829,IDH3G,isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:5386],ENTREZGENE_ACC
+3417,ENSG00000138413,IDH1,isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382],ENTREZGENE_ACC
+3418,ENSG00000182054,IDH2,isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383],ENTREZGENE_ACC
+55586,ENSG00000100253,MIOX,myo-inositol oxygenase [Source:HGNC Symbol;Acc:HGNC:14522],ENTREZGENE_ACC
+8801,ENSG00000172340,SUCLG2,succinate-CoA ligase GDP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11450],ENTREZGENE_ACC
+8802,ENSG00000163541,SUCLG1,succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449],ENTREZGENE_ACC
+8803,ENSG00000136143,SUCLA2,succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448],ENTREZGENE_ACC
+3795,ENSG00000138030,KHK,ketohexokinase [Source:HGNC Symbol;Acc:HGNC:6315],ENTREZGENE_ACC
+124637,ENSG00000182224,CYB5D1,cytochrome b5 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26516],ENTREZGENE_ACC
+4329,ENSG00000119711,ALDH6A1,aldehyde dehydrogenase 6 family member A1 [Source:HGNC Symbol;Acc:HGNC:7179],ENTREZGENE_ACC
+5832,ENSG00000059573,ALDH18A1,aldehyde dehydrogenase 18 family member A1 [Source:HGNC Symbol;Acc:HGNC:9722],ENTREZGENE_ACC
+7915,ENSG00000112294,ALDH5A1,aldehyde dehydrogenase 5 family member A1 [Source:HGNC Symbol;Acc:HGNC:408],ENTREZGENE_ACC
+2739,ENSG00000124767,GLO1,glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323],ENTREZGENE_ACC
+2548,ENSG00000171298,GAA,alpha glucosidase [Source:HGNC Symbol;Acc:HGNC:4065],ENTREZGENE_ACC
+2595,ENSG00000214013,GANC,"glucosidase alpha, neutral C [Source:HGNC Symbol;Acc:HGNC:4139]",ENTREZGENE_ACC
+8972,ENSG00000257335,MGAM,maltase-glucoamylase [Source:HGNC Symbol;Acc:HGNC:7043],ENTREZGENE_ACC
+4351,ENSG00000178802,MPI,mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216],ENTREZGENE_ACC
+4190,ENSG00000014641,MDH1,malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970],ENTREZGENE_ACC
+4191,ENSG00000146701,MDH2,malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971],ENTREZGENE_ACC
+4200,ENSG00000082212,ME2,malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984],ENTREZGENE_ACC
+4199,ENSG00000065833,ME1,malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983],ENTREZGENE_ACC
+10873,ENSG00000151376,ME3,malic enzyme 3 [Source:HGNC Symbol;Acc:HGNC:6985],ENTREZGENE_ACC
+253430,ENSG00000151151,IPMK,inositol polyphosphate multikinase [Source:HGNC Symbol;Acc:HGNC:20739],ENTREZGENE_ACC
+27124,ENSG00000185133,INPP5J,inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:HGNC:8956],ENTREZGENE_ACC
+3632,ENSG00000068383,INPP5A,inositol polyphosphate-5-phosphatase A [Source:HGNC Symbol;Acc:HGNC:6076],ENTREZGENE_ACC
+3633,ENSG00000204084,INPP5B,inositol polyphosphate-5-phosphatase B [Source:HGNC Symbol;Acc:HGNC:6077],ENTREZGENE_ACC
+3635,ENSG00000168918,INPP5D,inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079],ENTREZGENE_ACC
+3636,ENSG00000165458,INPPL1,inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080],ENTREZGENE_ACC
+56623,ENSG00000148384,INPP5E,inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474],ENTREZGENE_ACC
+8867,ENSG00000159082,SYNJ1,synaptojanin 1 [Source:HGNC Symbol;Acc:HGNC:11503],ENTREZGENE_ACC
+3628,ENSG00000151689,INPP1,inositol polyphosphate-1-phosphatase [Source:HGNC Symbol;Acc:HGNC:6071],ENTREZGENE_ACC
+3706,ENSG00000137825,ITPKA,inositol-trisphosphate 3-kinase A [Source:HGNC Symbol;Acc:HGNC:6178],ENTREZGENE_ACC
+3707,ENSG00000143772,ITPKB,inositol-trisphosphate 3-kinase B [Source:HGNC Symbol;Acc:HGNC:6179],ENTREZGENE_ACC
+80271,ENSG00000086544,ITPKC,inositol-trisphosphate 3-kinase C [Source:HGNC Symbol;Acc:HGNC:14897],ENTREZGENE_ACC
+3612,ENSG00000133731,IMPA1,inositol monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050],ENTREZGENE_ACC
+3613,ENSG00000141401,IMPA2,inositol monophosphatase 2 [Source:HGNC Symbol;Acc:HGNC:6051],ENTREZGENE_ACC
+8776,ENSG00000063601,MTMR1,myotubularin related protein 1 [Source:HGNC Symbol;Acc:HGNC:7449],ENTREZGENE_ACC
+8898,ENSG00000087053,MTMR2,myotubularin related protein 2 [Source:HGNC Symbol;Acc:HGNC:7450],ENTREZGENE_ACC
+51477,ENSG00000105655,ISYNA1,inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821],ENTREZGENE_ACC
+3631,ENSG00000040933,INPP4A,inositol polyphosphate-4-phosphatase type I A [Source:HGNC Symbol;Acc:HGNC:6074],ENTREZGENE_ACC
+8821,ENSG00000109452,INPP4B,inositol polyphosphate-4-phosphatase type II B [Source:HGNC Symbol;Acc:HGNC:6075],ENTREZGENE_ACC
+10201,ENSG00000172113,NME6,NME/NM23 nucleoside diphosphate kinase 6 [Source:HGNC Symbol;Acc:HGNC:20567],ENTREZGENE_ACC
+4833,ENSG00000103202,NME4,NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852],ENTREZGENE_ACC
+1629,ENSG00000137992,DBT,dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698],ENTREZGENE_ACC
+593,ENSG00000248098,BCKDHA,branched chain keto acid dehydrogenase E1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:986],ENTREZGENE_ACC
+594,ENSG00000083123,BCKDHB,branched chain keto acid dehydrogenase E1 subunit beta [Source:HGNC Symbol;Acc:HGNC:987],ENTREZGENE_ACC
+4942,ENSG00000065154,OAT,ornithine aminotransferase [Source:HGNC Symbol;Acc:HGNC:8091],ENTREZGENE_ACC
+5091,ENSG00000173599,PC,pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636],ENTREZGENE_ACC
+1737,ENSG00000150768,DLAT,dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896],ENTREZGENE_ACC
+5160,ENSG00000131828,PDHA1,pyruvate dehydrogenase E1 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8806],ENTREZGENE_ACC
+5161,ENSG00000163114,PDHA2,pyruvate dehydrogenase E1 subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8807],ENTREZGENE_ACC
+5162,ENSG00000168291,PDHB,pyruvate dehydrogenase E1 subunit beta [Source:HGNC Symbol;Acc:HGNC:8808],ENTREZGENE_ACC
+5106,ENSG00000100889,PCK2,"phosphoenolpyruvate carboxykinase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:8725]",ENTREZGENE_ACC
+5211,ENSG00000141959,PFKL,"phosphofructokinase, liver type [Source:HGNC Symbol;Acc:HGNC:8876]",ENTREZGENE_ACC
+5213,ENSG00000152556,PFKM,"phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]",ENTREZGENE_ACC
+5214,ENSG00000067057,PFKP,"phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]",ENTREZGENE_ACC
+2821,ENSG00000105220,GPI,glucose-6-phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:4458],ENTREZGENE_ACC
+5230,ENSG00000102144,PGK1,phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896],ENTREZGENE_ACC
+5232,ENSG00000170950,PGK2,phosphoglycerate kinase 2 [Source:HGNC Symbol;Acc:HGNC:8898],ENTREZGENE_ACC
+25796,ENSG00000130313,PGLS,6-phosphogluconolactonase [Source:HGNC Symbol;Acc:HGNC:8903],ENTREZGENE_ACC
+9563,ENSG00000049239,H6PD,hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4795],ENTREZGENE_ACC
+283871,ENSG00000184207,PGP,phosphoglycolate phosphatase [Source:HGNC Symbol;Acc:HGNC:8909],ENTREZGENE_ACC
+5236,ENSG00000079739,PGM1,phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905],ENTREZGENE_ACC
+55276,ENSG00000169299,PGM2,phosphoglucomutase 2 [Source:HGNC Symbol;Acc:HGNC:8906],ENTREZGENE_ACC
+5728,ENSG00000171862,PTEN,phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588],ENTREZGENE_ACC
+8871,ENSG00000078269,SYNJ2,synaptojanin 2 [Source:HGNC Symbol;Acc:HGNC:11504],ENTREZGENE_ACC
+23396,ENSG00000186111,PIP5K1C,phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [Source:HGNC Symbol;Acc:HGNC:8996],ENTREZGENE_ACC
+8394,ENSG00000143398,PIP5K1A,phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [Source:HGNC Symbol;Acc:HGNC:8994],ENTREZGENE_ACC
+8395,ENSG00000107242,PIP5K1B,phosphatidylinositol-4-phosphate 5-kinase type 1 beta [Source:HGNC Symbol;Acc:HGNC:8995],ENTREZGENE_ACC
+5297,ENSG00000241973,PI4KA,phosphatidylinositol 4-kinase alpha [Source:HGNC Symbol;Acc:HGNC:8983],ENTREZGENE_ACC
+5298,ENSG00000143393,PI4KB,phosphatidylinositol 4-kinase beta [Source:HGNC Symbol;Acc:HGNC:8984],ENTREZGENE_ACC
+55361,ENSG00000155252,PI4K2A,phosphatidylinositol 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:30031],ENTREZGENE_ACC
+10870,ENSG00000126264,HCST,hematopoietic cell signal transducer [Source:HGNC Symbol;Acc:HGNC:16977],ENTREZGENE_ACC
+23533,ENSG00000141506,PIK3R5,phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035],ENTREZGENE_ACC
+5290,ENSG00000121879,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]",ENTREZGENE_ACC
+5291,ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]",ENTREZGENE_ACC
+5293,ENSG00000171608,PIK3CD,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]",ENTREZGENE_ACC
+5294,ENSG00000105851,PIK3CG,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]",ENTREZGENE_ACC
+5295,ENSG00000145675,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979],ENTREZGENE_ACC
+5296,ENSG00000105647,PIK3R2,phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980],ENTREZGENE_ACC
+8503,ENSG00000117461,PIK3R3,phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981],ENTREZGENE_ACC
+4952,ENSG00000122126,OCRL,OCRL inositol polyphosphate-5-phosphatase [Source:HGNC Symbol;Acc:HGNC:8108],ENTREZGENE_ACC
+113026,ENSG00000161714,PLCD3,phospholipase C delta 3 [Source:HGNC Symbol;Acc:HGNC:9061],ENTREZGENE_ACC
+23007,ENSG00000114805,PLCH1,phospholipase C eta 1 [Source:HGNC Symbol;Acc:HGNC:29185],ENTREZGENE_ACC
+23236,ENSG00000182621,PLCB1,phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917],ENTREZGENE_ACC
+257068,ENSG00000240891,PLCXD2,phosphatidylinositol specific phospholipase C X domain containing 2 [Source:HGNC Symbol;Acc:HGNC:26462],ENTREZGENE_ACC
+51196,ENSG00000138193,PLCE1,phospholipase C epsilon 1 [Source:HGNC Symbol;Acc:HGNC:17175],ENTREZGENE_ACC
+5330,ENSG00000137841,PLCB2,phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055],ENTREZGENE_ACC
+5331,ENSG00000149782,PLCB3,phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056],ENTREZGENE_ACC
+5332,ENSG00000101333,PLCB4,phospholipase C beta 4 [Source:HGNC Symbol;Acc:HGNC:9059],ENTREZGENE_ACC
+5333,ENSG00000187091,PLCD1,phospholipase C delta 1 [Source:HGNC Symbol;Acc:HGNC:9060],ENTREZGENE_ACC
+5334,ENSG00000115896,PLCL1,phospholipase C like 1 (inactive) [Source:HGNC Symbol;Acc:HGNC:9063],ENTREZGENE_ACC
+5335,ENSG00000124181,PLCG1,phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065],ENTREZGENE_ACC
+5336,ENSG00000197943,PLCG2,phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066],ENTREZGENE_ACC
+84812,ENSG00000115556,PLCD4,phospholipase C delta 4 [Source:HGNC Symbol;Acc:HGNC:9062],ENTREZGENE_ACC
+89869,ENSG00000139151,PLCZ1,phospholipase C zeta 1 [Source:HGNC Symbol;Acc:HGNC:19218],ENTREZGENE_ACC
+9651,ENSG00000149527,PLCH2,phospholipase C eta 2 [Source:HGNC Symbol;Acc:HGNC:29037],ENTREZGENE_ACC
+5286,ENSG00000011405,PIK3C2A,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8971],ENTREZGENE_ACC
+5287,ENSG00000133056,PIK3C2B,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [Source:HGNC Symbol;Acc:HGNC:8972],ENTREZGENE_ACC
+5288,ENSG00000139144,PIK3C2G,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 gamma [Source:HGNC Symbol;Acc:HGNC:8973],ENTREZGENE_ACC
+200576,ENSG00000115020,PIKFYVE,"phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]",ENTREZGENE_ACC
+5305,ENSG00000150867,PIP4K2A,phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8997],ENTREZGENE_ACC
+79837,ENSG00000166908,PIP4K2C,phosphatidylinositol-5-phosphate 4-kinase type 2 gamma [Source:HGNC Symbol;Acc:HGNC:23786],ENTREZGENE_ACC
+8396,ENSG00000276293,PIP4K2B,phosphatidylinositol-5-phosphate 4-kinase type 2 beta [Source:HGNC Symbol;Acc:HGNC:8998],ENTREZGENE_ACC
+5289,ENSG00000078142,PIK3C3,phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974],ENTREZGENE_ACC
+5250,ENSG00000075415,SLC25A3,solute carrier family 25 member 3 [Source:HGNC Symbol;Acc:HGNC:10989],ENTREZGENE_ACC
+5372,ENSG00000100417,PMM1,phosphomannomutase 1 [Source:HGNC Symbol;Acc:HGNC:9114],ENTREZGENE_ACC
+5373,ENSG00000140650,PMM2,phosphomannomutase 2 [Source:HGNC Symbol;Acc:HGNC:9115],ENTREZGENE_ACC
+117283,ENSG00000161896,IP6K3,inositol hexakisphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:17269],ENTREZGENE_ACC
+9807,ENSG00000176095,IP6K1,inositol hexakisphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18360],ENTREZGENE_ACC
+51447,ENSG00000068745,IP6K2,inositol hexakisphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:17313],ENTREZGENE_ACC
+5095,ENSG00000175198,PCCA,propionyl-CoA carboxylase subunit alpha [Source:HGNC Symbol;Acc:HGNC:8653],ENTREZGENE_ACC
+5096,ENSG00000114054,PCCB,propionyl-CoA carboxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8654],ENTREZGENE_ACC
+221823,ENSG00000229937,PRPS1L1,phosphoribosyl pyrophosphate synthetase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:9463],ENTREZGENE_ACC
+5631,ENSG00000147224,PRPS1,phosphoribosyl pyrophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9462],ENTREZGENE_ACC
+5634,ENSG00000101911,PRPS2,phosphoribosyl pyrophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:9465],ENTREZGENE_ACC
+5313,ENSG00000143627,PKLR,pyruvate kinase L/R [Source:HGNC Symbol;Acc:HGNC:9020],ENTREZGENE_ACC
+5315,ENSG00000067225,PKM,pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021],ENTREZGENE_ACC
+2875,ENSG00000167701,GPT,glutamic--pyruvic transaminase [Source:HGNC Symbol;Acc:HGNC:4552],ENTREZGENE_ACC
+84706,ENSG00000166123,GPT2,glutamic--pyruvic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:18062],ENTREZGENE_ACC
+112724,ENSG00000160439,RDH13,retinol dehydrogenase 13 [Source:HGNC Symbol;Acc:HGNC:19978],ENTREZGENE_ACC
+145226,ENSG00000139988,RDH12,retinol dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:19977],ENTREZGENE_ACC
+157506,ENSG00000121039,RDH10,retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975],ENTREZGENE_ACC
+195814,ENSG00000170786,SDR16C5,short chain dehydrogenase/reductase family 16C member 5 [Source:HGNC Symbol;Acc:HGNC:30311],ENTREZGENE_ACC
+50700,ENSG00000080511,RDH8,retinol dehydrogenase 8 [Source:HGNC Symbol;Acc:HGNC:14423],ENTREZGENE_ACC
+51109,ENSG00000072042,RDH11,retinol dehydrogenase 11 [Source:HGNC Symbol;Acc:HGNC:17964],ENTREZGENE_ACC
+57665,ENSG00000240857,RDH14,retinol dehydrogenase 14 [Source:HGNC Symbol;Acc:HGNC:19979],ENTREZGENE_ACC
+6120,ENSG00000197713,RPE,ribulose-5-phosphate-3-epimerase [Source:HGNC Symbol;Acc:HGNC:10293],ENTREZGENE_ACC
+22934,ENSG00000153574,RPIA,ribose 5-phosphate isomerase A [Source:HGNC Symbol;Acc:HGNC:10297],ENTREZGENE_ACC
+6652,ENSG00000140263,SORD,sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184],ENTREZGENE_ACC
+6342,ENSG00000116171,SCP2,sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606],ENTREZGENE_ACC
+10993,ENSG00000135094,SDS,serine dehydratase [Source:HGNC Symbol;Acc:HGNC:10691],ENTREZGENE_ACC
+113675,ENSG00000139410,SDSL,serine dehydratase like [Source:HGNC Symbol;Acc:HGNC:30404],ENTREZGENE_ACC
+6389,ENSG00000073578,SDHA,succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680],ENTREZGENE_ACC
+6390,ENSG00000117118,SDHB,succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681],ENTREZGENE_ACC
+6391,ENSG00000143252,SDHC,succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682],ENTREZGENE_ACC
+6392,ENSG00000204370,SDHD,succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683],ENTREZGENE_ACC
+6888,ENSG00000177156,TALDO1,transaldolase 1 [Source:HGNC Symbol;Acc:HGNC:11559],ENTREZGENE_ACC
+23483,ENSG00000088451,TGDS,"TDP-glucose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:20324]",ENTREZGENE_ACC
+7086,ENSG00000163931,TKT,transketolase [Source:HGNC Symbol;Acc:HGNC:11834],ENTREZGENE_ACC
+8277,ENSG00000007350,TKTL1,transketolase like 1 [Source:HGNC Symbol;Acc:HGNC:11835],ENTREZGENE_ACC
+84076,ENSG00000151005,TKTL2,transketolase like 2 [Source:HGNC Symbol;Acc:HGNC:25313],ENTREZGENE_ACC
+7084,ENSG00000166548,TK2,thymidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:11831],ENTREZGENE_ACC
+7167,ENSG00000111669,TPI1,triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009],ENTREZGENE_ACC
+11181,ENSG00000118094,TREH,trehalase [Source:HGNC Symbol;Acc:HGNC:12266],ENTREZGENE_ACC
+6675,ENSG00000117143,UAP1,UDP-N-acetylglucosamine pyrophosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12457],ENTREZGENE_ACC
+91373,ENSG00000197355,UAP1L1,UDP-N-acetylglucosamine pyrophosphorylase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:28082],ENTREZGENE_ACC
+2582,ENSG00000117308,GALE,UDP-galactose-4-epimerase [Source:HGNC Symbol;Acc:HGNC:4116],ENTREZGENE_ACC
+7355,ENSG00000102100,SLC35A2,solute carrier family 35 member A2 [Source:HGNC Symbol;Acc:HGNC:11022],ENTREZGENE_ACC
+7358,ENSG00000109814,UGDH,UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525],ENTREZGENE_ACC
+80146,ENSG00000115652,UXS1,UDP-glucuronate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:17729],ENTREZGENE_ACC
+5167,ENSG00000197594,ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:3356],ENTREZGENE_ACC
+5168,ENSG00000136960,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357],ENTREZGENE_ACC
+5169,ENSG00000154269,ENPP3,ectonucleotide pyrophosphatase/phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:3358],ENTREZGENE_ACC
+2683,ENSG00000086062,B4GALT1,"beta-1,4-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:924]",ENTREZGENE_ACC
+8704,ENSG00000117411,B4GALT2,"beta-1,4-galactosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:925]",ENTREZGENE_ACC
+51727,ENSG00000162368,CMPK1,cytidine/uridine monophosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18170],ENTREZGENE_ACC
+1593,ENSG00000135929,CYP27A1,cytochrome P450 family 27 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2605],ENTREZGENE_ACC
+9942,ENSG00000093217,XYLB,xylulokinase [Source:HGNC Symbol;Acc:HGNC:12839],ENTREZGENE_ACC
+51181,ENSG00000169738,DCXR,dicarbonyl and L-xylulose reductase [Source:HGNC Symbol;Acc:HGNC:18985],ENTREZGENE_ACC
+6319,ENSG00000099194,SCD,stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571],ENTREZGENE_ACC
+9415,ENSG00000134824,FADS2,fatty acid desaturase 2 [Source:HGNC Symbol;Acc:HGNC:3575],ENTREZGENE_ACC
+2180,ENSG00000151726,ACSL1,acyl-CoA synthetase long chain family member 1 [Source:HGNC Symbol;Acc:HGNC:3569],ENTREZGENE_ACC
+126129,ENSG00000169169,CPT1C,carnitine palmitoyltransferase 1C [Source:HGNC Symbol;Acc:HGNC:18540],ENTREZGENE_ACC
+1374,ENSG00000110090,CPT1A,carnitine palmitoyltransferase 1A [Source:HGNC Symbol;Acc:HGNC:2328],ENTREZGENE_ACC
+1375,ENSG00000205560,CPT1B,carnitine palmitoyltransferase 1B [Source:HGNC Symbol;Acc:HGNC:2329],ENTREZGENE_ACC
+80235,ENSG00000119227,PIGZ,phosphatidylinositol glycan anchor biosynthesis class Z [Source:HGNC Symbol;Acc:HGNC:30596],ENTREZGENE_ACC
+1962,ENSG00000113790,EHHADH,enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247],ENTREZGENE_ACC
+30,ENSG00000060971,ACAA1,acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82],ENTREZGENE_ACC
+3295,ENSG00000133835,HSD17B4,hydroxysteroid 17-beta dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213],ENTREZGENE_ACC
+51,ENSG00000161533,ACOX1,acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119],ENTREZGENE_ACC
+1376,ENSG00000157184,CPT2,carnitine palmitoyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:2330],ENTREZGENE_ACC
+26,ENSG00000002726,AOC1,amine oxidase copper containing 1 [Source:HGNC Symbol;Acc:HGNC:80],ENTREZGENE_ACC
+314,ENSG00000131480,AOC2,amine oxidase copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549],ENTREZGENE_ACC
+1591,ENSG00000019186,CYP24A1,cytochrome P450 family 24 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2602],ENTREZGENE_ACC
+1594,ENSG00000111012,CYP27B1,cytochrome P450 family 27 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2606],ENTREZGENE_ACC
+6818,ENSG00000261052,SULT1A3,sulfotransferase family 1A member 3 [Source:HGNC Symbol;Acc:HGNC:11455],ENTREZGENE_ACC
+89874,ENSG00000183032,SLC25A21,solute carrier family 25 member 21 [Source:HGNC Symbol;Acc:HGNC:14411],ENTREZGENE_ACC
+1312,ENSG00000093010,COMT,catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228],ENTREZGENE_ACC
+3242,ENSG00000158104,HPD,4-hydroxyphenylpyruvate dioxygenase [Source:HGNC Symbol;Acc:HGNC:5147],ENTREZGENE_ACC
+2531,ENSG00000119537,KDSR,3-ketodihydrosphingosine reductase [Source:HGNC Symbol;Acc:HGNC:4021],ENTREZGENE_ACC
+23498,ENSG00000162882,HAAO,"3-hydroxyanthranilate 3,4-dioxygenase [Source:HGNC Symbol;Acc:HGNC:4796]",ENTREZGENE_ACC
+55268,ENSG00000121310,ECHDC2,enoyl-CoA hydratase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:23408],ENTREZGENE_ACC
+51166,ENSG00000109576,AADAT,aminoadipate aminotransferase [Source:HGNC Symbol;Acc:HGNC:17929],ENTREZGENE_ACC
+883,ENSG00000171097,KYAT1,kynurenine aminotransferase 1 [Source:HGNC Symbol;Acc:HGNC:1564],ENTREZGENE_ACC
+883,ENSG00000286112,KYAT1,kynurenine aminotransferase 1 [Source:NCBI gene (formerly Entrezgene);Acc:883],ENTREZGENE_ACC
+1644,ENSG00000132437,DDC,dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719],ENTREZGENE_ACC
+26275,ENSG00000198130,HIBCH,3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908],ENTREZGENE_ACC
+4128,ENSG00000189221,MAOA,monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833],ENTREZGENE_ACC
+4129,ENSG00000069535,MAOB,monoamine oxidase B [Source:HGNC Symbol;Acc:HGNC:6834],ENTREZGENE_ACC
+53,ENSG00000134575,ACP2,"acid phosphatase 2, lysosomal [Source:HGNC Symbol;Acc:HGNC:123]",ENTREZGENE_ACC
+55,ENSG00000014257,ACP3,acid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:125],ENTREZGENE_ACC
+51380,ENSG00000139631,CSAD,cysteine sulfinic acid decarboxylase [Source:HGNC Symbol;Acc:HGNC:18966],ENTREZGENE_ACC
+6799,ENSG00000197165,SULT1A2,sulfotransferase family 1A member 2 [Source:HGNC Symbol;Acc:HGNC:11454],ENTREZGENE_ACC
+6817,ENSG00000196502,SULT1A1,sulfotransferase family 1A member 1 [Source:HGNC Symbol;Acc:HGNC:11453],ENTREZGENE_ACC
+6817,ENSG00000289755,None,novel transcript,ENTREZGENE_ACC
+6822,ENSG00000105398,SULT2A1,sulfotransferase family 2A member 1 [Source:HGNC Symbol;Acc:HGNC:11458],ENTREZGENE_ACC
+316,ENSG00000138356,AOX1,aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553],ENTREZGENE_ACC
+3620,ENSG00000131203,IDO1,"indoleamine 2,3-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:6059]",ENTREZGENE_ACC
+4123,ENSG00000140400,MAN2C1,mannosidase alpha class 2C member 1 [Source:HGNC Symbol;Acc:HGNC:6827],ENTREZGENE_ACC
+4125,ENSG00000104774,MAN2B1,mannosidase alpha class 2B member 1 [Source:HGNC Symbol;Acc:HGNC:6826],ENTREZGENE_ACC
+53947,ENSG00000128274,A4GALT,"alpha 1,4-galactosyltransferase (P blood group) [Source:HGNC Symbol;Acc:HGNC:18149]",ENTREZGENE_ACC
+51146,ENSG00000118017,A4GNT,"alpha-1,4-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:17968]",ENTREZGENE_ACC
+28,ENSG00000175164,ABO,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase [Source:HGNC Symbol;Acc:HGNC:79]",ENTREZGENE_ACC
+206358,ENSG00000123643,SLC36A1,solute carrier family 36 member 1 [Source:HGNC Symbol;Acc:HGNC:18761],ENTREZGENE_ACC
+10449,ENSG00000167315,ACAA2,acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83],ENTREZGENE_ACC
+3032,ENSG00000138029,HADHB,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [Source:HGNC Symbol;Acc:HGNC:4803],ENTREZGENE_ACC
+31,ENSG00000278540,ACACA,acetyl-CoA carboxylase alpha [Source:HGNC Symbol;Acc:HGNC:84],ENTREZGENE_ACC
+32,ENSG00000076555,ACACB,acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:HGNC:85],ENTREZGENE_ACC
+9197,ENSG00000169359,SLC33A1,solute carrier family 33 member 1 [Source:HGNC Symbol;Acc:HGNC:95],ENTREZGENE_ACC
+64841,ENSG00000100522,GNPNAT1,glucosamine-phosphate N-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:19980],ENTREZGENE_ACC
+9487,ENSG00000108474,PIGL,phosphatidylinositol glycan anchor biosynthesis class L [Source:HGNC Symbol;Acc:HGNC:8966],ENTREZGENE_ACC
+162417,ENSG00000161653,NAGS,N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996],ENTREZGENE_ACC
+26503,ENSG00000119899,SLC17A5,solute carrier family 17 member 5 [Source:HGNC Symbol;Acc:HGNC:10933],ENTREZGENE_ACC
+3712,ENSG00000128928,IVD,isovaleryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:6186],ENTREZGENE_ACC
+2194,ENSG00000169710,FASN,fatty acid synthase [Source:HGNC Symbol;Acc:HGNC:3594],ENTREZGENE_ACC
+95,ENSG00000243989,ACY1,aminoacylase 1 [Source:HGNC Symbol;Acc:HGNC:177],ENTREZGENE_ACC
+8309,ENSG00000168306,ACOX2,acyl-CoA oxidase 2 [Source:HGNC Symbol;Acc:HGNC:120],ENTREZGENE_ACC
+788,ENSG00000178537,SLC25A20,solute carrier family 25 member 20 [Source:HGNC Symbol;Acc:HGNC:1421],ENTREZGENE_ACC
+438,ENSG00000196433,ASMT,acetylserotonin O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:750],ENTREZGENE_ACC
+438,ENSG00000292336,ASMT,acetylserotonin O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:750],ENTREZGENE_ACC
+100,ENSG00000196839,ADA,adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186],ENTREZGENE_ACC
+55315,ENSG00000198246,SLC29A3,solute carrier family 29 member 3 [Source:HGNC Symbol;Acc:HGNC:23096],ENTREZGENE_ACC
+205,ENSG00000162433,AK4,adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363],ENTREZGENE_ACC
+50808,ENSG00000147853,AK3,adenylate kinase 3 [Source:HGNC Symbol;Acc:HGNC:17376],ENTREZGENE_ACC
+262,ENSG00000123505,AMD1,adenosylmethionine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:457],ENTREZGENE_ACC
+107,ENSG00000164742,ADCY1,adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232],ENTREZGENE_ACC
+108,ENSG00000078295,ADCY2,adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233],ENTREZGENE_ACC
+109,ENSG00000138031,ADCY3,adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234],ENTREZGENE_ACC
+111,ENSG00000173175,ADCY5,adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236],ENTREZGENE_ACC
+112,ENSG00000174233,ADCY6,adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237],ENTREZGENE_ACC
+113,ENSG00000121281,ADCY7,adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238],ENTREZGENE_ACC
+114,ENSG00000155897,ADCY8,adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239],ENTREZGENE_ACC
+115,ENSG00000162104,ADCY9,adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240],ENTREZGENE_ACC
+196883,ENSG00000129467,ADCY4,adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235],ENTREZGENE_ACC
+55811,ENSG00000143199,ADCY10,adenylate cyclase 10 [Source:HGNC Symbol;Acc:HGNC:21285],ENTREZGENE_ACC
+132,ENSG00000156110,ADK,adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257],ENTREZGENE_ACC
+11164,ENSG00000165609,NUDT5,nudix hydrolase 5 [Source:HGNC Symbol;Acc:HGNC:8052],ENTREZGENE_ACC
+53343,ENSG00000170502,NUDT9,nudix hydrolase 9 [Source:HGNC Symbol;Acc:HGNC:8056],ENTREZGENE_ACC
+353,ENSG00000198931,APRT,adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626],ENTREZGENE_ACC
+9060,ENSG00000198682,PAPSS2,3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604],ENTREZGENE_ACC
+9061,ENSG00000138801,PAPSS1,3'-phosphoadenosine 5'-phosphosulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:8603],ENTREZGENE_ACC
+158,ENSG00000239900,ADSL,adenylosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:291],ENTREZGENE_ACC
+122622,ENSG00000185100,ADSS1,adenylosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:20093],ENTREZGENE_ACC
+159,ENSG00000035687,ADSS2,adenylosuccinate synthase 2 [Source:HGNC Symbol;Acc:HGNC:292],ENTREZGENE_ACC
+10331,ENSG00000179913,B3GNT3,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:13528]",ENTREZGENE_ACC
+10678,ENSG00000170340,B3GNT2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15629]",ENTREZGENE_ACC
+11041,ENSG00000174684,B4GAT1,"beta-1,4-glucuronyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]",ENTREZGENE_ACC
+146712,ENSG00000175711,B3GNTL1,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase like 1 [Source:HGNC Symbol;Acc:HGNC:21727]",ENTREZGENE_ACC
+374907,ENSG00000177191,B3GNT8,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:24139]",ENTREZGENE_ACC
+79369,ENSG00000176383,B3GNT4,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:15683]",ENTREZGENE_ACC
+93010,ENSG00000156966,B3GNT7,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:18811]",ENTREZGENE_ACC
+79814,ENSG00000116771,AGMAT,agmatinase [Source:HGNC Symbol;Acc:HGNC:18407],ENTREZGENE_ACC
+10554,ENSG00000204310,AGPAT1,1-acylglycerol-3-phosphate O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:324],ENTREZGENE_ACC
+10555,ENSG00000169692,AGPAT2,1-acylglycerol-3-phosphate O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:325],ENTREZGENE_ACC
+129642,ENSG00000143797,MBOAT2,membrane bound O-acyltransferase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25193],ENTREZGENE_ACC
+137964,ENSG00000158669,GPAT4,glycerol-3-phosphate acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:20880],ENTREZGENE_ACC
+55326,ENSG00000155189,AGPAT5,1-acylglycerol-3-phosphate O-acyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:20886],ENTREZGENE_ACC
+56894,ENSG00000160216,AGPAT3,1-acylglycerol-3-phosphate O-acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:326],ENTREZGENE_ACC
+56895,ENSG00000026652,AGPAT4,1-acylglycerol-3-phosphate O-acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:20885],ENTREZGENE_ACC
+8540,ENSG00000018510,AGPS,alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327],ENTREZGENE_ACC
+10768,ENSG00000168710,AHCYL1,adenosylhomocysteinase like 1 [Source:HGNC Symbol;Acc:HGNC:344],ENTREZGENE_ACC
+191,ENSG00000101444,AHCY,adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343],ENTREZGENE_ACC
+23382,ENSG00000158467,AHCYL2,adenosylhomocysteinase like 2 [Source:HGNC Symbol;Acc:HGNC:22204],ENTREZGENE_ACC
+3073,ENSG00000213614,HEXA,hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878],ENTREZGENE_ACC
+3074,ENSG00000049860,HEXB,hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879],ENTREZGENE_ACC
+471,ENSG00000138363,ATIC,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase [Source:HGNC Symbol;Acc:HGNC:794],ENTREZGENE_ACC
+1645,ENSG00000187134,AKR1C1,aldo-keto reductase family 1 member C1 [Source:HGNC Symbol;Acc:HGNC:384],ENTREZGENE_ACC
+1109,ENSG00000198610,AKR1C4,aldo-keto reductase family 1 member C4 [Source:HGNC Symbol;Acc:HGNC:387],ENTREZGENE_ACC
+6718,ENSG00000122787,AKR1D1,aldo-keto reductase family 1 member D1 [Source:HGNC Symbol;Acc:HGNC:388],ENTREZGENE_ACC
+11212,ENSG00000147471,PLPBP,pyridoxal phosphate binding protein [Source:HGNC Symbol;Acc:HGNC:9457],ENTREZGENE_ACC
+211,ENSG00000023330,ALAS1,5'-aminolevulinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:396],ENTREZGENE_ACC
+212,ENSG00000158578,ALAS2,5'-aminolevulinate synthase 2 [Source:HGNC Symbol;Acc:HGNC:397],ENTREZGENE_ACC
+248,ENSG00000163295,ALPI,"alkaline phosphatase, intestinal [Source:HGNC Symbol;Acc:HGNC:437]",ENTREZGENE_ACC
+249,ENSG00000162551,ALPL,"alkaline phosphatase, biomineralization associated [Source:HGNC Symbol;Acc:HGNC:438]",ENTREZGENE_ACC
+250,ENSG00000163283,ALPP,"alkaline phosphatase, placental [Source:HGNC Symbol;Acc:HGNC:439]",ENTREZGENE_ACC
+251,ENSG00000163286,ALPG,"alkaline phosphatase, germ cell [Source:HGNC Symbol;Acc:HGNC:441]",ENTREZGENE_ACC
+239,ENSG00000108839,ALOX12,"arachidonate 12-lipoxygenase, 12S type [Source:HGNC Symbol;Acc:HGNC:429]",ENTREZGENE_ACC
+242,ENSG00000179477,ALOX12B,"arachidonate 12-lipoxygenase, 12R type [Source:HGNC Symbol;Acc:HGNC:430]",ENTREZGENE_ACC
+246,ENSG00000161905,ALOX15,arachidonate 15-lipoxygenase [Source:HGNC Symbol;Acc:HGNC:433],ENTREZGENE_ACC
+247,ENSG00000179593,ALOX15B,arachidonate 15-lipoxygenase type B [Source:HGNC Symbol;Acc:HGNC:434],ENTREZGENE_ACC
+240,ENSG00000012779,ALOX5,arachidonate 5-lipoxygenase [Source:HGNC Symbol;Acc:HGNC:435],ENTREZGENE_ACC
+23600,ENSG00000242110,AMACR,alpha-methylacyl-CoA racemase [Source:HGNC Symbol;Acc:HGNC:451],ENTREZGENE_ACC
+115286,ENSG00000144741,SLC25A26,solute carrier family 25 member 26 [Source:HGNC Symbol;Acc:HGNC:20661],ENTREZGENE_ACC
+270,ENSG00000116748,AMPD1,adenosine monophosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:468],ENTREZGENE_ACC
+271,ENSG00000116337,AMPD2,adenosine monophosphate deaminase 2 [Source:HGNC Symbol;Acc:HGNC:469],ENTREZGENE_ACC
+272,ENSG00000133805,AMPD3,adenosine monophosphate deaminase 3 [Source:HGNC Symbol;Acc:HGNC:470],ENTREZGENE_ACC
+290,ENSG00000166825,ANPEP,"alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]",ENTREZGENE_ACC
+318,ENSG00000164978,NUDT2,nudix hydrolase 2 [Source:HGNC Symbol;Acc:HGNC:8049],ENTREZGENE_ACC
+113451,ENSG00000142920,AZIN2,antizyme inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:29957],ENTREZGENE_ACC
+383,ENSG00000118520,ARG1,arginase 1 [Source:HGNC Symbol;Acc:HGNC:663],ENTREZGENE_ACC
+384,ENSG00000081181,ARG2,arginase 2 [Source:HGNC Symbol;Acc:HGNC:664],ENTREZGENE_ACC
+435,ENSG00000126522,ASL,argininosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:746],ENTREZGENE_ACC
+445,ENSG00000130707,ASS1,argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758],ENTREZGENE_ACC
+10166,ENSG00000102743,SLC25A15,solute carrier family 25 member 15 [Source:HGNC Symbol;Acc:HGNC:10985],ENTREZGENE_ACC
+83884,ENSG00000120329,SLC25A2,solute carrier family 25 member 2 [Source:HGNC Symbol;Acc:HGNC:22921],ENTREZGENE_ACC
+410,ENSG00000100299,ARSA,arylsulfatase A [Source:HGNC Symbol;Acc:HGNC:713],ENTREZGENE_ACC
+427,ENSG00000104763,ASAH1,N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735],ENTREZGENE_ACC
+80150,ENSG00000162174,ASRGL1,asparaginase and isoaspartyl peptidase 1 [Source:HGNC Symbol;Acc:HGNC:16448],ENTREZGENE_ACC
+440,ENSG00000070669,ASNS,asparagine synthetase (glutamine-hydrolyzing) [Source:HGNC Symbol;Acc:HGNC:753],ENTREZGENE_ACC
+2571,ENSG00000128683,GAD1,glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092],ENTREZGENE_ACC
+790,ENSG00000084774,CAD,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]",ENTREZGENE_ACC
+10312,ENSG00000110719,TCIRG1,"T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]",ENTREZGENE_ACC
+127124,ENSG00000151418,ATP6V1G3,ATPase H+ transporting V1 subunit G3 [Source:HGNC Symbol;Acc:HGNC:18265],ENTREZGENE_ACC
+23545,ENSG00000185344,ATP6V0A2,ATPase H+ transporting V0 subunit a2 [Source:HGNC Symbol;Acc:HGNC:18481],ENTREZGENE_ACC
+245972,ENSG00000147614,ATP6V0D2,ATPase H+ transporting V0 subunit d2 [Source:HGNC Symbol;Acc:HGNC:18266],ENTREZGENE_ACC
+245973,ENSG00000143882,ATP6V1C2,ATPase H+ transporting V1 subunit C2 [Source:HGNC Symbol;Acc:HGNC:18264],ENTREZGENE_ACC
+50617,ENSG00000105929,ATP6V0A4,ATPase H+ transporting V0 subunit a4 [Source:HGNC Symbol;Acc:HGNC:866],ENTREZGENE_ACC
+51382,ENSG00000100554,ATP6V1D,ATPase H+ transporting V1 subunit D [Source:HGNC Symbol;Acc:HGNC:13527],ENTREZGENE_ACC
+51606,ENSG00000047249,ATP6V1H,ATPase H+ transporting V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303],ENTREZGENE_ACC
+523,ENSG00000114573,ATP6V1A,ATPase H+ transporting V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851],ENTREZGENE_ACC
+525,ENSG00000116039,ATP6V1B1,ATPase H+ transporting V1 subunit B1 [Source:HGNC Symbol;Acc:HGNC:853],ENTREZGENE_ACC
+526,ENSG00000147416,ATP6V1B2,ATPase H+ transporting V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854],ENTREZGENE_ACC
+527,ENSG00000185883,ATP6V0C,ATPase H+ transporting V0 subunit c [Source:HGNC Symbol;Acc:HGNC:855],ENTREZGENE_ACC
+528,ENSG00000155097,ATP6V1C1,ATPase H+ transporting V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856],ENTREZGENE_ACC
+529,ENSG00000131100,ATP6V1E1,ATPase H+ transporting V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857],ENTREZGENE_ACC
+533,ENSG00000117410,ATP6V0B,ATPase H+ transporting V0 subunit b [Source:HGNC Symbol;Acc:HGNC:861],ENTREZGENE_ACC
+534,ENSG00000213760,ATP6V1G2,ATPase H+ transporting V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862],ENTREZGENE_ACC
+535,ENSG00000033627,ATP6V0A1,ATPase H+ transporting V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865],ENTREZGENE_ACC
+8992,ENSG00000113732,ATP6V0E1,ATPase H+ transporting V0 subunit e1 [Source:HGNC Symbol;Acc:HGNC:863],ENTREZGENE_ACC
+90423,ENSG00000250565,ATP6V1E2,ATPase H+ transporting V1 subunit E2 [Source:HGNC Symbol;Acc:HGNC:18125],ENTREZGENE_ACC
+9114,ENSG00000159720,ATP6V0D1,ATPase H+ transporting V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724],ENTREZGENE_ACC
+9296,ENSG00000128524,ATP6V1F,ATPase H+ transporting V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832],ENTREZGENE_ACC
+9550,ENSG00000136888,ATP6V1G1,ATPase H+ transporting V1 subunit G1 [Source:HGNC Symbol;Acc:HGNC:864],ENTREZGENE_ACC
+291,ENSG00000151729,SLC25A4,solute carrier family 25 member 4 [Source:HGNC Symbol;Acc:HGNC:10990],ENTREZGENE_ACC
+292,ENSG00000005022,SLC25A5,solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991],ENTREZGENE_ACC
+293,ENSG00000169100,SLC25A6,solute carrier family 25 member 6 [Source:HGNC Symbol;Acc:HGNC:10992],ENTREZGENE_ACC
+293,ENSG00000292334,SLC25A6,solute carrier family 25 member 6 [Source:HGNC Symbol;Acc:HGNC:10992],ENTREZGENE_ACC
+4126,ENSG00000109323,MANBA,mannosidase beta [Source:HGNC Symbol;Acc:HGNC:6831],ENTREZGENE_ACC
+8706,ENSG00000169255,B3GALNT1,"beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group) [Source:HGNC Symbol;Acc:HGNC:918]",ENTREZGENE_ACC
+8705,ENSG00000235863,B3GALT4,"beta-1,3-galactosyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:919]",ENTREZGENE_ACC
+10317,ENSG00000183778,B3GALT5,"beta-1,3-galactosyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:920]",ENTREZGENE_ACC
+84002,ENSG00000176597,B3GNT5,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:15684]",ENTREZGENE_ACC
+570,ENSG00000136881,BAAT,bile acid-CoA:amino acid N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:932],ENTREZGENE_ACC
+3141,ENSG00000159267,HLCS,holocarboxylase synthetase [Source:HGNC Symbol;Acc:HGNC:4976],ENTREZGENE_ACC
+8424,ENSG00000129151,BBOX1,gamma-butyrobetaine hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:964],ENTREZGENE_ACC
+53630,ENSG00000135697,BCO1,beta-carotene oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:13815],ENTREZGENE_ACC
+57733,ENSG00000249948,GBA3,glucosylceramidase beta 3 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:19069],ENTREZGENE_ACC
+56052,ENSG00000033011,ALG1,ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase [Source:HGNC Symbol;Acc:HGNC:18294],ENTREZGENE_ACC
+635,ENSG00000145692,BHMT,betaine--homocysteine S-methyltransferase [Source:HGNC Symbol;Acc:HGNC:1047],ENTREZGENE_ACC
+644,ENSG00000106605,BLVRA,biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062],ENTREZGENE_ACC
+645,ENSG00000090013,BLVRB,biliverdin reductase B [Source:HGNC Symbol;Acc:HGNC:1063],ENTREZGENE_ACC
+9488,ENSG00000069943,PIGB,phosphatidylinositol glycan anchor biosynthesis class B [Source:HGNC Symbol;Acc:HGNC:8959],ENTREZGENE_ACC
+10380,ENSG00000162813,BPNT1,"3'(2'), 5'-bisphosphate nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:1096]",ENTREZGENE_ACC
+686,ENSG00000169814,BTD,biotinidase [Source:HGNC Symbol;Acc:HGNC:1122],ENTREZGENE_ACC
+51733,ENSG00000100024,UPB1,beta-ureidopropionase 1 [Source:HGNC Symbol;Acc:HGNC:16297],ENTREZGENE_ACC
+3030,ENSG00000084754,HADHA,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801],ENTREZGENE_ACC
+549,ENSG00000148090,AUH,AU RNA binding methylglutaconyl-CoA hydratase [Source:HGNC Symbol;Acc:HGNC:890],ENTREZGENE_ACC
+1891,ENSG00000104823,ECH1,enoyl-CoA hydratase 1 [Source:HGNC Symbol;Acc:HGNC:3149],ENTREZGENE_ACC
+6307,ENSG00000052802,MSMO1,methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545],ENTREZGENE_ACC
+166785,ENSG00000151611,MMAA,metabolism of cobalamin associated A [Source:HGNC Symbol;Acc:HGNC:18871],ENTREZGENE_ACC
+1373,ENSG00000021826,CPS1,carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323],ENTREZGENE_ACC
+873,ENSG00000159228,CBR1,carbonyl reductase 1 [Source:HGNC Symbol;Acc:HGNC:1548],ENTREZGENE_ACC
+1040,ENSG00000163624,CDS1,CDP-diacylglycerol synthase 1 [Source:HGNC Symbol;Acc:HGNC:1800],ENTREZGENE_ACC
+8760,ENSG00000101290,CDS2,CDP-diacylglycerol synthase 2 [Source:HGNC Symbol;Acc:HGNC:1801],ENTREZGENE_ACC
+10390,ENSG00000134255,CEPT1,choline/ethanolamine phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:24289],ENTREZGENE_ACC
+56994,ENSG00000111666,CHPT1,choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852],ENTREZGENE_ACC
+64781,ENSG00000100422,CERK,ceramide kinase [Source:HGNC Symbol;Acc:HGNC:19256],ENTREZGENE_ACC
+10087,ENSG00000113163,CERT1,ceramide transporter 1 [Source:HGNC Symbol;Acc:HGNC:2205],ENTREZGENE_ACC
+9023,ENSG00000138135,CH25H,cholesterol 25-hydroxylase [Source:HGNC Symbol;Acc:HGNC:1907],ENTREZGENE_ACC
+1103,ENSG00000070748,CHAT,choline O-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:1912],ENTREZGENE_ACC
+162466,ENSG00000173868,PHOSPHO1,phosphoethanolamine/phosphocholine phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:16815],ENTREZGENE_ACC
+5130,ENSG00000161217,PCYT1A,"phosphate cytidylyltransferase 1A, choline [Source:HGNC Symbol;Acc:HGNC:8754]",ENTREZGENE_ACC
+9468,ENSG00000102230,PCYT1B,"phosphate cytidylyltransferase 1B, choline [Source:HGNC Symbol;Acc:HGNC:8755]",ENTREZGENE_ACC
+55349,ENSG00000016391,CHDH,choline dehydrogenase [Source:HGNC Symbol;Acc:HGNC:24288],ENTREZGENE_ACC
+1119,ENSG00000110721,CHKA,choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937],ENTREZGENE_ACC
+1120,ENSG00000100288,CHKB,choline kinase beta [Source:HGNC Symbol;Acc:HGNC:1938],ENTREZGENE_ACC
+6820,ENSG00000088002,SULT2B1,sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459],ENTREZGENE_ACC
+10948,ENSG00000131748,STARD3,StAR related lipid transfer domain containing 3 [Source:HGNC Symbol;Acc:HGNC:17579],ENTREZGENE_ACC
+19,ENSG00000165029,ABCA1,ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29],ENTREZGENE_ACC
+6576,ENSG00000100075,SLC25A1,solute carrier family 25 member 1 [Source:HGNC Symbol;Acc:HGNC:10979],ENTREZGENE_ACC
+1159,ENSG00000223572,CKMT1A,"creatine kinase, mitochondrial 1A [Source:HGNC Symbol;Acc:HGNC:31736]",ENTREZGENE_ACC
+1159,ENSG00000237289,CKMT1B,"creatine kinase, mitochondrial 1B [Source:HGNC Symbol;Acc:HGNC:1995]",ENTREZGENE_ACC
+1160,ENSG00000131730,CKMT2,"creatine kinase, mitochondrial 2 [Source:HGNC Symbol;Acc:HGNC:1996]",ENTREZGENE_ACC
+548596,ENSG00000223572,CKMT1A,"creatine kinase, mitochondrial 1A [Source:HGNC Symbol;Acc:HGNC:31736]",ENTREZGENE_ACC
+548596,ENSG00000237289,CKMT1B,"creatine kinase, mitochondrial 1B [Source:HGNC Symbol;Acc:HGNC:1995]",ENTREZGENE_ACC
+1152,ENSG00000166165,CKB,creatine kinase B [Source:HGNC Symbol;Acc:HGNC:1991],ENTREZGENE_ACC
+1158,ENSG00000104879,CKM,"creatine kinase, M-type [Source:HGNC Symbol;Acc:HGNC:1994]",ENTREZGENE_ACC
+54675,ENSG00000088766,CRLS1,cardiolipin synthase 1 [Source:HGNC Symbol;Acc:HGNC:16148],ENTREZGENE_ACC
+10559,ENSG00000164414,SLC35A1,solute carrier family 35 member A1 [Source:HGNC Symbol;Acc:HGNC:11021],ENTREZGENE_ACC
+8034,ENSG00000122912,SLC25A16,solute carrier family 25 member 16 [Source:HGNC Symbol;Acc:HGNC:10986],ENTREZGENE_ACC
+8824,ENSG00000172831,CES2,carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864],ENTREZGENE_ACC
+51805,ENSG00000132423,COQ3,"coenzyme Q3, methyltransferase [Source:HGNC Symbol;Acc:HGNC:18175]",ENTREZGENE_ACC
+51004,ENSG00000119723,COQ6,"coenzyme Q6, monooxygenase [Source:HGNC Symbol;Acc:HGNC:20233]",ENTREZGENE_ACC
+10229,ENSG00000167186,COQ7,"coenzyme Q7, hydroxylase [Source:HGNC Symbol;Acc:HGNC:2244]",ENTREZGENE_ACC
+2650,ENSG00000187210,GCNT1,glucosaminyl (N-acetyl) transferase 1 [Source:HGNC Symbol;Acc:HGNC:4203],ENTREZGENE_ACC
+51301,ENSG00000176928,GCNT4,glucosaminyl (N-acetyl) transferase 4 [Source:HGNC Symbol;Acc:HGNC:17973],ENTREZGENE_ACC
+9245,ENSG00000140297,GCNT3,"glucosaminyl (N-acetyl) transferase 3, mucin type [Source:HGNC Symbol;Acc:HGNC:4205]",ENTREZGENE_ACC
+192134,ENSG00000198488,B3GNT6,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:24141]",ENTREZGENE_ACC
+1371,ENSG00000080819,CPOX,coproporphyrinogen oxidase [Source:HGNC Symbol;Acc:HGNC:2321],ENTREZGENE_ACC
+1384,ENSG00000095321,CRAT,carnitine O-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2342],ENTREZGENE_ACC
+54677,ENSG00000005469,CROT,carnitine O-octanoyltransferase [Source:HGNC Symbol;Acc:HGNC:2366],ENTREZGENE_ACC
+1503,ENSG00000171793,CTPS1,CTP synthase 1 [Source:HGNC Symbol;Acc:HGNC:2519],ENTREZGENE_ACC
+56474,ENSG00000047230,CTPS2,CTP synthase 2 [Source:HGNC Symbol;Acc:HGNC:2520],ENTREZGENE_ACC
+125965,ENSG00000160471,COX6B2,cytochrome c oxidase subunit 6B2 [Source:HGNC Symbol;Acc:HGNC:24380],ENTREZGENE_ACC
+1327,ENSG00000131143,COX4I1,cytochrome c oxidase subunit 4I1 [Source:HGNC Symbol;Acc:HGNC:2265],ENTREZGENE_ACC
+1329,ENSG00000135940,COX5B,cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269],ENTREZGENE_ACC
+1337,ENSG00000111775,COX6A1,cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277],ENTREZGENE_ACC
+1339,ENSG00000156885,COX6A2,cytochrome c oxidase subunit 6A2 [Source:HGNC Symbol;Acc:HGNC:2279],ENTREZGENE_ACC
+1340,ENSG00000126267,COX6B1,cytochrome c oxidase subunit 6B1 [Source:HGNC Symbol;Acc:HGNC:2280],ENTREZGENE_ACC
+1345,ENSG00000164919,COX6C,cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285],ENTREZGENE_ACC
+1346,ENSG00000161281,COX7A1,cytochrome c oxidase subunit 7A1 [Source:HGNC Symbol;Acc:HGNC:2287],ENTREZGENE_ACC
+1347,ENSG00000112695,COX7A2,cytochrome c oxidase subunit 7A2 [Source:HGNC Symbol;Acc:HGNC:2288],ENTREZGENE_ACC
+1349,ENSG00000131174,COX7B,cytochrome c oxidase subunit 7B [Source:HGNC Symbol;Acc:HGNC:2291],ENTREZGENE_ACC
+1350,ENSG00000127184,COX7C,cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292],ENTREZGENE_ACC
+1351,ENSG00000176340,COX8A,cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294],ENTREZGENE_ACC
+170712,ENSG00000170516,COX7B2,cytochrome c oxidase subunit 7B2 [Source:HGNC Symbol;Acc:HGNC:24381],ENTREZGENE_ACC
+341947,ENSG00000187581,COX8C,cytochrome c oxidase subunit 8C [Source:HGNC Symbol;Acc:HGNC:24382],ENTREZGENE_ACC
+4512,ENSG00000198804,MT-CO1,mitochondrially encoded cytochrome c oxidase I [Source:HGNC Symbol;Acc:HGNC:7419],ENTREZGENE_ACC
+4513,ENSG00000198712,MT-CO2,mitochondrially encoded cytochrome c oxidase II [Source:HGNC Symbol;Acc:HGNC:7421],ENTREZGENE_ACC
+4514,ENSG00000198938,MT-CO3,mitochondrially encoded cytochrome c oxidase III [Source:HGNC Symbol;Acc:HGNC:7422],ENTREZGENE_ACC
+84701,ENSG00000131055,COX4I2,cytochrome c oxidase subunit 4I2 [Source:HGNC Symbol;Acc:HGNC:16232],ENTREZGENE_ACC
+9167,ENSG00000115944,COX7A2L,cytochrome c oxidase subunit 7A2 like [Source:HGNC Symbol;Acc:HGNC:2289],ENTREZGENE_ACC
+9377,ENSG00000178741,COX5A,cytochrome c oxidase subunit 5A [Source:HGNC Symbol;Acc:HGNC:2267],ENTREZGENE_ACC
+10975,ENSG00000127540,UQCR11,"ubiquinol-cytochrome c reductase, complex III subunit XI [Source:HGNC Symbol;Acc:HGNC:30862]",ENTREZGENE_ACC
+1537,ENSG00000179091,CYC1,cytochrome c1 [Source:HGNC Symbol;Acc:HGNC:2579],ENTREZGENE_ACC
+27089,ENSG00000164405,UQCRQ,ubiquinol-cytochrome c reductase complex III subunit VII [Source:HGNC Symbol;Acc:HGNC:29594],ENTREZGENE_ACC
+29796,ENSG00000184076,UQCR10,"ubiquinol-cytochrome c reductase, complex III subunit X [Source:HGNC Symbol;Acc:HGNC:30863]",ENTREZGENE_ACC
+4519,ENSG00000198727,MT-CYB,mitochondrially encoded cytochrome b [Source:HGNC Symbol;Acc:HGNC:7427],ENTREZGENE_ACC
+7381,ENSG00000156467,UQCRB,ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582],ENTREZGENE_ACC
+7384,ENSG00000010256,UQCRC1,ubiquinol-cytochrome c reductase core protein 1 [Source:HGNC Symbol;Acc:HGNC:12585],ENTREZGENE_ACC
+7385,ENSG00000140740,UQCRC2,ubiquinol-cytochrome c reductase core protein 2 [Source:HGNC Symbol;Acc:HGNC:12586],ENTREZGENE_ACC
+7386,ENSG00000169021,UQCRFS1,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]",ENTREZGENE_ACC
+7388,ENSG00000173660,UQCRH,ubiquinol-cytochrome c reductase hinge protein [Source:HGNC Symbol;Acc:HGNC:12590],ENTREZGENE_ACC
+1036,ENSG00000129596,CDO1,cysteine dioxygenase type 1 [Source:HGNC Symbol;Acc:HGNC:1795],ENTREZGENE_ACC
+1491,ENSG00000116761,CTH,cystathionine gamma-lyase [Source:HGNC Symbol;Acc:HGNC:2501],ENTREZGENE_ACC
+875,ENSG00000160200,CBS,cystathionine beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550],ENTREZGENE_ACC
+57379,ENSG00000111732,AICDA,activation induced cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:13203],ENTREZGENE_ACC
+978,ENSG00000158825,CDA,cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712],ENTREZGENE_ACC
+7371,ENSG00000143179,UCK2,uridine-cytidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12562],ENTREZGENE_ACC
+83549,ENSG00000130717,UCK1,uridine-cytidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:14859],ENTREZGENE_ACC
+129607,ENSG00000134326,CMPK2,cytidine/uridine monophosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:27015],ENTREZGENE_ACC
+64902,ENSG00000113492,AGXT2,alanine--glyoxylate aminotransferase 2 [Source:HGNC Symbol;Acc:HGNC:14412],ENTREZGENE_ACC
+1606,ENSG00000065357,DGKA,diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849],ENTREZGENE_ACC
+1607,ENSG00000136267,DGKB,diacylglycerol kinase beta [Source:HGNC Symbol;Acc:HGNC:2850],ENTREZGENE_ACC
+1608,ENSG00000058866,DGKG,diacylglycerol kinase gamma [Source:HGNC Symbol;Acc:HGNC:2853],ENTREZGENE_ACC
+160851,ENSG00000102780,DGKH,diacylglycerol kinase eta [Source:HGNC Symbol;Acc:HGNC:2854],ENTREZGENE_ACC
+1609,ENSG00000145214,DGKQ,diacylglycerol kinase theta [Source:HGNC Symbol;Acc:HGNC:2856],ENTREZGENE_ACC
+8525,ENSG00000149091,DGKZ,diacylglycerol kinase zeta [Source:HGNC Symbol;Acc:HGNC:2857],ENTREZGENE_ACC
+8526,ENSG00000153933,DGKE,diacylglycerol kinase epsilon [Source:HGNC Symbol;Acc:HGNC:2852],ENTREZGENE_ACC
+8527,ENSG00000077044,DGKD,diacylglycerol kinase delta [Source:HGNC Symbol;Acc:HGNC:2851],ENTREZGENE_ACC
+9162,ENSG00000157680,DGKI,diacylglycerol kinase iota [Source:HGNC Symbol;Acc:HGNC:2855],ENTREZGENE_ACC
+1610,ENSG00000110887,DAO,D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671],ENTREZGENE_ACC
+8528,ENSG00000203797,DDO,D-aspartate oxidase [Source:HGNC Symbol;Acc:HGNC:2727],ENTREZGENE_ACC
+10455,ENSG00000198721,ECI2,enoyl-CoA delta isomerase 2 [Source:HGNC Symbol;Acc:HGNC:14601],ENTREZGENE_ACC
+1632,ENSG00000167969,ECI1,enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703],ENTREZGENE_ACC
+1633,ENSG00000156136,DCK,deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704],ENTREZGENE_ACC
+1635,ENSG00000129187,DCTD,dCMP deaminase [Source:HGNC Symbol;Acc:HGNC:2710],ENTREZGENE_ACC
+1638,ENSG00000080166,DCT,dopachrome tautomerase [Source:HGNC Symbol;Acc:HGNC:2709],ENTREZGENE_ACC
+3992,ENSG00000149485,FADS1,fatty acid desaturase 1 [Source:HGNC Symbol;Acc:HGNC:3574],ENTREZGENE_ACC
+84649,ENSG00000062282,DGAT2,diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940],ENTREZGENE_ACC
+8694,ENSG00000185000,DGAT1,diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843],ENTREZGENE_ACC
+2987,ENSG00000143774,GUK1,guanylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:4693],ENTREZGENE_ACC
+1716,ENSG00000114956,DGUOK,deoxyguanosine kinase [Source:HGNC Symbol;Acc:HGNC:2858],ENTREZGENE_ACC
+8443,ENSG00000116906,GNPAT,glyceronephosphate O-acyltransferase [Source:HGNC Symbol;Acc:HGNC:4416],ENTREZGENE_ACC
+1718,ENSG00000116133,DHCR24,24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859],ENTREZGENE_ACC
+1581,ENSG00000167910,CYP7A1,cytochrome P450 family 7 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2651],ENTREZGENE_ACC
+1717,ENSG00000172893,DHCR7,7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860],ENTREZGENE_ACC
+123099,ENSG00000168350,DEGS2,"delta 4-desaturase, sphingolipid 2 [Source:HGNC Symbol;Acc:HGNC:20113]",ENTREZGENE_ACC
+8560,ENSG00000143753,DEGS1,"delta 4-desaturase, sphingolipid 1 [Source:HGNC Symbol;Acc:HGNC:13709]",ENTREZGENE_ACC
+6783,ENSG00000109193,SULT1E1,sulfotransferase family 1E member 1 [Source:HGNC Symbol;Acc:HGNC:11377],ENTREZGENE_ACC
+1719,ENSG00000228716,DHFR,dihydrofolate reductase [Source:HGNC Symbol;Acc:HGNC:2861],ENTREZGENE_ACC
+1723,ENSG00000102967,DHODH,dihydroorotate dehydrogenase (quinone) [Source:HGNC Symbol;Acc:HGNC:2867],ENTREZGENE_ACC
+1807,ENSG00000147647,DPYS,dihydropyrimidinase [Source:HGNC Symbol;Acc:HGNC:3013],ENTREZGENE_ACC
+5860,ENSG00000151552,QDPR,quinoid dihydropteridine reductase [Source:HGNC Symbol;Acc:HGNC:9752],ENTREZGENE_ACC
+2224,ENSG00000160752,FDPS,farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631],ENTREZGENE_ACC
+9453,ENSG00000152904,GGPS1,geranylgeranyl diphosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:4249],ENTREZGENE_ACC
+29958,ENSG00000132837,DMGDH,dimethylglycine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:24475],ENTREZGENE_ACC
+1786,ENSG00000130816,DNMT1,DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976],ENTREZGENE_ACC
+1788,ENSG00000119772,DNMT3A,DNA methyltransferase 3 alpha [Source:HGNC Symbol;Acc:HGNC:2978],ENTREZGENE_ACC
+1789,ENSG00000088305,DNMT3B,DNA methyltransferase 3 beta [Source:HGNC Symbol;Acc:HGNC:2979],ENTREZGENE_ACC
+1787,ENSG00000107614,TRDMT1,tRNA aspartic acid methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2977],ENTREZGENE_ACC
+1603,ENSG00000129562,DAD1,defender against cell death 1 [Source:HGNC Symbol;Acc:HGNC:2664],ENTREZGENE_ACC
+1650,ENSG00000244038,DDOST,dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:2728],ENTREZGENE_ACC
+6184,ENSG00000163902,RPN1,ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381],ENTREZGENE_ACC
+6185,ENSG00000118705,RPN2,ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382],ENTREZGENE_ACC
+57171,ENSG00000167130,DOLPP1,dolichyldiphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:29565],ENTREZGENE_ACC
+29929,ENSG00000088035,ALG6,"ALG6 alpha-1,3-glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:23157]",ENTREZGENE_ACC
+79053,ENSG00000159063,ALG8,"ALG8 alpha-1,3-glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:23161]",ENTREZGENE_ACC
+84920,ENSG00000139133,ALG10,"ALG10 alpha-1,2-glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:23162]",ENTREZGENE_ACC
+54344,ENSG00000179085,DPM3,"dolichyl-phosphate mannosyltransferase subunit 3, regulatory [Source:HGNC Symbol;Acc:HGNC:3007]",ENTREZGENE_ACC
+8813,ENSG00000000419,DPM1,"dolichyl-phosphate mannosyltransferase subunit 1, catalytic [Source:HGNC Symbol;Acc:HGNC:3005]",ENTREZGENE_ACC
+8818,ENSG00000136908,DPM2,"dolichyl-phosphate mannosyltransferase subunit 2, regulatory [Source:HGNC Symbol;Acc:HGNC:3006]",ENTREZGENE_ACC
+10195,ENSG00000214160,ALG3,"ALG3 alpha-1,3- mannosyltransferase [Source:HGNC Symbol;Acc:HGNC:23056]",ENTREZGENE_ACC
+79087,ENSG00000182858,ALG12,"ALG12 alpha-1,6-mannosyltransferase [Source:HGNC Symbol;Acc:HGNC:19358]",ENTREZGENE_ACC
+7299,ENSG00000077498,TYR,tyrosinase [Source:HGNC Symbol;Acc:HGNC:12442],ENTREZGENE_ACC
+80347,ENSG00000068120,COASY,Coenzyme A synthase [Source:HGNC Symbol;Acc:HGNC:29932],ENTREZGENE_ACC
+4597,ENSG00000167508,MVD,mevalonate diphosphate decarboxylase [Source:HGNC Symbol;Acc:HGNC:7529],ENTREZGENE_ACC
+1841,ENSG00000168393,DTYMK,deoxythymidylate kinase [Source:HGNC Symbol;Acc:HGNC:3061],ENTREZGENE_ACC
+1806,ENSG00000188641,DPYD,dihydropyrimidine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3012],ENTREZGENE_ACC
+7083,ENSG00000167900,TK1,thymidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11830],ENTREZGENE_ACC
+151531,ENSG00000007001,UPP2,uridine phosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:23061],ENTREZGENE_ACC
+4860,ENSG00000198805,PNP,purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892],ENTREZGENE_ACC
+1854,ENSG00000128951,DUT,deoxyuridine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3078],ENTREZGENE_ACC
+10682,ENSG00000147155,EBP,EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133],ENTREZGENE_ACC
+1892,ENSG00000127884,ECHS1,"enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]",ENTREZGENE_ACC
+13,ENSG00000114771,AADAC,arylacetamide deacetylase [Source:HGNC Symbol;Acc:HGNC:17],ENTREZGENE_ACC
+64772,ENSG00000167280,ENGASE,endo-beta-N-acetylglucosaminidase [Source:HGNC Symbol;Acc:HGNC:24622],ENTREZGENE_ACC
+5833,ENSG00000185813,PCYT2,"phosphate cytidylyltransferase 2, ethanolamine [Source:HGNC Symbol;Acc:HGNC:8756]",ENTREZGENE_ACC
+2108,ENSG00000140374,ETFA,electron transfer flavoprotein subunit alpha [Source:HGNC Symbol;Acc:HGNC:3481],ENTREZGENE_ACC
+2109,ENSG00000105379,ETFB,electron transfer flavoprotein subunit beta [Source:HGNC Symbol;Acc:HGNC:3482],ENTREZGENE_ACC
+2110,ENSG00000171503,ETFDH,electron transfer flavoprotein dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3483],ENTREZGENE_ACC
+55224,ENSG00000143845,ETNK2,ethanolamine kinase 2 [Source:HGNC Symbol;Acc:HGNC:25575],ENTREZGENE_ACC
+55500,ENSG00000139163,ETNK1,ethanolamine kinase 1 [Source:HGNC Symbol;Acc:HGNC:24649],ENTREZGENE_ACC
+2530,ENSG00000033170,FUT8,fucosyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:4019],ENTREZGENE_ACC
+55301,ENSG00000152463,OLAH,oleoyl-ACP hydrolase [Source:HGNC Symbol;Acc:HGNC:25625],ENTREZGENE_ACC
+2181,ENSG00000123983,ACSL3,acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570],ENTREZGENE_ACC
+2182,ENSG00000068366,ACSL4,acyl-CoA synthetase long chain family member 4 [Source:HGNC Symbol;Acc:HGNC:3571],ENTREZGENE_ACC
+51703,ENSG00000197142,ACSL5,acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526],ENTREZGENE_ACC
+81616,ENSG00000130377,ACSBG2,acyl-CoA synthetase bubblegum family member 2 [Source:HGNC Symbol;Acc:HGNC:24174],ENTREZGENE_ACC
+23305,ENSG00000164398,ACSL6,acyl-CoA synthetase long chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496],ENTREZGENE_ACC
+11001,ENSG00000140284,SLC27A2,solute carrier family 27 member 2 [Source:HGNC Symbol;Acc:HGNC:10996],ENTREZGENE_ACC
+54898,ENSG00000197977,ELOVL2,ELOVL fatty acid elongase 2 [Source:HGNC Symbol;Acc:HGNC:14416],ENTREZGENE_ACC
+60481,ENSG00000012660,ELOVL5,ELOVL fatty acid elongase 5 [Source:HGNC Symbol;Acc:HGNC:21308],ENTREZGENE_ACC
+6785,ENSG00000118402,ELOVL4,ELOVL fatty acid elongase 4 [Source:HGNC Symbol;Acc:HGNC:14415],ENTREZGENE_ACC
+79071,ENSG00000170522,ELOVL6,ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829],ENTREZGENE_ACC
+1579,ENSG00000187048,CYP4A11,cytochrome P450 family 4 subfamily A member 11 [Source:HGNC Symbol;Acc:HGNC:2642],ENTREZGENE_ACC
+2235,ENSG00000066926,FECH,ferrochelatase [Source:HGNC Symbol;Acc:HGNC:3647],ENTREZGENE_ACC
+10840,ENSG00000144908,ALDH1L1,aldehyde dehydrogenase 1 family member L1 [Source:HGNC Symbol;Acc:HGNC:3978],ENTREZGENE_ACC
+125061,ENSG00000183077,AFMID,arylformamidase [Source:HGNC Symbol;Acc:HGNC:20910],ENTREZGENE_ACC
+80308,ENSG00000160688,FLAD1,flavin adenine dinucleotide synthetase 1 [Source:HGNC Symbol;Acc:HGNC:24671],ENTREZGENE_ACC
+2356,ENSG00000136877,FPGS,folylpolyglutamate synthase [Source:HGNC Symbol;Acc:HGNC:3824],ENTREZGENE_ACC
+10841,ENSG00000160282,FTCD,formimidoyltransferase cyclodeaminase [Source:HGNC Symbol;Acc:HGNC:3974],ENTREZGENE_ACC
+10588,ENSG00000136371,MTHFS,methenyltetrahydrofolate synthetase [Source:HGNC Symbol;Acc:HGNC:7437],ENTREZGENE_ACC
+4522,ENSG00000100714,MTHFD1,"methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:7432]",ENTREZGENE_ACC
+25902,ENSG00000120254,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like [Source:HGNC Symbol;Acc:HGNC:21055],ENTREZGENE_ACC
+2517,ENSG00000179163,FUCA1,alpha-L-fucosidase 1 [Source:HGNC Symbol;Acc:HGNC:4006],ENTREZGENE_ACC
+2184,ENSG00000103876,FAH,fumarylacetoacetate hydrolase [Source:HGNC Symbol;Acc:HGNC:3579],ENTREZGENE_ACC
+2523,ENSG00000174951,FUT1,fucosyltransferase 1 (H blood group) [Source:HGNC Symbol;Acc:HGNC:4012],ENTREZGENE_ACC
+2525,ENSG00000171124,FUT3,fucosyltransferase 3 (Lewis blood group) [Source:HGNC Symbol;Acc:HGNC:4014],ENTREZGENE_ACC
+10690,ENSG00000172461,FUT9,fucosyltransferase 9 [Source:HGNC Symbol;Acc:HGNC:4020],ENTREZGENE_ACC
+85365,ENSG00000119523,ALG2,"ALG2 alpha-1,3/1,6-mannosyltransferase [Source:HGNC Symbol;Acc:HGNC:23159]",ENTREZGENE_ACC
+8703,ENSG00000158850,B4GALT3,"beta-1,4-galactosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:926]",ENTREZGENE_ACC
+9334,ENSG00000158470,B4GALT5,"beta-1,4-galactosyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:928]",ENTREZGENE_ACC
+2819,ENSG00000167588,GPD1,glycerol-3-phosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4455],ENTREZGENE_ACC
+2593,ENSG00000130005,GAMT,guanidinoacetate N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4136],ENTREZGENE_ACC
+9514,ENSG00000128242,GAL3ST1,galactose-3-O-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:24240],ENTREZGENE_ACC
+2588,ENSG00000141012,GALNS,galactosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4122],ENTREZGENE_ACC
+2720,ENSG00000170266,GLB1,galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298],ENTREZGENE_ACC
+4758,ENSG00000204386,NEU1,neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758],ENTREZGENE_ACC
+5476,ENSG00000064601,CTSA,cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251],ENTREZGENE_ACC
+2581,ENSG00000054983,GALC,galactosylceramidase [Source:HGNC Symbol;Acc:HGNC:4115],ENTREZGENE_ACC
+2583,ENSG00000135454,B4GALNT1,"beta-1,4-N-acetyl-galactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4117]",ENTREZGENE_ACC
+2584,ENSG00000108479,GALK1,galactokinase 1 [Source:HGNC Symbol;Acc:HGNC:4118],ENTREZGENE_ACC
+55454,ENSG00000169826,CSGALNACT2,chondroitin sulfate N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:24292],ENTREZGENE_ACC
+55790,ENSG00000147408,CSGALNACT1,chondroitin sulfate N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24290],ENTREZGENE_ACC
+22856,ENSG00000131873,CHSY1,chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:17198],ENTREZGENE_ACC
+337876,ENSG00000198108,CHSY3,chondroitin sulfate synthase 3 [Source:HGNC Symbol;Acc:HGNC:24293],ENTREZGENE_ACC
+79586,ENSG00000123989,CHPF,chondroitin polymerizing factor [Source:HGNC Symbol;Acc:HGNC:24291],ENTREZGENE_ACC
+11226,ENSG00000139629,GALNT6,polypeptide N-acetylgalactosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:4128],ENTREZGENE_ACC
+11227,ENSG00000136542,GALNT5,polypeptide N-acetylgalactosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:4127],ENTREZGENE_ACC
+114805,ENSG00000144278,GALNT13,polypeptide N-acetylgalactosaminyltransferase 13 [Source:HGNC Symbol;Acc:HGNC:23242],ENTREZGENE_ACC
+117248,ENSG00000131386,GALNT15,polypeptide N-acetylgalactosaminyltransferase 15 [Source:HGNC Symbol;Acc:HGNC:21531],ENTREZGENE_ACC
+2589,ENSG00000141429,GALNT1,polypeptide N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4123],ENTREZGENE_ACC
+2590,ENSG00000143641,GALNT2,polypeptide N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:4124],ENTREZGENE_ACC
+2591,ENSG00000115339,GALNT3,polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125],ENTREZGENE_ACC
+26290,ENSG00000130035,GALNT8,polypeptide N-acetylgalactosaminyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:4130],ENTREZGENE_ACC
+50614,ENSG00000182870,GALNT9,polypeptide N-acetylgalactosaminyltransferase 9 [Source:HGNC Symbol;Acc:HGNC:4131],ENTREZGENE_ACC
+51809,ENSG00000109586,GALNT7,polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129],ENTREZGENE_ACC
+55568,ENSG00000164574,GALNT10,polypeptide N-acetylgalactosaminyltransferase 10 [Source:HGNC Symbol;Acc:HGNC:19873],ENTREZGENE_ACC
+63917,ENSG00000178234,GALNT11,polypeptide N-acetylgalactosaminyltransferase 11 [Source:HGNC Symbol;Acc:HGNC:19875],ENTREZGENE_ACC
+79623,ENSG00000158089,GALNT14,polypeptide N-acetylgalactosaminyltransferase 14 [Source:HGNC Symbol;Acc:HGNC:22946],ENTREZGENE_ACC
+79695,ENSG00000119514,GALNT12,polypeptide N-acetylgalactosaminyltransferase 12 [Source:HGNC Symbol;Acc:HGNC:19877],ENTREZGENE_ACC
+8693,ENSG00000257594,GALNT4,polypeptide N-acetylgalactosaminyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:4126],ENTREZGENE_ACC
+126792,ENSG00000176022,B3GALT6,"beta-1,3-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:17978]",ENTREZGENE_ACC
+11285,ENSG00000027847,B4GALT7,"beta-1,4-galactosyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:930]",ENTREZGENE_ACC
+7360,ENSG00000169764,UGP2,UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527],ENTREZGENE_ACC
+2618,ENSG00000159131,GART,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]",ENTREZGENE_ACC
+175,ENSG00000038002,AGA,aspartylglucosaminidase [Source:HGNC Symbol;Acc:HGNC:318],ENTREZGENE_ACC
+2629,ENSG00000177628,GBA1,glucosylceramidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4177],ENTREZGENE_ACC
+26301,ENSG00000148288,GBGT1,"globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 (FORS blood group) [Source:HGNC Symbol;Acc:HGNC:20460]",ENTREZGENE_ACC
+2653,ENSG00000140905,GCSH,glycine cleavage system protein H [Source:HGNC Symbol;Acc:HGNC:4208],ENTREZGENE_ACC
+2731,ENSG00000178445,GLDC,glycine decarboxylase [Source:HGNC Symbol;Acc:HGNC:4313],ENTREZGENE_ACC
+275,ENSG00000145020,AMT,aminomethyltransferase [Source:HGNC Symbol;Acc:HGNC:473],ENTREZGENE_ACC
+2651,ENSG00000111846,GCNT2,glucosaminyl (N-acetyl) transferase 2 (I blood group) [Source:HGNC Symbol;Acc:HGNC:4204],ENTREZGENE_ACC
+55343,ENSG00000181830,SLC35C1,solute carrier family 35 member C1 [Source:HGNC Symbol;Acc:HGNC:20197],ENTREZGENE_ACC
+8836,ENSG00000137563,GGH,gamma-glutamyl hydrolase [Source:HGNC Symbol;Acc:HGNC:4248],ENTREZGENE_ACC
+2687,ENSG00000099998,GGT5,gamma-glutamyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:4260],ENTREZGENE_ACC
+6470,ENSG00000176974,SHMT1,serine hydroxymethyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10850],ENTREZGENE_ACC
+6472,ENSG00000182199,SHMT2,serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852],ENTREZGENE_ACC
+2717,ENSG00000102393,GLA,galactosidase alpha [Source:HGNC Symbol;Acc:HGNC:4296],ENTREZGENE_ACC
+2990,ENSG00000169919,GUSB,glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696],ENTREZGENE_ACC
+8372,ENSG00000186792,HYAL3,hyaluronidase 3 [Source:HGNC Symbol;Acc:HGNC:5322],ENTREZGENE_ACC
+26035,ENSG00000138604,GLCE,glucuronic acid epimerase [Source:HGNC Symbol;Acc:HGNC:17855],ENTREZGENE_ACC
+54480,ENSG00000033100,CHPF2,chondroitin polymerizing factor 2 [Source:HGNC Symbol;Acc:HGNC:29270],ENTREZGENE_ACC
+2131,ENSG00000182197,EXT1,exostosin glycosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3512],ENTREZGENE_ACC
+2132,ENSG00000151348,EXT2,exostosin glycosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:3513],ENTREZGENE_ACC
+135152,ENSG00000112309,B3GAT2,"beta-1,3-glucuronyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:922]",ENTREZGENE_ACC
+26229,ENSG00000149541,B3GAT3,"beta-1,3-glucuronyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:923]",ENTREZGENE_ACC
+27087,ENSG00000109956,B3GAT1,"beta-1,3-glucuronyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:921]",ENTREZGENE_ACC
+4669,ENSG00000108784,NAGLU,N-acetyl-alpha-glucosaminidase [Source:HGNC Symbol;Acc:HGNC:7632],ENTREZGENE_ACC
+3340,ENSG00000070614,NDST1,N-deacetylase and N-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:7680],ENTREZGENE_ACC
+64579,ENSG00000138653,NDST4,N-deacetylase and N-sulfotransferase 4 [Source:HGNC Symbol;Acc:HGNC:20779],ENTREZGENE_ACC
+8509,ENSG00000166507,NDST2,N-deacetylase and N-sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:7681],ENTREZGENE_ACC
+9348,ENSG00000164100,NDST3,N-deacetylase and N-sulfotransferase 3 [Source:HGNC Symbol;Acc:HGNC:7682],ENTREZGENE_ACC
+1798,ENSG00000172269,DPAGT1,dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995],ENTREZGENE_ACC
+2135,ENSG00000162694,EXTL2,exostosin like glycosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:3516],ENTREZGENE_ACC
+2137,ENSG00000012232,EXTL3,exostosin like glycosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:3518],ENTREZGENE_ACC
+2134,ENSG00000158008,EXTL1,exostosin like glycosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3515],ENTREZGENE_ACC
+6513,ENSG00000117394,SLC2A1,solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005],ENTREZGENE_ACC
+2752,ENSG00000135821,GLUL,glutamate-ammonia ligase [Source:HGNC Symbol;Acc:HGNC:4341],ENTREZGENE_ACC
+51557,ENSG00000146166,LGSN,"lengsin, lens protein with glutamine synthetase domain [Source:HGNC Symbol;Acc:HGNC:21016]",ENTREZGENE_ACC
+2729,ENSG00000001084,GCLC,glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311],ENTREZGENE_ACC
+2572,ENSG00000136750,GAD2,glutamate decarboxylase 2 [Source:HGNC Symbol;Acc:HGNC:4093],ENTREZGENE_ACC
+2746,ENSG00000148672,GLUD1,glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335],ENTREZGENE_ACC
+2747,ENSG00000182890,GLUD2,glutamate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4336],ENTREZGENE_ACC
+27165,ENSG00000135423,GLS2,glutaminase 2 [Source:HGNC Symbol;Acc:HGNC:29570],ENTREZGENE_ACC
+2744,ENSG00000115419,GLS,glutaminase [Source:HGNC Symbol;Acc:HGNC:4331],ENTREZGENE_ACC
+5471,ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase [Source:HGNC Symbol;Acc:HGNC:9238],ENTREZGENE_ACC
+2639,ENSG00000105607,GCDH,glutaryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4189],ENTREZGENE_ACC
+2628,ENSG00000171766,GATM,glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175],ENTREZGENE_ACC
+23464,ENSG00000100116,GCAT,glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188],ENTREZGENE_ACC
+2710,ENSG00000198814,GK,glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289],ENTREZGENE_ACC
+2712,ENSG00000196475,GK2,glycerol kinase 2 [Source:HGNC Symbol;Acc:HGNC:4291],ENTREZGENE_ACC
+2766,ENSG00000137198,GMPR,guanosine monophosphate reductase [Source:HGNC Symbol;Acc:HGNC:4376],ENTREZGENE_ACC
+51292,ENSG00000100938,GMPR2,guanosine monophosphate reductase 2 [Source:HGNC Symbol;Acc:HGNC:4377],ENTREZGENE_ACC
+8833,ENSG00000163655,GMPS,guanine monophosphate synthase [Source:HGNC Symbol;Acc:HGNC:4378],ENTREZGENE_ACC
+27232,ENSG00000124713,GNMT,glycine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4415],ENTREZGENE_ACC
+57678,ENSG00000119927,GPAM,"glycerol-3-phosphate acyltransferase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:24865]",ENTREZGENE_ACC
+150763,ENSG00000186281,GPAT2,"glycerol-3-phosphate acyltransferase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:27168]",ENTREZGENE_ACC
+84803,ENSG00000138678,GPAT3,glycerol-3-phosphate acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:28157],ENTREZGENE_ACC
+284098,ENSG00000277161,PIGW,phosphatidylinositol glycan anchor biosynthesis class W [Source:HGNC Symbol;Acc:HGNC:23213],ENTREZGENE_ACC
+80055,ENSG00000197121,PGAP1,post-GPI attachment to proteins inositol deacylase 1 [Source:HGNC Symbol;Acc:HGNC:25712],ENTREZGENE_ACC
+54965,ENSG00000163964,PIGX,phosphatidylinositol glycan anchor biosynthesis class X [Source:HGNC Symbol;Acc:HGNC:26046],ENTREZGENE_ACC
+93183,ENSG00000143315,PIGM,phosphatidylinositol glycan anchor biosynthesis class M [Source:HGNC Symbol;Acc:HGNC:18858],ENTREZGENE_ACC
+2936,ENSG00000104687,GSR,glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623],ENTREZGENE_ACC
+2876,ENSG00000233276,GPX1,glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553],ENTREZGENE_ACC
+2877,ENSG00000176153,GPX2,glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554],ENTREZGENE_ACC
+2879,ENSG00000167468,GPX4,glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556],ENTREZGENE_ACC
+5052,ENSG00000117450,PRDX1,peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352],ENTREZGENE_ACC
+7001,ENSG00000167815,PRDX2,peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353],ENTREZGENE_ACC
+10935,ENSG00000165672,PRDX3,peroxiredoxin 3 [Source:HGNC Symbol;Acc:HGNC:9354],ENTREZGENE_ACC
+2937,ENSG00000100983,GSS,glutathione synthetase [Source:HGNC Symbol;Acc:HGNC:4624],ENTREZGENE_ACC
+2643,ENSG00000131979,GCH1,GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193],ENTREZGENE_ACC
+2974,ENSG00000293412,GUCY1B2,guanylate cyclase 1 soluble subunit beta 2 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4686],ENTREZGENE_ACC
+2977,ENSG00000152402,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684],ENTREZGENE_ACC
+2982,ENSG00000164116,GUCY1A1,guanylate cyclase 1 soluble subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:4685],ENTREZGENE_ACC
+2983,ENSG00000061918,GUCY1B1,guanylate cyclase 1 soluble subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4687],ENTREZGENE_ACC
+2984,ENSG00000070019,GUCY2C,guanylate cyclase 2C [Source:HGNC Symbol;Acc:HGNC:4688],ENTREZGENE_ACC
+2986,ENSG00000101890,GUCY2F,"guanylate cyclase 2F, retinal [Source:HGNC Symbol;Acc:HGNC:4691]",ENTREZGENE_ACC
+3000,ENSG00000132518,GUCY2D,"guanylate cyclase 2D, retinal [Source:HGNC Symbol;Acc:HGNC:4689]",ENTREZGENE_ACC
+4881,ENSG00000169418,NPR1,natriuretic peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:7943],ENTREZGENE_ACC
+4882,ENSG00000159899,NPR2,natriuretic peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:7944],ENTREZGENE_ACC
+9615,ENSG00000119125,GDA,guanine deaminase [Source:HGNC Symbol;Acc:HGNC:4212],ENTREZGENE_ACC
+3251,ENSG00000165704,HPRT1,hypoxanthine phosphoribosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5157],ENTREZGENE_ACC
+23632,ENSG00000118298,CA14,carbonic anhydrase 14 [Source:HGNC Symbol;Acc:HGNC:1372],ENTREZGENE_ACC
+377677,ENSG00000185015,CA13,carbonic anhydrase 13 [Source:HGNC Symbol;Acc:HGNC:14914],ENTREZGENE_ACC
+759,ENSG00000133742,CA1,carbonic anhydrase 1 [Source:HGNC Symbol;Acc:HGNC:1368],ENTREZGENE_ACC
+760,ENSG00000104267,CA2,carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373],ENTREZGENE_ACC
+761,ENSG00000164879,CA3,carbonic anhydrase 3 [Source:HGNC Symbol;Acc:HGNC:1374],ENTREZGENE_ACC
+762,ENSG00000167434,CA4,carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375],ENTREZGENE_ACC
+765,ENSG00000131686,CA6,carbonic anhydrase 6 [Source:HGNC Symbol;Acc:HGNC:1380],ENTREZGENE_ACC
+766,ENSG00000168748,CA7,carbonic anhydrase 7 [Source:HGNC Symbol;Acc:HGNC:1381],ENTREZGENE_ACC
+768,ENSG00000107159,CA9,carbonic anhydrase 9 [Source:HGNC Symbol;Acc:HGNC:1383],ENTREZGENE_ACC
+771,ENSG00000074410,CA12,carbonic anhydrase 12 [Source:HGNC Symbol;Acc:HGNC:1371],ENTREZGENE_ACC
+11238,ENSG00000169239,CA5B,carbonic anhydrase 5B [Source:HGNC Symbol;Acc:HGNC:1378],ENTREZGENE_ACC
+763,ENSG00000174990,CA5A,carbonic anhydrase 5A [Source:HGNC Symbol;Acc:HGNC:1377],ENTREZGENE_ACC
+23556,ENSG00000197563,PIGN,phosphatidylinositol glycan anchor biosynthesis class N [Source:HGNC Symbol;Acc:HGNC:8967],ENTREZGENE_ACC
+55650,ENSG00000060642,PIGV,phosphatidylinositol glycan anchor biosynthesis class V [Source:HGNC Symbol;Acc:HGNC:26031],ENTREZGENE_ACC
+50506,ENSG00000140279,DUOX2,dual oxidase 2 [Source:HGNC Symbol;Acc:HGNC:13273],ENTREZGENE_ACC
+53905,ENSG00000137857,DUOX1,dual oxidase 1 [Source:HGNC Symbol;Acc:HGNC:3062],ENTREZGENE_ACC
+343,ENSG00000103375,AQP8,aquaporin 8 [Source:HGNC Symbol;Acc:HGNC:642],ENTREZGENE_ACC
+5281,ENSG00000151665,PIGF,phosphatidylinositol glycan anchor biosynthesis class F [Source:HGNC Symbol;Acc:HGNC:8962],ENTREZGENE_ACC
+84720,ENSG00000165282,PIGO,phosphatidylinositol glycan anchor biosynthesis class O [Source:HGNC Symbol;Acc:HGNC:23215],ENTREZGENE_ACC
+54872,ENSG00000174227,PIGG,phosphatidylinositol glycan anchor biosynthesis class G [Source:HGNC Symbol;Acc:HGNC:25985],ENTREZGENE_ACC
+10026,ENSG00000142892,PIGK,phosphatidylinositol glycan anchor biosynthesis class K [Source:HGNC Symbol;Acc:HGNC:8965],ENTREZGENE_ACC
+128869,ENSG00000101464,PIGU,phosphatidylinositol glycan anchor biosynthesis class U [Source:HGNC Symbol;Acc:HGNC:15791],ENTREZGENE_ACC
+51604,ENSG00000124155,PIGT,phosphatidylinositol glycan anchor biosynthesis class T [Source:HGNC Symbol;Acc:HGNC:14938],ENTREZGENE_ACC
+8733,ENSG00000197858,GPAA1,glycosylphosphatidylinositol anchor attachment 1 [Source:HGNC Symbol;Acc:HGNC:4446],ENTREZGENE_ACC
+94005,ENSG00000087111,PIGS,phosphatidylinositol glycan anchor biosynthesis class S [Source:HGNC Symbol;Acc:HGNC:14937],ENTREZGENE_ACC
+3028,ENSG00000072506,HSD17B10,hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800],ENTREZGENE_ACC
+3033,ENSG00000138796,HADH,hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799],ENTREZGENE_ACC
+27235,ENSG00000173085,COQ2,"coenzyme Q2, polyprenyltransferase [Source:HGNC Symbol;Acc:HGNC:25223]",ENTREZGENE_ACC
+3081,ENSG00000113924,HGD,"homogentisate 1,2-dioxygenase [Source:HGNC Symbol;Acc:HGNC:4892]",ENTREZGENE_ACC
+11112,ENSG00000106049,HIBADH,3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907],ENTREZGENE_ACC
+3034,ENSG00000084110,HAL,histidine ammonia-lyase [Source:HGNC Symbol;Acc:HGNC:4806],ENTREZGENE_ACC
+3067,ENSG00000140287,HDC,histidine decarboxylase [Source:HGNC Symbol;Acc:HGNC:4855],ENTREZGENE_ACC
+8942,ENSG00000115919,KYNU,kynureninase [Source:HGNC Symbol;Acc:HGNC:6469],ENTREZGENE_ACC
+3145,ENSG00000256269,HMBS,hydroxymethylbilane synthase [Source:HGNC Symbol;Acc:HGNC:4982],ENTREZGENE_ACC
+3156,ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006],ENTREZGENE_ACC
+3157,ENSG00000112972,HMGCS1,3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007],ENTREZGENE_ACC
+3158,ENSG00000134240,HMGCS2,3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008],ENTREZGENE_ACC
+54511,ENSG00000146151,HMGCLL1,3-hydroxymethyl-3-methylglutaryl-CoA lyase like 1 [Source:HGNC Symbol;Acc:HGNC:21359],ENTREZGENE_ACC
+3155,ENSG00000117305,HMGCL,3-hydroxy-3-methylglutaryl-CoA lyase [Source:HGNC Symbol;Acc:HGNC:5005],ENTREZGENE_ACC
+3162,ENSG00000100292,HMOX1,heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013],ENTREZGENE_ACC
+3163,ENSG00000103415,HMOX2,heme oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:5014],ENTREZGENE_ACC
+26062,None,None,None,
+6448,ENSG00000181523,SGSH,N-sulfoglucosamine sulfohydrolase [Source:HGNC Symbol;Acc:HGNC:10818],ENTREZGENE_ACC
+3290,ENSG00000117594,HSD11B1,hydroxysteroid 11-beta dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:5208],ENTREZGENE_ACC
+3291,ENSG00000176387,HSD11B2,hydroxysteroid 11-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5209],ENTREZGENE_ACC
+3292,ENSG00000108786,HSD17B1,hydroxysteroid 17-beta dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:5210],ENTREZGENE_ACC
+7923,ENSG00000204228,HSD17B8,hydroxysteroid 17-beta dehydrogenase 8 [Source:HGNC Symbol;Acc:HGNC:3554],ENTREZGENE_ACC
+3294,ENSG00000086696,HSD17B2,hydroxysteroid 17-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5211],ENTREZGENE_ACC
+3293,ENSG00000130948,HSD17B3,hydroxysteroid 17-beta dehydrogenase 3 [Source:HGNC Symbol;Acc:HGNC:5212],ENTREZGENE_ACC
+51478,ENSG00000132196,HSD17B7,hydroxysteroid 17-beta dehydrogenase 7 [Source:HGNC Symbol;Acc:HGNC:5215],ENTREZGENE_ACC
+3283,ENSG00000203857,HSD3B1,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5217]",ENTREZGENE_ACC
+3284,ENSG00000203859,HSD3B2,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2 [Source:HGNC Symbol;Acc:HGNC:5218]",ENTREZGENE_ACC
+80270,ENSG00000099377,HSD3B7,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 [Source:HGNC Symbol;Acc:HGNC:18324]",ENTREZGENE_ACC
+7350,ENSG00000109424,UCP1,uncoupling protein 1 [Source:HGNC Symbol;Acc:HGNC:12517],ENTREZGENE_ACC
+7351,ENSG00000175567,UCP2,uncoupling protein 2 [Source:HGNC Symbol;Acc:HGNC:12518],ENTREZGENE_ACC
+7352,ENSG00000175564,UCP3,uncoupling protein 3 [Source:HGNC Symbol;Acc:HGNC:12519],ENTREZGENE_ACC
+9016,ENSG00000102078,SLC25A14,solute carrier family 25 member 14 [Source:HGNC Symbol;Acc:HGNC:10984],ENTREZGENE_ACC
+9481,ENSG00000153291,SLC25A27,solute carrier family 25 member 27 [Source:HGNC Symbol;Acc:HGNC:21065],ENTREZGENE_ACC
+57026,ENSG00000241360,PDXP,pyridoxal phosphatase [Source:HGNC Symbol;Acc:HGNC:30259],ENTREZGENE_ACC
+7173,ENSG00000115705,TPO,thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015],ENTREZGENE_ACC
+3425,ENSG00000127415,IDUA,alpha-L-iduronidase [Source:HGNC Symbol;Acc:HGNC:5391],ENTREZGENE_ACC
+586,ENSG00000060982,BCAT1,branched chain amino acid transaminase 1 [Source:HGNC Symbol;Acc:HGNC:976],ENTREZGENE_ACC
+587,ENSG00000105552,BCAT2,branched chain amino acid transaminase 2 [Source:HGNC Symbol;Acc:HGNC:977],ENTREZGENE_ACC
+3614,ENSG00000106348,IMPDH1,inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052],ENTREZGENE_ACC
+3615,ENSG00000178035,IMPDH2,inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053],ENTREZGENE_ACC
+3422,ENSG00000067064,IDI1,isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387],ENTREZGENE_ACC
+91734,ENSG00000148377,IDI2,isopentenyl-diphosphate delta isomerase 2 [Source:HGNC Symbol;Acc:HGNC:23487],ENTREZGENE_ACC
+144193,ENSG00000139344,AMDHD1,amidohydrolase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28577],ENTREZGENE_ACC
+23315,ENSG00000197818,SLC9A8,solute carrier family 9 member A8 [Source:HGNC Symbol;Acc:HGNC:20728],ENTREZGENE_ACC
+84679,ENSG00000065923,SLC9A7,solute carrier family 9 member A7 [Source:HGNC Symbol;Acc:HGNC:17123],ENTREZGENE_ACC
+8564,ENSG00000117009,KMO,kynurenine 3-monooxygenase [Source:HGNC Symbol;Acc:HGNC:6381],ENTREZGENE_ACC
+366,ENSG00000103569,AQP9,aquaporin 9 [Source:HGNC Symbol;Acc:HGNC:643],ENTREZGENE_ACC
+3938,ENSG00000115850,LCT,lactase [Source:HGNC Symbol;Acc:HGNC:6530],ENTREZGENE_ACC
+11283,ENSG00000186526,CYP4F8,cytochrome P450 family 4 subfamily F member 8 [Source:HGNC Symbol;Acc:HGNC:2648],ENTREZGENE_ACC
+4047,ENSG00000160285,LSS,lanosterol synthase [Source:HGNC Symbol;Acc:HGNC:6708],ENTREZGENE_ACC
+1178,ENSG00000105205,CLC,Charcot-Leyden crystal galectin [Source:HGNC Symbol;Acc:HGNC:2014],ENTREZGENE_ACC
+29124,ENSG00000105198,LGALS13,galectin 13 [Source:HGNC Symbol;Acc:HGNC:15449],ENTREZGENE_ACC
+5321,ENSG00000116711,PLA2G4A,phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035],ENTREZGENE_ACC
+51268,ENSG00000179761,PIPOX,pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804],ENTREZGENE_ACC
+1056,ENSG00000170835,CEL,carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848],ENTREZGENE_ACC
+3990,ENSG00000166035,LIPC,"lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]",ENTREZGENE_ACC
+4023,ENSG00000175445,LPL,lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677],ENTREZGENE_ACC
+80339,ENSG00000100344,PNPLA3,patatin like phospholipase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:18590],ENTREZGENE_ACC
+11343,ENSG00000074416,MGLL,monoglyceride lipase [Source:HGNC Symbol;Acc:HGNC:17038],ENTREZGENE_ACC
+9227,ENSG00000121207,LRAT,lecithin retinol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6685],ENTREZGENE_ACC
+6309,ENSG00000109929,SC5D,sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547],ENTREZGENE_ACC
+4048,ENSG00000111144,LTA4H,leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710],ENTREZGENE_ACC
+4056,ENSG00000213316,LTC4S,leukotriene C4 synthase [Source:HGNC Symbol;Acc:HGNC:6719],ENTREZGENE_ACC
+4258,ENSG00000085871,MGST2,microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063],ENTREZGENE_ACC
+4259,ENSG00000143198,MGST3,microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064],ENTREZGENE_ACC
+10919,ENSG00000204371,EHMT2,euchromatic histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14129],ENTREZGENE_ACC
+387893,ENSG00000183955,KMT5A,lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489],ENTREZGENE_ACC
+58508,ENSG00000055609,KMT2C,lysine methyltransferase 2C [Source:HGNC Symbol;Acc:HGNC:13726],ENTREZGENE_ACC
+6839,ENSG00000101945,SUV39H1,SUV39H1 histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:11479],ENTREZGENE_ACC
+79723,ENSG00000152455,SUV39H2,SUV39H2 histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:17287],ENTREZGENE_ACC
+79813,ENSG00000181090,EHMT1,euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650],ENTREZGENE_ACC
+80854,ENSG00000145391,SETD7,"SET domain containing 7, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:30412]",ENTREZGENE_ACC
+83852,ENSG00000136169,SETDB2,SET domain bifurcated histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:20263],ENTREZGENE_ACC
+84444,ENSG00000104885,DOT1L,DOT1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:24948],ENTREZGENE_ACC
+9869,ENSG00000143379,SETDB1,SET domain bifurcated histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10761],ENTREZGENE_ACC
+4122,ENSG00000196547,MAN2A2,mannosidase alpha class 2A member 2 [Source:HGNC Symbol;Acc:HGNC:6825],ENTREZGENE_ACC
+4124,ENSG00000112893,MAN2A1,mannosidase alpha class 2A member 1 [Source:HGNC Symbol;Acc:HGNC:6824],ENTREZGENE_ACC
+4245,ENSG00000131446,MGAT1,"alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7044]",ENTREZGENE_ACC
+11282,ENSG00000161013,MGAT4B,"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B [Source:HGNC Symbol;Acc:HGNC:7048]",ENTREZGENE_ACC
+11320,ENSG00000071073,MGAT4A,"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A [Source:HGNC Symbol;Acc:HGNC:7047]",ENTREZGENE_ACC
+4248,ENSG00000128268,MGAT3,"beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7046]",ENTREZGENE_ACC
+4249,ENSG00000152127,MGAT5,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7049]",ENTREZGENE_ACC
+4247,ENSG00000168282,MGAT2,"alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7045]",ENTREZGENE_ACC
+2954,ENSG00000100577,GSTZ1,glutathione S-transferase zeta 1 [Source:HGNC Symbol;Acc:HGNC:4643],ENTREZGENE_ACC
+11253,ENSG00000177239,MAN1B1,mannosidase alpha class 1B member 1 [Source:HGNC Symbol;Acc:HGNC:6823],ENTREZGENE_ACC
+56922,ENSG00000078070,MCCC1,methylcrotonyl-CoA carboxylase subunit 1 [Source:HGNC Symbol;Acc:HGNC:6936],ENTREZGENE_ACC
+64087,ENSG00000131844,MCCC2,methylcrotonyl-CoA carboxylase subunit 2 [Source:HGNC Symbol;Acc:HGNC:6937],ENTREZGENE_ACC
+23417,ENSG00000103150,MLYCD,malonyl-CoA decarboxylase [Source:HGNC Symbol;Acc:HGNC:7150],ENTREZGENE_ACC
+27349,ENSG00000100294,MCAT,malonyl-CoA-acyl carrier protein transacylase [Source:HGNC Symbol;Acc:HGNC:29622],ENTREZGENE_ACC
+4357,ENSG00000128309,MPST,mercaptopyruvate sulfurtransferase [Source:HGNC Symbol;Acc:HGNC:7223],ENTREZGENE_ACC
+1543,ENSG00000140465,CYP1A1,cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595],ENTREZGENE_ACC
+1544,ENSG00000140505,CYP1A2,cytochrome P450 family 1 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:2596],ENTREZGENE_ACC
+1545,ENSG00000138061,CYP1B1,cytochrome P450 family 1 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2597],ENTREZGENE_ACC
+1557,ENSG00000165841,CYP2C19,cytochrome P450 family 2 subfamily C member 19 [Source:HGNC Symbol;Acc:HGNC:2621],ENTREZGENE_ACC
+27430,ENSG00000038274,MAT2B,methionine adenosyltransferase 2 non-catalytic beta subunit [Source:HGNC Symbol;Acc:HGNC:6905],ENTREZGENE_ACC
+4143,ENSG00000151224,MAT1A,methionine adenosyltransferase 1A [Source:HGNC Symbol;Acc:HGNC:6903],ENTREZGENE_ACC
+4144,ENSG00000168906,MAT2A,methionine adenosyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:6904],ENTREZGENE_ACC
+4548,ENSG00000116984,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase [Source:HGNC Symbol;Acc:HGNC:7468],ENTREZGENE_ACC
+4598,ENSG00000110921,MVK,mevalonate kinase [Source:HGNC Symbol;Acc:HGNC:7530],ENTREZGENE_ACC
+7841,ENSG00000115275,MOGS,mannosyl-oligosaccharide glucosidase [Source:HGNC Symbol;Acc:HGNC:24862],ENTREZGENE_ACC
+10905,ENSG00000198162,MAN1A2,mannosidase alpha class 1A member 2 [Source:HGNC Symbol;Acc:HGNC:6822],ENTREZGENE_ACC
+4121,ENSG00000111885,MAN1A1,mannosidase alpha class 1A member 1 [Source:HGNC Symbol;Acc:HGNC:6821],ENTREZGENE_ACC
+57134,ENSG00000117643,MAN1C1,mannosidase alpha class 1C member 1 [Source:HGNC Symbol;Acc:HGNC:19080],ENTREZGENE_ACC
+84693,ENSG00000124370,MCEE,methylmalonyl-CoA epimerase [Source:HGNC Symbol;Acc:HGNC:16732],ENTREZGENE_ACC
+4594,ENSG00000146085,MMUT,methylmalonyl-CoA mutase [Source:HGNC Symbol;Acc:HGNC:7526],ENTREZGENE_ACC
+116255,ENSG00000124003,MOGAT1,monoacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:18210],ENTREZGENE_ACC
+80168,ENSG00000166391,MOGAT2,monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248],ENTREZGENE_ACC
+4507,ENSG00000099810,MTAP,methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413],ENTREZGENE_ACC
+441024,ENSG00000163738,MTHFD2L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2 like [Source:HGNC Symbol;Acc:HGNC:31865],ENTREZGENE_ACC
+10797,ENSG00000065911,MTHFD2,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase [Source:HGNC Symbol;Acc:HGNC:7434]",ENTREZGENE_ACC
+4524,ENSG00000177000,MTHFR,methylenetetrahydrofolate reductase [Source:HGNC Symbol;Acc:HGNC:7436],ENTREZGENE_ACC
+56913,ENSG00000106392,C1GALT1,"core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24337]",ENTREZGENE_ACC
+443,ENSG00000108381,ASPA,aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756],ENTREZGENE_ACC
+91703,ENSG00000132744,ACY3,aminoacylase 3 [Source:HGNC Symbol;Acc:HGNC:24104],ENTREZGENE_ACC
+126328,ENSG00000174886,NDUFA11,NADH:ubiquinone oxidoreductase subunit A11 [Source:HGNC Symbol;Acc:HGNC:20371],ENTREZGENE_ACC
+374291,ENSG00000115286,NDUFS7,NADH:ubiquinone oxidoreductase core subunit S7 [Source:HGNC Symbol;Acc:HGNC:7714],ENTREZGENE_ACC
+4535,ENSG00000198888,MT-ND1,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1 [Source:HGNC Symbol;Acc:HGNC:7455],ENTREZGENE_ACC
+4536,ENSG00000198763,MT-ND2,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2 [Source:HGNC Symbol;Acc:HGNC:7456],ENTREZGENE_ACC
+4537,ENSG00000198840,MT-ND3,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3 [Source:HGNC Symbol;Acc:HGNC:7458],ENTREZGENE_ACC
+4538,ENSG00000198886,MT-ND4,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4 [Source:HGNC Symbol;Acc:HGNC:7459],ENTREZGENE_ACC
+4539,ENSG00000212907,MT-ND4L,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L [Source:HGNC Symbol;Acc:HGNC:7460],ENTREZGENE_ACC
+4540,ENSG00000198786,MT-ND5,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 [Source:HGNC Symbol;Acc:HGNC:7461],ENTREZGENE_ACC
+4541,ENSG00000198695,MT-ND6,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462],ENTREZGENE_ACC
+4694,ENSG00000125356,NDUFA1,NADH:ubiquinone oxidoreductase subunit A1 [Source:HGNC Symbol;Acc:HGNC:7683],ENTREZGENE_ACC
+4695,ENSG00000131495,NDUFA2,NADH:ubiquinone oxidoreductase subunit A2 [Source:HGNC Symbol;Acc:HGNC:7685],ENTREZGENE_ACC
+4696,ENSG00000170906,NDUFA3,NADH:ubiquinone oxidoreductase subunit A3 [Source:HGNC Symbol;Acc:HGNC:7686],ENTREZGENE_ACC
+4697,ENSG00000189043,NDUFA4,NDUFA4 mitochondrial complex associated [Source:HGNC Symbol;Acc:HGNC:7687],ENTREZGENE_ACC
+4698,ENSG00000128609,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5 [Source:HGNC Symbol;Acc:HGNC:7688],ENTREZGENE_ACC
+4700,ENSG00000184983,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6 [Source:HGNC Symbol;Acc:HGNC:7690],ENTREZGENE_ACC
+4701,ENSG00000267855,NDUFA7,NADH:ubiquinone oxidoreductase subunit A7 [Source:HGNC Symbol;Acc:HGNC:7691],ENTREZGENE_ACC
+4702,ENSG00000119421,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8 [Source:HGNC Symbol;Acc:HGNC:7692],ENTREZGENE_ACC
+4704,ENSG00000139180,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9 [Source:HGNC Symbol;Acc:HGNC:7693],ENTREZGENE_ACC
+4705,ENSG00000130414,NDUFA10,NADH:ubiquinone oxidoreductase subunit A10 [Source:HGNC Symbol;Acc:HGNC:7684],ENTREZGENE_ACC
+4706,ENSG00000004779,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1 [Source:HGNC Symbol;Acc:HGNC:7694],ENTREZGENE_ACC
+4707,ENSG00000183648,NDUFB1,NADH:ubiquinone oxidoreductase subunit B1 [Source:HGNC Symbol;Acc:HGNC:7695],ENTREZGENE_ACC
+4708,ENSG00000090266,NDUFB2,NADH:ubiquinone oxidoreductase subunit B2 [Source:HGNC Symbol;Acc:HGNC:7697],ENTREZGENE_ACC
+4709,ENSG00000119013,NDUFB3,NADH:ubiquinone oxidoreductase subunit B3 [Source:HGNC Symbol;Acc:HGNC:7698],ENTREZGENE_ACC
+4710,ENSG00000065518,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699],ENTREZGENE_ACC
+4711,ENSG00000136521,NDUFB5,NADH:ubiquinone oxidoreductase subunit B5 [Source:HGNC Symbol;Acc:HGNC:7700],ENTREZGENE_ACC
+4712,ENSG00000165264,NDUFB6,NADH:ubiquinone oxidoreductase subunit B6 [Source:HGNC Symbol;Acc:HGNC:7701],ENTREZGENE_ACC
+4713,ENSG00000099795,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7 [Source:HGNC Symbol;Acc:HGNC:7702],ENTREZGENE_ACC
+4714,ENSG00000166136,NDUFB8,NADH:ubiquinone oxidoreductase subunit B8 [Source:HGNC Symbol;Acc:HGNC:7703],ENTREZGENE_ACC
+4715,ENSG00000147684,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9 [Source:HGNC Symbol;Acc:HGNC:7704],ENTREZGENE_ACC
+4716,ENSG00000140990,NDUFB10,NADH:ubiquinone oxidoreductase subunit B10 [Source:HGNC Symbol;Acc:HGNC:7696],ENTREZGENE_ACC
+4717,ENSG00000109390,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1 [Source:HGNC Symbol;Acc:HGNC:7705],ENTREZGENE_ACC
+4718,ENSG00000151366,NDUFC2,NADH:ubiquinone oxidoreductase subunit C2 [Source:HGNC Symbol;Acc:HGNC:7706],ENTREZGENE_ACC
+4719,ENSG00000023228,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707],ENTREZGENE_ACC
+4720,ENSG00000158864,NDUFS2,NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708],ENTREZGENE_ACC
+4722,ENSG00000213619,NDUFS3,NADH:ubiquinone oxidoreductase core subunit S3 [Source:HGNC Symbol;Acc:HGNC:7710],ENTREZGENE_ACC
+4723,ENSG00000167792,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1 [Source:HGNC Symbol;Acc:HGNC:7716],ENTREZGENE_ACC
+4724,ENSG00000164258,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4 [Source:HGNC Symbol;Acc:HGNC:7711],ENTREZGENE_ACC
+4725,ENSG00000168653,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5 [Source:HGNC Symbol;Acc:HGNC:7712],ENTREZGENE_ACC
+4726,ENSG00000145494,NDUFS6,NADH:ubiquinone oxidoreductase subunit S6 [Source:HGNC Symbol;Acc:HGNC:7713],ENTREZGENE_ACC
+4728,ENSG00000110717,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8 [Source:HGNC Symbol;Acc:HGNC:7715],ENTREZGENE_ACC
+4729,ENSG00000178127,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717],ENTREZGENE_ACC
+4731,ENSG00000160194,NDUFV3,NADH:ubiquinone oxidoreductase subunit V3 [Source:HGNC Symbol;Acc:HGNC:7719],ENTREZGENE_ACC
+51079,ENSG00000186010,NDUFA13,NADH:ubiquinone oxidoreductase subunit A13 [Source:HGNC Symbol;Acc:HGNC:17194],ENTREZGENE_ACC
+54539,ENSG00000147123,NDUFB11,NADH:ubiquinone oxidoreductase subunit B11 [Source:HGNC Symbol;Acc:HGNC:20372],ENTREZGENE_ACC
+55967,ENSG00000184752,NDUFA12,NADH:ubiquinone oxidoreductase subunit A12 [Source:HGNC Symbol;Acc:HGNC:23987],ENTREZGENE_ACC
+7991,ENSG00000104723,TUSC3,tumor suppressor candidate 3 [Source:HGNC Symbol;Acc:HGNC:30242],ENTREZGENE_ACC
+65220,ENSG00000008130,NADK,NAD kinase [Source:HGNC Symbol;Acc:HGNC:29831],ENTREZGENE_ACC
+55191,ENSG00000172890,NADSYN1,NAD synthetase 1 [Source:HGNC Symbol;Acc:HGNC:29832],ENTREZGENE_ACC
+4668,ENSG00000198951,NAGA,alpha-N-acetylgalactosaminidase [Source:HGNC Symbol;Acc:HGNC:7631],ENTREZGENE_ACC
+55748,ENSG00000133313,CNDP2,carnosine dipeptidase 2 [Source:HGNC Symbol;Acc:HGNC:24437],ENTREZGENE_ACC
+84735,ENSG00000150656,CNDP1,carnosine dipeptidase 1 [Source:HGNC Symbol;Acc:HGNC:20675],ENTREZGENE_ACC
+79077,ENSG00000179958,DCTPP1,dCTP pyrophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:28777],ENTREZGENE_ACC
+124583,ENSG00000171302,CANT1,calcium activated nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:19721],ENTREZGENE_ACC
+957,ENSG00000187097,ENTPD5,ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [Source:HGNC Symbol;Acc:HGNC:3367],ENTREZGENE_ACC
+9583,ENSG00000197217,ENTPD4,ectonucleoside triphosphate diphosphohydrolase 4 [Source:HGNC Symbol;Acc:HGNC:14573],ENTREZGENE_ACC
+29922,ENSG00000143156,NME7,NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461],ENTREZGENE_ACC
+4830,ENSG00000239672,NME1,NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849],ENTREZGENE_ACC
+4831,ENSG00000243678,NME2,NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850],ENTREZGENE_ACC
+4832,ENSG00000103024,NME3,NME/NM23 nucleoside diphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:7851],ENTREZGENE_ACC
+349565,ENSG00000163864,NMNAT3,nicotinamide nucleotide adenylyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:20989],ENTREZGENE_ACC
+64802,ENSG00000173614,NMNAT1,nicotinamide nucleotide adenylyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17877],ENTREZGENE_ACC
+23057,ENSG00000157064,NMNAT2,nicotinamide nucleotide adenylyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16789],ENTREZGENE_ACC
+10135,ENSG00000105835,NAMPT,nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092],ENTREZGENE_ACC
+4837,ENSG00000166741,NNMT,nicotinamide N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:7861],ENTREZGENE_ACC
+5409,ENSG00000141744,PNMT,phenylethanolamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:9160],ENTREZGENE_ACC
+4842,ENSG00000089250,NOS1,nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872],ENTREZGENE_ACC
+4843,ENSG00000007171,NOS2,nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873],ENTREZGENE_ACC
+4846,ENSG00000164867,NOS3,nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876],ENTREZGENE_ACC
+55808,ENSG00000070526,ST6GALNAC1,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23614]",ENTREZGENE_ACC
+22978,ENSG00000076685,NT5C2,"5'-nucleotidase, cytosolic II [Source:HGNC Symbol;Acc:HGNC:8022]",ENTREZGENE_ACC
+30833,ENSG00000125458,NT5C,"5', 3'-nucleotidase, cytosolic [Source:HGNC Symbol;Acc:HGNC:17144]",ENTREZGENE_ACC
+4907,ENSG00000135318,NT5E,5'-nucleotidase ecto [Source:HGNC Symbol;Acc:HGNC:8021],ENTREZGENE_ACC
+51251,ENSG00000122643,NT5C3A,"5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]",ENTREZGENE_ACC
+84618,ENSG00000116981,NT5C1A,"5'-nucleotidase, cytosolic IA [Source:HGNC Symbol;Acc:HGNC:17819]",ENTREZGENE_ACC
+93034,ENSG00000185013,NT5C1B,"5'-nucleotidase, cytosolic IB [Source:HGNC Symbol;Acc:HGNC:17818]",ENTREZGENE_ACC
+5251,ENSG00000102174,PHEX,phosphate regulating endopeptidase X-linked [Source:HGNC Symbol;Acc:HGNC:8918],ENTREZGENE_ACC
+56953,ENSG00000205309,NT5M,"5',3'-nucleotidase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:15769]",ENTREZGENE_ACC
+2978,ENSG00000048545,GUCA1A,guanylate cyclase activator 1A [Source:HGNC Symbol;Acc:HGNC:4678],ENTREZGENE_ACC
+3704,ENSG00000125877,ITPA,inosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:6176],ENTREZGENE_ACC
+5009,ENSG00000036473,OTC,ornithine transcarbamylase [Source:HGNC Symbol;Acc:HGNC:8512],ENTREZGENE_ACC
+5019,ENSG00000083720,OXCT1,3-oxoacid CoA-transferase 1 [Source:HGNC Symbol;Acc:HGNC:8527],ENTREZGENE_ACC
+64064,ENSG00000198754,OXCT2,3-oxoacid CoA-transferase 2 [Source:HGNC Symbol;Acc:HGNC:18606],ENTREZGENE_ACC
+7372,ENSG00000114491,UMPS,uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563],ENTREZGENE_ACC
+26873,ENSG00000178814,OPLAH,"5-oxoprolinase, ATP-hydrolysing [Source:HGNC Symbol;Acc:HGNC:8149]",ENTREZGENE_ACC
+4953,ENSG00000115758,ODC1,ornithine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:8109],ENTREZGENE_ACC
+1583,ENSG00000140459,CYP11A1,cytochrome P450 family 11 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2590],ENTREZGENE_ACC
+1584,ENSG00000160882,CYP11B1,cytochrome P450 family 11 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2591],ENTREZGENE_ACC
+1585,ENSG00000179142,CYP11B2,cytochrome P450 family 11 subfamily B member 2 [Source:HGNC Symbol;Acc:HGNC:2592],ENTREZGENE_ACC
+1586,ENSG00000148795,CYP17A1,cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593],ENTREZGENE_ACC
+1588,ENSG00000137869,CYP19A1,cytochrome P450 family 19 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2594],ENTREZGENE_ACC
+1576,ENSG00000160868,CYP3A4,cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637],ENTREZGENE_ACC
+1589,ENSG00000231852,CYP21A2,cytochrome P450 family 21 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:2600],ENTREZGENE_ACC
+1548,ENSG00000255974,CYP2A6,cytochrome P450 family 2 subfamily A member 6 [Source:HGNC Symbol;Acc:HGNC:2610],ENTREZGENE_ACC
+1553,ENSG00000197838,CYP2A13,cytochrome P450 family 2 subfamily A member 13 [Source:HGNC Symbol;Acc:HGNC:2608],ENTREZGENE_ACC
+1562,ENSG00000108242,CYP2C18,cytochrome P450 family 2 subfamily C member 18 [Source:HGNC Symbol;Acc:HGNC:2620],ENTREZGENE_ACC
+1558,ENSG00000138115,CYP2C8,cytochrome P450 family 2 subfamily C member 8 [Source:HGNC Symbol;Acc:HGNC:2622],ENTREZGENE_ACC
+1559,ENSG00000138109,CYP2C9,cytochrome P450 family 2 subfamily C member 9 [Source:HGNC Symbol;Acc:HGNC:2623],ENTREZGENE_ACC
+1565,ENSG00000100197,CYP2D6,cytochrome P450 family 2 subfamily D member 6 [Source:HGNC Symbol;Acc:HGNC:2625],ENTREZGENE_ACC
+1572,ENSG00000197446,CYP2F1,cytochrome P450 family 2 subfamily F member 1 [Source:HGNC Symbol;Acc:HGNC:2632],ENTREZGENE_ACC
+51302,ENSG00000146233,CYP39A1,cytochrome P450 family 39 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:17449],ENTREZGENE_ACC
+64816,ENSG00000021461,CYP3A43,cytochrome P450 family 3 subfamily A member 43 [Source:HGNC Symbol;Acc:HGNC:17450],ENTREZGENE_ACC
+1577,ENSG00000106258,CYP3A5,cytochrome P450 family 3 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:2638],ENTREZGENE_ACC
+1551,ENSG00000160870,CYP3A7,cytochrome P450 family 3 subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:2640],ENTREZGENE_ACC
+10858,ENSG00000036530,CYP46A1,cytochrome P450 family 46 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2641],ENTREZGENE_ACC
+66002,ENSG00000186204,CYP4F12,cytochrome P450 family 4 subfamily F member 12 [Source:HGNC Symbol;Acc:HGNC:18857],ENTREZGENE_ACC
+4051,ENSG00000186529,CYP4F3,cytochrome P450 family 4 subfamily F member 3 [Source:HGNC Symbol;Acc:HGNC:2646],ENTREZGENE_ACC
+8529,ENSG00000186115,CYP4F2,cytochrome P450 family 4 subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:2645],ENTREZGENE_ACC
+9420,ENSG00000172817,CYP7B1,cytochrome P450 family 7 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2652],ENTREZGENE_ACC
+1582,ENSG00000180432,CYP8B1,cytochrome P450 family 8 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2653],ENTREZGENE_ACC
+5831,ENSG00000183010,PYCR1,pyrroline-5-carboxylate reductase 1 [Source:HGNC Symbol;Acc:HGNC:9721],ENTREZGENE_ACC
+65263,ENSG00000104524,PYCR3,pyrroline-5-carboxylate reductase 3 [Source:HGNC Symbol;Acc:HGNC:25846],ENTREZGENE_ACC
+29920,ENSG00000143811,PYCR2,pyrroline-5-carboxylate reductase 2 [Source:HGNC Symbol;Acc:HGNC:30262],ENTREZGENE_ACC
+5048,ENSG00000007168,PAFAH1B1,platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574],ENTREZGENE_ACC
+5049,ENSG00000168092,PAFAH1B2,platelet activating factor acetylhydrolase 1b catalytic subunit 2 [Source:HGNC Symbol;Acc:HGNC:8575],ENTREZGENE_ACC
+5050,ENSG00000079462,PAFAH1B3,platelet activating factor acetylhydrolase 1b catalytic subunit 3 [Source:HGNC Symbol;Acc:HGNC:8576],ENTREZGENE_ACC
+5051,ENSG00000158006,PAFAH2,platelet activating factor acetylhydrolase 2 [Source:HGNC Symbol;Acc:HGNC:8579],ENTREZGENE_ACC
+347734,ENSG00000157593,SLC35B2,solute carrier family 35 member B2 [Source:HGNC Symbol;Acc:HGNC:16872],ENTREZGENE_ACC
+57194,ENSG00000206190,ATP10A,ATPase phospholipid transporting 10A (putative) [Source:HGNC Symbol;Acc:HGNC:13542],ENTREZGENE_ACC
+5337,ENSG00000075651,PLD1,phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:9067],ENTREZGENE_ACC
+5338,ENSG00000129219,PLD2,phospholipase D2 [Source:HGNC Symbol;Acc:HGNC:9068],ENTREZGENE_ACC
+130013,ENSG00000153086,ACMSD,aminocarboxymuconate semialdehyde decarboxylase [Source:HGNC Symbol;Acc:HGNC:19288],ENTREZGENE_ACC
+5351,ENSG00000083444,PLOD1,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]",ENTREZGENE_ACC
+5352,ENSG00000152952,PLOD2,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]",ENTREZGENE_ACC
+8985,ENSG00000106397,PLOD3,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 [Source:HGNC Symbol;Acc:HGNC:9083]",ENTREZGENE_ACC
+10846,ENSG00000112541,PDE10A,phosphodiesterase 10A [Source:HGNC Symbol;Acc:HGNC:8772],ENTREZGENE_ACC
+27115,ENSG00000171408,PDE7B,phosphodiesterase 7B [Source:HGNC Symbol;Acc:HGNC:8792],ENTREZGENE_ACC
+50940,ENSG00000128655,PDE11A,phosphodiesterase 11A [Source:HGNC Symbol;Acc:HGNC:8773],ENTREZGENE_ACC
+5136,ENSG00000115252,PDE1A,phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774],ENTREZGENE_ACC
+5137,ENSG00000154678,PDE1C,phosphodiesterase 1C [Source:HGNC Symbol;Acc:HGNC:8776],ENTREZGENE_ACC
+5138,ENSG00000186642,PDE2A,phosphodiesterase 2A [Source:HGNC Symbol;Acc:HGNC:8777],ENTREZGENE_ACC
+5139,ENSG00000172572,PDE3A,phosphodiesterase 3A [Source:HGNC Symbol;Acc:HGNC:8778],ENTREZGENE_ACC
+5140,ENSG00000152270,PDE3B,phosphodiesterase 3B [Source:HGNC Symbol;Acc:HGNC:8779],ENTREZGENE_ACC
+5141,ENSG00000065989,PDE4A,phosphodiesterase 4A [Source:HGNC Symbol;Acc:HGNC:8780],ENTREZGENE_ACC
+5142,ENSG00000184588,PDE4B,phosphodiesterase 4B [Source:HGNC Symbol;Acc:HGNC:8781],ENTREZGENE_ACC
+5143,ENSG00000105650,PDE4C,phosphodiesterase 4C [Source:HGNC Symbol;Acc:HGNC:8782],ENTREZGENE_ACC
+5143,ENSG00000285188,PDE4C,phosphodiesterase 4C [Source:NCBI gene (formerly Entrezgene);Acc:5143],ENTREZGENE_ACC
+5144,ENSG00000113448,PDE4D,phosphodiesterase 4D [Source:HGNC Symbol;Acc:HGNC:8783],ENTREZGENE_ACC
+5150,ENSG00000205268,PDE7A,phosphodiesterase 7A [Source:HGNC Symbol;Acc:HGNC:8791],ENTREZGENE_ACC
+5151,ENSG00000073417,PDE8A,phosphodiesterase 8A [Source:HGNC Symbol;Acc:HGNC:8793],ENTREZGENE_ACC
+5153,ENSG00000123360,PDE1B,phosphodiesterase 1B [Source:HGNC Symbol;Acc:HGNC:8775],ENTREZGENE_ACC
+8622,ENSG00000113231,PDE8B,phosphodiesterase 8B [Source:HGNC Symbol;Acc:HGNC:8794],ENTREZGENE_ACC
+8622,ENSG00000284762,PDE8B,phosphodiesterase 8B [Source:NCBI gene (formerly Entrezgene);Acc:8622],ENTREZGENE_ACC
+5145,ENSG00000132915,PDE6A,phosphodiesterase 6A [Source:HGNC Symbol;Acc:HGNC:8785],ENTREZGENE_ACC
+5146,ENSG00000095464,PDE6C,phosphodiesterase 6C [Source:HGNC Symbol;Acc:HGNC:8787],ENTREZGENE_ACC
+5147,ENSG00000156973,PDE6D,phosphodiesterase 6D [Source:HGNC Symbol;Acc:HGNC:8788],ENTREZGENE_ACC
+5148,ENSG00000185527,PDE6G,phosphodiesterase 6G [Source:HGNC Symbol;Acc:HGNC:8789],ENTREZGENE_ACC
+5149,ENSG00000139053,PDE6H,phosphodiesterase 6H [Source:HGNC Symbol;Acc:HGNC:8790],ENTREZGENE_ACC
+5152,ENSG00000160191,PDE9A,phosphodiesterase 9A [Source:HGNC Symbol;Acc:HGNC:8795],ENTREZGENE_ACC
+51520,ENSG00000133706,LARS1,leucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6512],ENTREZGENE_ACC
+51521,None,None,None,
+51522,ENSG00000111843,TMEM14C,transmembrane protein 14C [Source:HGNC Symbol;Acc:HGNC:20952],ENTREZGENE_ACC
+51523,ENSG00000171604,CXXC5,CXXC finger protein 5 [Source:HGNC Symbol;Acc:HGNC:26943],ENTREZGENE_ACC
+51524,ENSG00000149483,TMEM138,transmembrane protein 138 [Source:HGNC Symbol;Acc:HGNC:26944],ENTREZGENE_ACC
+51525,None,None,None,
+51526,ENSG00000132823,OSER1,oxidative stress responsive serine rich 1 [Source:HGNC Symbol;Acc:HGNC:16105],ENTREZGENE_ACC
+51527,ENSG00000100744,GSKIP,GSK3B interacting protein [Source:HGNC Symbol;Acc:HGNC:20343],ENTREZGENE_ACC
+51528,ENSG00000050130,JKAMP,JNK1/MAPK8 associated membrane protein [Source:HGNC Symbol;Acc:HGNC:20184],ENTREZGENE_ACC
+51529,ENSG00000141552,ANAPC11,anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452],ENTREZGENE_ACC
+5158,ENSG00000133256,PDE6B,phosphodiesterase 6B [Source:HGNC Symbol;Acc:HGNC:8786],ENTREZGENE_ACC
+8654,ENSG00000138735,PDE5A,phosphodiesterase 5A [Source:HGNC Symbol;Acc:HGNC:8784],ENTREZGENE_ACC
+55163,ENSG00000108439,PNPO,pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260],ENTREZGENE_ACC
+10396,ENSG00000124406,ATP8A1,ATPase phospholipid transporting 8A1 [Source:HGNC Symbol;Acc:HGNC:13531],ENTREZGENE_ACC
+5105,ENSG00000124253,PCK1,phosphoenolpyruvate carboxykinase 1 [Source:HGNC Symbol;Acc:HGNC:8724],ENTREZGENE_ACC
+8310,ENSG00000087008,ACOX3,"acyl-CoA oxidase 3, pristanoyl [Source:HGNC Symbol;Acc:HGNC:121]",ENTREZGENE_ACC
+10400,ENSG00000133027,PEMT,phosphatidylethanolamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:8830],ENTREZGENE_ACC
+26227,ENSG00000092621,PHGDH,phosphoglycerate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8923],ENTREZGENE_ACC
+27306,ENSG00000163106,HPGDS,hematopoietic prostaglandin D synthase [Source:HGNC Symbol;Acc:HGNC:17890],ENTREZGENE_ACC
+5730,ENSG00000107317,PTGDS,prostaglandin D2 synthase [Source:HGNC Symbol;Acc:HGNC:9592],ENTREZGENE_ACC
+80142,ENSG00000148334,PTGES2,prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822],ENTREZGENE_ACC
+9536,ENSG00000148344,PTGES,prostaglandin E synthase [Source:HGNC Symbol;Acc:HGNC:9599],ENTREZGENE_ACC
+5740,ENSG00000124212,PTGIS,prostaglandin I2 synthase [Source:HGNC Symbol;Acc:HGNC:9603],ENTREZGENE_ACC
+114971,ENSG00000110536,PTPMT1,protein tyrosine phosphatase mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:26965],ENTREZGENE_ACC
+9489,ENSG00000087157,PGS1,phosphatidylglycerophosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:30029],ENTREZGENE_ACC
+5742,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:9604],ENTREZGENE_ACC
+5743,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605],ENTREZGENE_ACC
+6898,ENSG00000198650,TAT,tyrosine aminotransferase [Source:HGNC Symbol;Acc:HGNC:11573],ENTREZGENE_ACC
+5053,ENSG00000171759,PAH,phenylalanine hydroxylase [Source:HGNC Symbol;Acc:HGNC:8582],ENTREZGENE_ACC
+5264,ENSG00000107537,PHYH,phytanoyl-CoA 2-hydroxylase [Source:HGNC Symbol;Acc:HGNC:8940],ENTREZGENE_ACC
+51227,ENSG00000185808,PIGP,phosphatidylinositol glycan anchor biosynthesis class P [Source:HGNC Symbol;Acc:HGNC:3046],ENTREZGENE_ACC
+5277,ENSG00000165195,PIGA,phosphatidylinositol glycan anchor biosynthesis class A [Source:HGNC Symbol;Acc:HGNC:8957],ENTREZGENE_ACC
+5279,ENSG00000135845,PIGC,phosphatidylinositol glycan anchor biosynthesis class C [Source:HGNC Symbol;Acc:HGNC:8960],ENTREZGENE_ACC
+5283,ENSG00000100564,PIGH,phosphatidylinositol glycan anchor biosynthesis class H [Source:HGNC Symbol;Acc:HGNC:8964],ENTREZGENE_ACC
+9091,ENSG00000007541,PIGQ,phosphatidylinositol glycan anchor biosynthesis class Q [Source:HGNC Symbol;Acc:HGNC:14135],ENTREZGENE_ACC
+100137049,ENSG00000243708,PLA2G4B,phospholipase A2 group IVB [Source:HGNC Symbol;Acc:HGNC:9036],ENTREZGENE_ACC
+123745,ENSG00000188089,PLA2G4E,phospholipase A2 group IVE [Source:HGNC Symbol;Acc:HGNC:24791],ENTREZGENE_ACC
+50487,ENSG00000100078,PLA2G3,phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934],ENTREZGENE_ACC
+5320,ENSG00000188257,PLA2G2A,phospholipase A2 group IIA [Source:HGNC Symbol;Acc:HGNC:9031],ENTREZGENE_ACC
+5322,ENSG00000127472,PLA2G5,phospholipase A2 group V [Source:HGNC Symbol;Acc:HGNC:9038],ENTREZGENE_ACC
+64600,ENSG00000158786,PLA2G2F,phospholipase A2 group IIF [Source:HGNC Symbol;Acc:HGNC:30040],ENTREZGENE_ACC
+81579,ENSG00000123739,PLA2G12A,phospholipase A2 group XIIA [Source:HGNC Symbol;Acc:HGNC:18554],ENTREZGENE_ACC
+8398,ENSG00000184381,PLA2G6,phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039],ENTREZGENE_ACC
+23478,ENSG00000140612,SEC11A,"SEC11 homolog A, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:17718]",ENTREZGENE_ACC
+28972,ENSG00000114902,SPCS1,signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401],ENTREZGENE_ACC
+60559,ENSG00000129128,SPCS3,signal peptidase complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:26212],ENTREZGENE_ACC
+90701,ENSG00000166562,SEC11C,"SEC11 homolog C, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:23400]",ENTREZGENE_ACC
+9789,ENSG00000118363,SPCS2,signal peptidase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28962],ENTREZGENE_ACC
+10654,ENSG00000163344,PMVK,phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141],ENTREZGENE_ACC
+8875,ENSG00000112303,VNN2,vanin 2 [Source:HGNC Symbol;Acc:HGNC:12706],ENTREZGENE_ACC
+8876,ENSG00000112299,VNN1,vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705],ENTREZGENE_ACC
+53354,ENSG00000152782,PANK1,pantothenate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8598],ENTREZGENE_ACC
+55229,ENSG00000157881,PANK4,pantothenate kinase 4 (inactive) [Source:HGNC Symbol;Acc:HGNC:19366],ENTREZGENE_ACC
+79646,ENSG00000120137,PANK3,pantothenate kinase 3 [Source:HGNC Symbol;Acc:HGNC:19365],ENTREZGENE_ACC
+80025,ENSG00000125779,PANK2,pantothenate kinase 2 [Source:HGNC Symbol;Acc:HGNC:15894],ENTREZGENE_ACC
+51056,ENSG00000002549,LAP3,leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449],ENTREZGENE_ACC
+58497,ENSG00000143363,PRUNE1,prune exopolyphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:13420],ENTREZGENE_ACC
+64077,ENSG00000107902,LHPP,phospholysine phosphohistidine inorganic pyrophosphate phosphatase [Source:HGNC Symbol;Acc:HGNC:30042],ENTREZGENE_ACC
+27068,ENSG00000138777,PPA2,inorganic pyrophosphatase 2 [Source:HGNC Symbol;Acc:HGNC:28883],ENTREZGENE_ACC
+8611,ENSG00000067113,PLPP1,phospholipid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:9228],ENTREZGENE_ACC
+8612,ENSG00000141934,PLPP2,phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230],ENTREZGENE_ACC
+8613,ENSG00000162407,PLPP3,phospholipid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:9229],ENTREZGENE_ACC
+210,ENSG00000148218,ALAD,aminolevulinate dehydratase [Source:HGNC Symbol;Acc:HGNC:395],ENTREZGENE_ACC
+60490,ENSG00000138621,PPCDC,phosphopantothenoylcysteine decarboxylase [Source:HGNC Symbol;Acc:HGNC:28107],ENTREZGENE_ACC
+79717,ENSG00000127125,PPCS,phosphopantothenoylcysteine synthetase [Source:HGNC Symbol;Acc:HGNC:25686],ENTREZGENE_ACC
+5498,ENSG00000143224,PPOX,protoporphyrinogen oxidase [Source:HGNC Symbol;Acc:HGNC:9280],ENTREZGENE_ACC
+8288,ENSG00000121053,EPX,eosinophil peroxidase [Source:HGNC Symbol;Acc:HGNC:3423],ENTREZGENE_ACC
+9588,ENSG00000117592,PRDX6,peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753],ENTREZGENE_ACC
+4353,ENSG00000005381,MPO,myeloperoxidase [Source:HGNC Symbol;Acc:HGNC:7218],ENTREZGENE_ACC
+5198,ENSG00000178921,PFAS,phosphoribosylformylglycinamidine synthase [Source:HGNC Symbol;Acc:HGNC:8863],ENTREZGENE_ACC
+5033,ENSG00000122884,P4HA1,prolyl 4-hydroxylase subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8546],ENTREZGENE_ACC
+5034,ENSG00000185624,P4HB,prolyl 4-hydroxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8548],ENTREZGENE_ACC
+8974,ENSG00000072682,P4HA2,prolyl 4-hydroxylase subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8547],ENTREZGENE_ACC
+58510,ENSG00000250799,PRODH2,proline dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:17325],ENTREZGENE_ACC
+5625,ENSG00000100033,PRODH,proline dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:9453],ENTREZGENE_ACC
+23761,ENSG00000241878,PISD,phosphatidylserine decarboxylase [Source:HGNC Symbol;Acc:HGNC:8999],ENTREZGENE_ACC
+29968,ENSG00000135069,PSAT1,phosphoserine aminotransferase 1 [Source:HGNC Symbol;Acc:HGNC:19129],ENTREZGENE_ACC
+5723,ENSG00000146733,PSPH,phosphoserine phosphatase [Source:HGNC Symbol;Acc:HGNC:9577],ENTREZGENE_ACC
+9791,ENSG00000156471,PTDSS1,phosphatidylserine synthase 1 [Source:HGNC Symbol;Acc:HGNC:9587],ENTREZGENE_ACC
+81490,ENSG00000174915,PTDSS2,phosphatidylserine synthase 2 [Source:HGNC Symbol;Acc:HGNC:15463],ENTREZGENE_ACC
+10005,ENSG00000101473,ACOT8,acyl-CoA thioesterase 8 [Source:HGNC Symbol;Acc:HGNC:15919],ENTREZGENE_ACC
+10965,ENSG00000119673,ACOT2,acyl-CoA thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:18431],ENTREZGENE_ACC
+122970,ENSG00000177465,ACOT4,acyl-CoA thioesterase 4 [Source:HGNC Symbol;Acc:HGNC:19748],ENTREZGENE_ACC
+5805,ENSG00000150787,PTS,6-pyruvoyltetrahydropterin synthase [Source:HGNC Symbol;Acc:HGNC:9689],ENTREZGENE_ACC
+112483,ENSG00000141504,SAT2,spermidine/spermine N1-acetyltransferase family member 2 [Source:HGNC Symbol;Acc:HGNC:23160],ENTREZGENE_ACC
+6303,ENSG00000130066,SAT1,spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540],ENTREZGENE_ACC
+8566,ENSG00000160209,PDXK,pyridoxal kinase [Source:HGNC Symbol;Acc:HGNC:8819],ENTREZGENE_ACC
+7378,ENSG00000183696,UPP1,uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576],ENTREZGENE_ACC
+9194,ENSG00000118596,SLC16A7,solute carrier family 16 member 7 [Source:HGNC Symbol;Acc:HGNC:10928],ENTREZGENE_ACC
+2944,ENSG00000134184,GSTM1,glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632],ENTREZGENE_ACC
+55312,ENSG00000135002,RFK,riboflavin kinase [Source:HGNC Symbol;Acc:HGNC:30324],ENTREZGENE_ACC
+5959,ENSG00000135437,RDH5,retinol dehydrogenase 5 [Source:HGNC Symbol;Acc:HGNC:9940],ENTREZGENE_ACC
+8608,ENSG00000139547,RDH16,retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674],ENTREZGENE_ACC
+8228,ENSG00000006757,PNPLA4,patatin like phospholipase domain containing 4 [Source:HGNC Symbol;Acc:HGNC:24887],ENTREZGENE_ACC
+50484,ENSG00000048392,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296],ENTREZGENE_ACC
+6240,ENSG00000167325,RRM1,ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451],ENTREZGENE_ACC
+6241,ENSG00000171848,RRM2,ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452],ENTREZGENE_ACC
+54981,ENSG00000106733,NMRK1,nicotinamide riboside kinase 1 [Source:HGNC Symbol;Acc:HGNC:26057],ENTREZGENE_ACC
+6482,ENSG00000008513,ST3GAL1,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10862]",ENTREZGENE_ACC
+6483,ENSG00000157350,ST3GAL2,"ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10863]",ENTREZGENE_ACC
+6484,ENSG00000110080,ST3GAL4,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]",ENTREZGENE_ACC
+6487,ENSG00000126091,ST3GAL3,"ST3 beta-galactoside alpha-2,3-sialyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:10866]",ENTREZGENE_ACC
+64870,None,None,None,
+64871,None,None,None,
+6480,ENSG00000073849,ST6GAL1,"ST6 beta-galactoside alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10860]",ENTREZGENE_ACC
+10090,ENSG00000111962,UST,uronyl 2-sulfotransferase [Source:HGNC Symbol;Acc:HGNC:17223],ENTREZGENE_ACC
+9653,ENSG00000153936,HS2ST1,heparan sulfate 2-O-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:5193],ENTREZGENE_ACC
+3423,ENSG00000010404,IDS,iduronate 2-sulfatase [Source:HGNC Symbol;Acc:HGNC:5389],ENTREZGENE_ACC
+222537,ENSG00000249853,HS3ST5,heparan sulfate-glucosamine 3-sulfotransferase 5 [Source:HGNC Symbol;Acc:HGNC:19419],ENTREZGENE_ACC
+9951,ENSG00000182601,HS3ST4,heparan sulfate-glucosamine 3-sulfotransferase 4 [Source:HGNC Symbol;Acc:HGNC:5200],ENTREZGENE_ACC
+9957,ENSG00000002587,HS3ST1,heparan sulfate-glucosamine 3-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:5194],ENTREZGENE_ACC
+9956,ENSG00000122254,HS3ST2,heparan sulfate-glucosamine 3-sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:5195],ENTREZGENE_ACC
+64711,ENSG00000162040,HS3ST6,heparan sulfate-glucosamine 3-sulfotransferase 6 [Source:HGNC Symbol;Acc:HGNC:14178],ENTREZGENE_ACC
+9953,ENSG00000125430,HS3ST3B1,heparan sulfate-glucosamine 3-sulfotransferase 3B1 [Source:HGNC Symbol;Acc:HGNC:5198],ENTREZGENE_ACC
+9955,ENSG00000153976,HS3ST3A1,heparan sulfate-glucosamine 3-sulfotransferase 3A1 [Source:HGNC Symbol;Acc:HGNC:5196],ENTREZGENE_ACC
+113189,ENSG00000169105,CHST14,carbohydrate sulfotransferase 14 [Source:HGNC Symbol;Acc:HGNC:24464],ENTREZGENE_ACC
+166012,ENSG00000180767,CHST13,carbohydrate sulfotransferase 13 [Source:HGNC Symbol;Acc:HGNC:21755],ENTREZGENE_ACC
+50515,ENSG00000171310,CHST11,carbohydrate sulfotransferase 11 [Source:HGNC Symbol;Acc:HGNC:17422],ENTREZGENE_ACC
+55501,ENSG00000136213,CHST12,carbohydrate sulfotransferase 12 [Source:HGNC Symbol;Acc:HGNC:17423],ENTREZGENE_ACC
+411,ENSG00000113273,ARSB,arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714],ENTREZGENE_ACC
+10164,ENSG00000140835,CHST4,carbohydrate sulfotransferase 4 [Source:HGNC Symbol;Acc:HGNC:1972],ENTREZGENE_ACC
+23563,ENSG00000135702,CHST5,carbohydrate sulfotransferase 5 [Source:HGNC Symbol;Acc:HGNC:1973],ENTREZGENE_ACC
+4166,ENSG00000183196,CHST6,carbohydrate sulfotransferase 6 [Source:HGNC Symbol;Acc:HGNC:6938],ENTREZGENE_ACC
+9435,ENSG00000175040,CHST2,carbohydrate sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:1970],ENTREZGENE_ACC
+8534,ENSG00000175264,CHST1,carbohydrate sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:1969],ENTREZGENE_ACC
+9469,ENSG00000122863,CHST3,carbohydrate sulfotransferase 3 [Source:HGNC Symbol;Acc:HGNC:1971],ENTREZGENE_ACC
+56548,ENSG00000147119,CHST7,carbohydrate sulfotransferase 7 [Source:HGNC Symbol;Acc:HGNC:13817],ENTREZGENE_ACC
+266722,ENSG00000185352,HS6ST3,heparan sulfate 6-O-sulfotransferase 3 [Source:HGNC Symbol;Acc:HGNC:19134],ENTREZGENE_ACC
+90161,ENSG00000171004,HS6ST2,heparan sulfate 6-O-sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:19133],ENTREZGENE_ACC
+9394,ENSG00000136720,HS6ST1,heparan sulfate 6-O-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:5201],ENTREZGENE_ACC
+2799,ENSG00000135677,GNS,glucosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4422],ENTREZGENE_ACC
+10157,ENSG00000008311,AASS,aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366],ENTREZGENE_ACC
+118881,ENSG00000165644,COMTD1,catechol-O-methyltransferase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26309],ENTREZGENE_ACC
+3176,ENSG00000150540,HNMT,histamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:5028],ENTREZGENE_ACC
+1757,ENSG00000123453,SARDH,sarcosine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:10536],ENTREZGENE_ACC
+81537,ENSG00000126821,SGPP1,sphingosine-1-phosphate phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:17720],ENTREZGENE_ACC
+51540,ENSG00000132330,SCLY,selenocysteine lyase [Source:HGNC Symbol;Acc:HGNC:18161],ENTREZGENE_ACC
+22928,ENSG00000179918,SEPHS2,selenophosphate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:19686],ENTREZGENE_ACC
+22929,ENSG00000086475,SEPHS1,selenophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:19685],ENTREZGENE_ACC
+10558,ENSG00000090054,SPTLC1,serine palmitoyltransferase long chain base subunit 1 [Source:HGNC Symbol;Acc:HGNC:11277],ENTREZGENE_ACC
+55304,ENSG00000172296,SPTLC3,serine palmitoyltransferase long chain base subunit 3 [Source:HGNC Symbol;Acc:HGNC:16253],ENTREZGENE_ACC
+9517,ENSG00000100596,SPTLC2,serine palmitoyltransferase long chain base subunit 2 [Source:HGNC Symbol;Acc:HGNC:11278],ENTREZGENE_ACC
+2098,ENSG00000139684,ESD,esterase D [Source:HGNC Symbol;Acc:HGNC:3465],ENTREZGENE_ACC
+8879,ENSG00000166224,SGPL1,sphingosine-1-phosphate lyase 1 [Source:HGNC Symbol;Acc:HGNC:10817],ENTREZGENE_ACC
+129807,ENSG00000204099,NEU4,neuraminidase 4 [Source:HGNC Symbol;Acc:HGNC:21328],ENTREZGENE_ACC
+4759,ENSG00000115488,NEU2,neuraminidase 2 [Source:HGNC Symbol;Acc:HGNC:7759],ENTREZGENE_ACC
+8869,ENSG00000115525,ST3GAL5,"ST3 beta-galactoside alpha-2,3-sialyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:10872]",ENTREZGENE_ACC
+56848,ENSG00000063176,SPHK2,sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859],ENTREZGENE_ACC
+8877,ENSG00000176170,SPHK1,sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240],ENTREZGENE_ACC
+130752,ENSG00000138400,MDH1B,malate dehydrogenase 1B [Source:HGNC Symbol;Acc:HGNC:17836],ENTREZGENE_ACC
+339221,ENSG00000182156,ENPP7,ectonucleotide pyrophosphatase/phosphodiesterase 7 [Source:HGNC Symbol;Acc:HGNC:23764],ENTREZGENE_ACC
+55512,ENSG00000103056,SMPD3,sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240],ENTREZGENE_ACC
+55627,ENSG00000136699,SMPD4,sphingomyelin phosphodiesterase 4 [Source:HGNC Symbol;Acc:HGNC:32949],ENTREZGENE_ACC
+6609,ENSG00000166311,SMPD1,sphingomyelin phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:11120],ENTREZGENE_ACC
+6610,ENSG00000135587,SMPD2,sphingomyelin phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:11121],ENTREZGENE_ACC
+259230,ENSG00000198964,SGMS1,sphingomyelin synthase 1 [Source:HGNC Symbol;Acc:HGNC:29799],ENTREZGENE_ACC
+6646,ENSG00000057252,SOAT1,sterol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:11177],ENTREZGENE_ACC
+6723,ENSG00000116649,SRM,spermidine synthase [Source:HGNC Symbol;Acc:HGNC:11296],ENTREZGENE_ACC
+6647,ENSG00000142168,SOD1,superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179],ENTREZGENE_ACC
+6648,ENSG00000291237,SOD2,superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180],ENTREZGENE_ACC
+6697,ENSG00000116096,SPR,sepiapterin reductase [Source:HGNC Symbol;Acc:HGNC:11257],ENTREZGENE_ACC
+6713,ENSG00000104549,SQLE,squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279],ENTREZGENE_ACC
+2222,ENSG00000079459,FDFT1,farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629],ENTREZGENE_ACC
+6715,ENSG00000145545,SRD5A1,steroid 5 alpha-reductase 1 [Source:HGNC Symbol;Acc:HGNC:11284],ENTREZGENE_ACC
+6716,ENSG00000277893,SRD5A2,steroid 5 alpha-reductase 2 [Source:HGNC Symbol;Acc:HGNC:11285],ENTREZGENE_ACC
+15,ENSG00000129673,AANAT,aralkylamine N-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:19],ENTREZGENE_ACC
+11185,ENSG00000241644,INMT,indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069],ENTREZGENE_ACC
+10402,ENSG00000064225,ST3GAL6,"ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]",ENTREZGENE_ACC
+10610,ENSG00000070731,ST6GALNAC2,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10867]",ENTREZGENE_ACC
+256435,ENSG00000184005,ST6GALNAC3,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:19343]",ENTREZGENE_ACC
+30815,ENSG00000160408,ST6GALNAC6,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:23364]",ENTREZGENE_ACC
+81849,ENSG00000117069,ST6GALNAC5,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:19342]",ENTREZGENE_ACC
+6489,ENSG00000111728,ST8SIA1,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10869]",ENTREZGENE_ACC
+29906,ENSG00000101638,ST8SIA5,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:17827]",ENTREZGENE_ACC
+412,ENSG00000101846,STS,steroid sulfatase [Source:HGNC Symbol;Acc:HGNC:11425],ENTREZGENE_ACC
+6821,ENSG00000139531,SUOX,sulfite oxidase [Source:HGNC Symbol;Acc:HGNC:11460],ENTREZGENE_ACC
+6533,ENSG00000131389,SLC6A6,solute carrier family 6 member 6 [Source:HGNC Symbol;Acc:HGNC:11052],ENTREZGENE_ACC
+5092,ENSG00000166228,PCBD1,pterin-4 alpha-carbinolamine dehydratase 1 [Source:HGNC Symbol;Acc:HGNC:8646],ENTREZGENE_ACC
+23530,ENSG00000112992,NNT,nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863],ENTREZGENE_ACC
+79178,ENSG00000259431,THTPA,thiamine triphosphatase [Source:HGNC Symbol;Acc:HGNC:18987],ENTREZGENE_ACC
+79896,ENSG00000185875,THNSL1,threonine synthase like 1 [Source:HGNC Symbol;Acc:HGNC:26160],ENTREZGENE_ACC
+27010,ENSG00000196511,TPK1,thiamin pyrophosphokinase 1 [Source:HGNC Symbol;Acc:HGNC:17358],ENTREZGENE_ACC
+1890,ENSG00000025708,TYMP,thymidine phosphorylase [Source:HGNC Symbol;Acc:HGNC:3148],ENTREZGENE_ACC
+7298,ENSG00000176890,TYMS,thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441],ENTREZGENE_ACC
+55217,ENSG00000185973,TMLHE,"trimethyllysine hydroxylase, epsilon [Source:HGNC Symbol;Acc:HGNC:18308]",ENTREZGENE_ACC
+10587,ENSG00000184470,TXNRD2,thioredoxin reductase 2 [Source:HGNC Symbol;Acc:HGNC:18155],ENTREZGENE_ACC
+114112,ENSG00000197763,TXNRD3,thioredoxin reductase 3 [Source:HGNC Symbol;Acc:HGNC:20667],ENTREZGENE_ACC
+7296,ENSG00000198431,TXNRD1,thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437],ENTREZGENE_ACC
+121278,ENSG00000139287,TPH2,tryptophan hydroxylase 2 [Source:HGNC Symbol;Acc:HGNC:20692],ENTREZGENE_ACC
+7166,ENSG00000129167,TPH1,tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008],ENTREZGENE_ACC
+169355,ENSG00000188676,IDO2,"indoleamine 2,3-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:27269]",ENTREZGENE_ACC
+6999,ENSG00000151790,TDO2,"tryptophan 2,3-dioxygenase [Source:HGNC Symbol;Acc:HGNC:11708]",ENTREZGENE_ACC
+6916,ENSG00000059377,TBXAS1,thromboxane A synthase 1 [Source:HGNC Symbol;Acc:HGNC:11609],ENTREZGENE_ACC
+7054,ENSG00000180176,TH,tyrosine hydroxylase [Source:HGNC Symbol;Acc:HGNC:11782],ENTREZGENE_ACC
+7306,ENSG00000107165,TYRP1,tyrosinase related protein 1 [Source:HGNC Symbol;Acc:HGNC:12450],ENTREZGENE_ACC
+29880,ENSG00000120697,ALG5,ALG5 dolichyl-phosphate beta-glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:20266],ENTREZGENE_ACC
+23169,ENSG00000116704,SLC35D1,solute carrier family 35 member D1 [Source:HGNC Symbol;Acc:HGNC:20800],ENTREZGENE_ACC
+11046,ENSG00000130958,SLC35D2,solute carrier family 35 member D2 [Source:HGNC Symbol;Acc:HGNC:20799],ENTREZGENE_ACC
+23443,ENSG00000117620,SLC35A3,solute carrier family 35 member A3 [Source:HGNC Symbol;Acc:HGNC:11023],ENTREZGENE_ACC
+84912,ENSG00000205060,SLC35B4,solute carrier family 35 member B4 [Source:HGNC Symbol;Acc:HGNC:20584],ENTREZGENE_ACC
+7357,ENSG00000148154,UGCG,UDP-glucose ceramide glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:12524],ENTREZGENE_ACC
+54576,ENSG00000242366,UGT1A8,UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540],ENTREZGENE_ACC
+54575,ENSG00000242515,UGT1A10,UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531],ENTREZGENE_ACC
+54577,ENSG00000244122,UGT1A7,UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539],ENTREZGENE_ACC
+54578,ENSG00000167165,UGT1A6,UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538],ENTREZGENE_ACC
+54579,ENSG00000288705,UGT1A5,UDP glucuronosyltransferase family 1 member A5 [Source:HGNC Symbol;Acc:HGNC:12537],ENTREZGENE_ACC
+54600,ENSG00000241119,UGT1A9,UDP glucuronosyltransferase family 1 member A9 [Source:HGNC Symbol;Acc:HGNC:12541],ENTREZGENE_ACC
+54657,ENSG00000244474,UGT1A4,UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536],ENTREZGENE_ACC
+54658,ENSG00000241635,UGT1A1,UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530],ENTREZGENE_ACC
+54659,ENSG00000288702,UGT1A3,UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535],ENTREZGENE_ACC
+54490,ENSG00000135226,UGT2B28,UDP glucuronosyltransferase family 2 member B28 [Source:HGNC Symbol;Acc:HGNC:13479],ENTREZGENE_ACC
+7364,ENSG00000171234,UGT2B7,UDP glucuronosyltransferase family 2 member B7 [Source:HGNC Symbol;Acc:HGNC:12554],ENTREZGENE_ACC
+7367,ENSG00000197888,UGT2B17,UDP glucuronosyltransferase family 2 member B17 [Source:HGNC Symbol;Acc:HGNC:12547],ENTREZGENE_ACC
+10720,ENSG00000213759,UGT2B11,UDP glucuronosyltransferase family 2 member B11 [Source:HGNC Symbol;Acc:HGNC:12545],ENTREZGENE_ACC
+7363,ENSG00000156096,UGT2B4,UDP glucuronosyltransferase family 2 member B4 [Source:HGNC Symbol;Acc:HGNC:12553],ENTREZGENE_ACC
+7365,ENSG00000109181,UGT2B10,UDP glucuronosyltransferase family 2 member B10 [Source:HGNC Symbol;Acc:HGNC:12544],ENTREZGENE_ACC
+7366,ENSG00000196620,UGT2B15,UDP glucuronosyltransferase family 2 member B15 [Source:HGNC Symbol;Acc:HGNC:12546],ENTREZGENE_ACC
+7390,ENSG00000188690,UROS,uroporphyrinogen III synthase [Source:HGNC Symbol;Acc:HGNC:12592],ENTREZGENE_ACC
+7389,ENSG00000126088,UROD,uroporphyrinogen decarboxylase [Source:HGNC Symbol;Acc:HGNC:12591],ENTREZGENE_ACC
+131669,ENSG00000159650,UROC1,urocanate hydratase 1 [Source:HGNC Symbol;Acc:HGNC:26444],ENTREZGENE_ACC
+54963,ENSG00000198276,UCKL1,uridine-cytidine kinase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:15938],ENTREZGENE_ACC
+10998,ENSG00000083807,SLC27A5,solute carrier family 27 member 5 [Source:HGNC Symbol;Acc:HGNC:10999],ENTREZGENE_ACC
+7498,ENSG00000158125,XDH,xanthine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12805],ENTREZGENE_ACC
+64131,ENSG00000103489,XYLT1,xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15516],ENTREZGENE_ACC
+64132,ENSG00000015532,XYLT2,xylosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15517],ENTREZGENE_ACC
+2638,ENSG00000145321,GC,GC vitamin D binding protein [Source:HGNC Symbol;Acc:HGNC:4187],ENTREZGENE_ACC
+4036,ENSG00000081479,LRP2,LDL receptor related protein 2 [Source:HGNC Symbol;Acc:HGNC:6694],ENTREZGENE_ACC
+8029,ENSG00000107611,CUBN,cubilin [Source:HGNC Symbol;Acc:HGNC:2548],ENTREZGENE_ACC
+9123,ENSG00000141526,SLC16A3,solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924],ENTREZGENE_ACC
+117247,ENSG00000112394,SLC16A10,solute carrier family 16 member 10 [Source:HGNC Symbol;Acc:HGNC:17027],ENTREZGENE_ACC
+4363,ENSG00000103222,ABCC1,ATP binding cassette subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:51],ENTREZGENE_ACC
+6573,ENSG00000173638,SLC19A1,solute carrier family 19 member 1 [Source:HGNC Symbol;Acc:HGNC:10937],ENTREZGENE_ACC
+6570,ENSG00000036565,SLC18A1,solute carrier family 18 member A1 [Source:HGNC Symbol;Acc:HGNC:10934],ENTREZGENE_ACC
+6571,ENSG00000165646,SLC18A2,solute carrier family 18 member A2 [Source:HGNC Symbol;Acc:HGNC:10935],ENTREZGENE_ACC
+2348,ENSG00000110195,FOLR1,folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791],ENTREZGENE_ACC
+2352,ENSG00000110203,FOLR3,folate receptor gamma [Source:HGNC Symbol;Acc:HGNC:3795],ENTREZGENE_ACC
+6529,ENSG00000157103,SLC6A1,solute carrier family 6 member 1 [Source:HGNC Symbol;Acc:HGNC:11042],ENTREZGENE_ACC
+6538,ENSG00000132164,SLC6A11,solute carrier family 6 member 11 [Source:HGNC Symbol;Acc:HGNC:11044],ENTREZGENE_ACC
+6539,ENSG00000111181,SLC6A12,solute carrier family 6 member 12 [Source:HGNC Symbol;Acc:HGNC:11045],ENTREZGENE_ACC
+6540,ENSG00000010379,SLC6A13,solute carrier family 6 member 13 [Source:HGNC Symbol;Acc:HGNC:11046],ENTREZGENE_ACC
+43,ENSG00000087085,ACHE,acetylcholinesterase (Cartwright blood group) [Source:HGNC Symbol;Acc:HGNC:108],ENTREZGENE_ACC
+6572,ENSG00000187714,SLC18A3,solute carrier family 18 member A3 [Source:HGNC Symbol;Acc:HGNC:10936],ENTREZGENE_ACC
+3177,ENSG00000174669,SLC29A2,solute carrier family 29 member 2 [Source:HGNC Symbol;Acc:HGNC:11004],ENTREZGENE_ACC
+64078,ENSG00000197506,SLC28A3,solute carrier family 28 member 3 [Source:HGNC Symbol;Acc:HGNC:16484],ENTREZGENE_ACC
+9153,ENSG00000137860,SLC28A2,solute carrier family 28 member 2 [Source:HGNC Symbol;Acc:HGNC:11002],ENTREZGENE_ACC
+9154,ENSG00000156222,SLC28A1,solute carrier family 28 member 1 [Source:HGNC Symbol;Acc:HGNC:11001],ENTREZGENE_ACC
+952,ENSG00000004468,CD38,CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667],ENTREZGENE_ACC
+64849,ENSG00000158296,SLC13A3,solute carrier family 13 member 3 [Source:HGNC Symbol;Acc:HGNC:14430],ENTREZGENE_ACC
+6510,ENSG00000105281,SLC1A5,solute carrier family 1 member 5 [Source:HGNC Symbol;Acc:HGNC:10943],ENTREZGENE_ACC
+6509,ENSG00000115902,SLC1A4,solute carrier family 1 member 4 [Source:HGNC Symbol;Acc:HGNC:10942],ENTREZGENE_ACC
+56301,ENSG00000130876,SLC7A10,solute carrier family 7 member 10 [Source:HGNC Symbol;Acc:HGNC:11058],ENTREZGENE_ACC
+6520,ENSG00000168003,SLC3A2,solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026],ENTREZGENE_ACC
+153201,ENSG00000186335,SLC36A2,solute carrier family 36 member 2 [Source:HGNC Symbol;Acc:HGNC:18762],ENTREZGENE_ACC
+11254,ENSG00000268104,SLC6A14,solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047],ENTREZGENE_ACC
+340024,ENSG00000174358,SLC6A19,solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960],ENTREZGENE_ACC
+54407,ENSG00000134294,SLC38A2,solute carrier family 38 member 2 [Source:HGNC Symbol;Acc:HGNC:13448],ENTREZGENE_ACC
+55089,ENSG00000139209,SLC38A4,solute carrier family 38 member 4 [Source:HGNC Symbol;Acc:HGNC:14679],ENTREZGENE_ACC
+57393,ENSG00000147003,CLTRN,"collectrin, amino acid transport regulator [Source:HGNC Symbol;Acc:HGNC:29437]",ENTREZGENE_ACC
+59272,ENSG00000130234,ACE2,angiotensin converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557],ENTREZGENE_ACC
+6541,ENSG00000139514,SLC7A1,solute carrier family 7 member 1 [Source:HGNC Symbol;Acc:HGNC:11057],ENTREZGENE_ACC
+6542,ENSG00000003989,SLC7A2,solute carrier family 7 member 2 [Source:HGNC Symbol;Acc:HGNC:11060],ENTREZGENE_ACC
+81539,ENSG00000111371,SLC38A1,solute carrier family 38 member 1 [Source:HGNC Symbol;Acc:HGNC:13447],ENTREZGENE_ACC
+84889,ENSG00000165349,SLC7A3,solute carrier family 7 member 3 [Source:HGNC Symbol;Acc:HGNC:11061],ENTREZGENE_ACC
+10991,ENSG00000188338,SLC38A3,solute carrier family 38 member 3 [Source:HGNC Symbol;Acc:HGNC:18044],ENTREZGENE_ACC
+92745,ENSG00000017483,SLC38A5,solute carrier family 38 member 5 [Source:HGNC Symbol;Acc:HGNC:18070],ENTREZGENE_ACC
+11136,ENSG00000021488,SLC7A9,solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067],ENTREZGENE_ACC
+276,ENSG00000237763,AMY1A,amylase alpha 1A [Source:HGNC Symbol;Acc:HGNC:474],ENTREZGENE_ACC
+277,ENSG00000174876,AMY1B,amylase alpha 1B [Source:HGNC Symbol;Acc:HGNC:475],ENTREZGENE_ACC
+278,ENSG00000187733,AMY1C,amylase alpha 1C [Source:HGNC Symbol;Acc:HGNC:476],ENTREZGENE_ACC
+279,ENSG00000243480,AMY2A,amylase alpha 2A [Source:HGNC Symbol;Acc:HGNC:477],ENTREZGENE_ACC
+280,ENSG00000240038,AMY2B,amylase alpha 2B [Source:HGNC Symbol;Acc:HGNC:478],ENTREZGENE_ACC
+6519,ENSG00000138079,SLC3A1,solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025],ENTREZGENE_ACC
+9057,ENSG00000103064,SLC7A6,solute carrier family 7 member 6 [Source:HGNC Symbol;Acc:HGNC:11064],ENTREZGENE_ACC
+9962,ENSG00000089057,SLC23A2,solute carrier family 23 member 2 [Source:HGNC Symbol;Acc:HGNC:10973],ENTREZGENE_ACC
+9963,ENSG00000170482,SLC23A1,solute carrier family 23 member 1 [Source:HGNC Symbol;Acc:HGNC:10974],ENTREZGENE_ACC
+6505,ENSG00000106688,SLC1A1,solute carrier family 1 member 1 [Source:HGNC Symbol;Acc:HGNC:10939],ENTREZGENE_ACC
+6506,ENSG00000110436,SLC1A2,solute carrier family 1 member 2 [Source:HGNC Symbol;Acc:HGNC:10940],ENTREZGENE_ACC
+6507,ENSG00000079215,SLC1A3,solute carrier family 1 member 3 [Source:HGNC Symbol;Acc:HGNC:10941],ENTREZGENE_ACC
+6511,ENSG00000105143,SLC1A6,solute carrier family 1 member 6 [Source:HGNC Symbol;Acc:HGNC:10944],ENTREZGENE_ACC
+6512,ENSG00000162383,SLC1A7,solute carrier family 1 member 7 [Source:HGNC Symbol;Acc:HGNC:10945],ENTREZGENE_ACC
+953,ENSG00000138185,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:3363],ENTREZGENE_ACC
+954,ENSG00000054179,ENTPD2,ectonucleoside triphosphate diphosphohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:3364],ENTREZGENE_ACC
+955,ENSG00000197586,ENTPD6,ectonucleoside triphosphate diphosphohydrolase 6 [Source:HGNC Symbol;Acc:HGNC:3368],ENTREZGENE_ACC
+956,ENSG00000168032,ENTPD3,ectonucleoside triphosphate diphosphohydrolase 3 [Source:HGNC Symbol;Acc:HGNC:3365],ENTREZGENE_ACC
+377841,ENSG00000188833,ENTPD8,ectonucleoside triphosphate diphosphohydrolase 8 [Source:HGNC Symbol;Acc:HGNC:24860],ENTREZGENE_ACC
+29881,ENSG00000015520,NPC1L1,NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898],ENTREZGENE_ACC
+949,ENSG00000073060,SCARB1,scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664],ENTREZGENE_ACC
+140679,ENSG00000101438,SLC32A1,solute carrier family 32 member 1 [Source:HGNC Symbol;Acc:HGNC:11018],ENTREZGENE_ACC
+10599,ENSG00000134538,SLCO1B1,solute carrier organic anion transporter family member 1B1 [Source:HGNC Symbol;Acc:HGNC:10959],ENTREZGENE_ACC
+1244,ENSG00000023839,ABCC2,ATP binding cassette subfamily C member 2 [Source:HGNC Symbol;Acc:HGNC:53],ENTREZGENE_ACC
+8714,ENSG00000108846,ABCC3,ATP binding cassette subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:54],ENTREZGENE_ACC
+28234,ENSG00000111700,SLCO1B3,solute carrier organic anion transporter family member 1B3 [Source:HGNC Symbol;Acc:HGNC:10961],ENTREZGENE_ACC
+8884,ENSG00000138074,SLC5A6,solute carrier family 5 member 6 [Source:HGNC Symbol;Acc:HGNC:11041],ENTREZGENE_ACC
+80704,ENSG00000135917,SLC19A3,solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266],ENTREZGENE_ACC
+490,ENSG00000070961,ATP2B1,ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814],ENTREZGENE_ACC
+491,ENSG00000157087,ATP2B2,ATPase plasma membrane Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:815],ENTREZGENE_ACC
+492,ENSG00000067842,ATP2B3,ATPase plasma membrane Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:816],ENTREZGENE_ACC
+493,ENSG00000058668,ATP2B4,ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817],ENTREZGENE_ACC
+10057,ENSG00000114770,ABCC5,ATP binding cassette subfamily C member 5 [Source:HGNC Symbol;Acc:HGNC:56],ENTREZGENE_ACC
+10257,ENSG00000125257,ABCC4,ATP binding cassette subfamily C member 4 [Source:HGNC Symbol;Acc:HGNC:55],ENTREZGENE_ACC
+85320,ENSG00000121270,ABCC11,ATP binding cassette subfamily C member 11 [Source:HGNC Symbol;Acc:HGNC:14639],ENTREZGENE_ACC
+6543,ENSG00000118160,SLC8A2,solute carrier family 8 member A2 [Source:HGNC Symbol;Acc:HGNC:11069],ENTREZGENE_ACC
+6546,ENSG00000183023,SLC8A1,solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068],ENTREZGENE_ACC
+6547,ENSG00000100678,SLC8A3,solute carrier family 8 member A3 [Source:HGNC Symbol;Acc:HGNC:11070],ENTREZGENE_ACC
+6579,ENSG00000084453,SLCO1A2,solute carrier organic anion transporter family member 1A2 [Source:HGNC Symbol;Acc:HGNC:10956],ENTREZGENE_ACC
+6554,ENSG00000100652,SLC10A1,solute carrier family 10 member 1 [Source:HGNC Symbol;Acc:HGNC:10905],ENTREZGENE_ACC
+6555,ENSG00000125255,SLC10A2,solute carrier family 10 member 2 [Source:HGNC Symbol;Acc:HGNC:10906],ENTREZGENE_ACC
+8647,ENSG00000073734,ABCB11,ATP binding cassette subfamily B member 11 [Source:HGNC Symbol;Acc:HGNC:42],ENTREZGENE_ACC
+60482,ENSG00000115665,SLC5A7,solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025],ENTREZGENE_ACC
+6582,ENSG00000112499,SLC22A2,solute carrier family 22 member 2 [Source:HGNC Symbol;Acc:HGNC:10966],ENTREZGENE_ACC
+6584,ENSG00000197375,SLC22A5,solute carrier family 22 member 5 [Source:HGNC Symbol;Acc:HGNC:10969],ENTREZGENE_ACC
+64240,ENSG00000138075,ABCG5,ATP binding cassette subfamily G member 5 [Source:HGNC Symbol;Acc:HGNC:13886],ENTREZGENE_ACC
+64241,ENSG00000143921,ABCG8,ATP binding cassette subfamily G member 8 [Source:HGNC Symbol;Acc:HGNC:13887],ENTREZGENE_ACC
+9058,ENSG00000007216,SLC13A2,solute carrier family 13 member 2 [Source:HGNC Symbol;Acc:HGNC:10917],ENTREZGENE_ACC
+284111,ENSG00000141485,SLC13A5,solute carrier family 13 member 5 [Source:HGNC Symbol;Acc:HGNC:23089],ENTREZGENE_ACC
+5172,ENSG00000091137,SLC26A4,solute carrier family 26 member 4 [Source:HGNC Symbol;Acc:HGNC:8818],ENTREZGENE_ACC
+65010,ENSG00000225697,SLC26A6,solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472],ENTREZGENE_ACC
+386757,ENSG00000290985,SLC6A10P,"solute carrier family 6 member 10, pseudogene [Source:NCBI gene (formerly Entrezgene);Acc:386757]",ENTREZGENE_ACC
+6535,ENSG00000130821,SLC6A8,solute carrier family 6 member 8 [Source:HGNC Symbol;Acc:HGNC:11055],ENTREZGENE_ACC
+6583,ENSG00000197208,SLC22A4,solute carrier family 22 member 4 [Source:HGNC Symbol;Acc:HGNC:10968],ENTREZGENE_ACC
+8140,ENSG00000103257,SLC7A5,solute carrier family 7 member 5 [Source:HGNC Symbol;Acc:HGNC:11063],ENTREZGENE_ACC
+23428,ENSG00000092068,SLC7A8,solute carrier family 7 member 8 [Source:HGNC Symbol;Acc:HGNC:11066],ENTREZGENE_ACC
+124935,ENSG00000167703,SLC43A2,solute carrier family 43 member 2 [Source:HGNC Symbol;Acc:HGNC:23087],ENTREZGENE_ACC
+23657,ENSG00000151012,SLC7A11,solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059],ENTREZGENE_ACC
+23539,ENSG00000100156,SLC16A8,solute carrier family 16 member 8 [Source:HGNC Symbol;Acc:HGNC:16270],ENTREZGENE_ACC
+6515,ENSG00000059804,SLC2A3,solute carrier family 2 member 3 [Source:HGNC Symbol;Acc:HGNC:11007],ENTREZGENE_ACC
+6517,ENSG00000181856,SLC2A4,solute carrier family 2 member 4 [Source:HGNC Symbol;Acc:HGNC:11009],ENTREZGENE_ACC
+11309,ENSG00000137491,SLCO2B1,solute carrier organic anion transporter family member 2B1 [Source:HGNC Symbol;Acc:HGNC:10962],ENTREZGENE_ACC
+6530,ENSG00000103546,SLC6A2,solute carrier family 6 member 2 [Source:HGNC Symbol;Acc:HGNC:11048],ENTREZGENE_ACC
+6531,ENSG00000142319,SLC6A3,solute carrier family 6 member 3 [Source:HGNC Symbol;Acc:HGNC:11049],ENTREZGENE_ACC
+6581,ENSG00000146477,SLC22A3,solute carrier family 22 member 3 [Source:HGNC Symbol;Acc:HGNC:10967],ENTREZGENE_ACC
+28231,ENSG00000101187,SLCO4A1,solute carrier organic anion transporter family member 4A1 [Source:HGNC Symbol;Acc:HGNC:10953],ENTREZGENE_ACC
+53919,ENSG00000139155,SLCO1C1,solute carrier organic anion transporter family member 1C1 [Source:HGNC Symbol;Acc:HGNC:13819],ENTREZGENE_ACC
+28232,ENSG00000176463,SLCO3A1,solute carrier organic anion transporter family member 3A1 [Source:HGNC Symbol;Acc:HGNC:10952],ENTREZGENE_ACC
+10999,ENSG00000167114,SLC27A4,solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998],ENTREZGENE_ACC
+11000,ENSG00000143554,SLC27A3,solute carrier family 27 member 3 [Source:HGNC Symbol;Acc:HGNC:10997],ENTREZGENE_ACC
+376497,ENSG00000130304,SLC27A1,solute carrier family 27 member 1 [Source:HGNC Symbol;Acc:HGNC:10995],ENTREZGENE_ACC
+79901,ENSG00000071967,CYBRD1,cytochrome b reductase 1 [Source:HGNC Symbol;Acc:HGNC:20797],ENTREZGENE_ACC
+155184,ENSG00000197241,SLC2A7,solute carrier family 2 member 7 [Source:HGNC Symbol;Acc:HGNC:13445],ENTREZGENE_ACC
+29988,ENSG00000136856,SLC2A8,solute carrier family 2 member 8 [Source:HGNC Symbol;Acc:HGNC:13812],ENTREZGENE_ACC
+6514,ENSG00000163581,SLC2A2,solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006],ENTREZGENE_ACC
+6518,ENSG00000142583,SLC2A5,solute carrier family 2 member 5 [Source:HGNC Symbol;Acc:HGNC:11010],ENTREZGENE_ACC
+66035,ENSG00000133460,SLC2A11,solute carrier family 2 member 11 [Source:HGNC Symbol;Acc:HGNC:14239],ENTREZGENE_ACC
+125206,ENSG00000154025,SLC5A10,solute carrier family 5 member 10 [Source:HGNC Symbol;Acc:HGNC:23155],ENTREZGENE_ACC
+200010,ENSG00000117834,SLC5A9,solute carrier family 5 member 9 [Source:HGNC Symbol;Acc:HGNC:22146],ENTREZGENE_ACC
+2519,ENSG00000001036,FUCA2,alpha-L-fucosidase 2 [Source:HGNC Symbol;Acc:HGNC:4008],ENTREZGENE_ACC
+81031,ENSG00000197496,SLC2A10,solute carrier family 2 member 10 [Source:HGNC Symbol;Acc:HGNC:13444],ENTREZGENE_ACC
+6523,ENSG00000100170,SLC5A1,solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036],ENTREZGENE_ACC
+6524,ENSG00000140675,SLC5A2,solute carrier family 5 member 2 [Source:HGNC Symbol;Acc:HGNC:11037],ENTREZGENE_ACC
+79017,ENSG00000006625,GGCT,gamma-glutamylcyclotransferase [Source:HGNC Symbol;Acc:HGNC:21705],ENTREZGENE_ACC
+11182,ENSG00000160326,SLC2A6,solute carrier family 2 member 6 [Source:HGNC Symbol;Acc:HGNC:11011],ENTREZGENE_ACC
+144195,ENSG00000173262,SLC2A14,solute carrier family 2 member 14 [Source:HGNC Symbol;Acc:HGNC:18301],ENTREZGENE_ACC
+154091,ENSG00000146411,SLC2A12,solute carrier family 2 member 12 [Source:HGNC Symbol;Acc:HGNC:18067],ENTREZGENE_ACC
+56606,ENSG00000109667,SLC2A9,solute carrier family 2 member 9 [Source:HGNC Symbol;Acc:HGNC:13446],ENTREZGENE_ACC
+115584,ENSG00000158865,SLC5A11,solute carrier family 5 member 11 [Source:HGNC Symbol;Acc:HGNC:23091],ENTREZGENE_ACC
+159963,ENSG00000148942,SLC5A12,solute carrier family 5 member 12 [Source:HGNC Symbol;Acc:HGNC:28750],ENTREZGENE_ACC
+6526,ENSG00000198743,SLC5A3,solute carrier family 5 member 3 [Source:HGNC Symbol;Acc:HGNC:11038],ENTREZGENE_ACC
+246213,ENSG00000179520,SLC17A8,solute carrier family 17 member 8 [Source:HGNC Symbol;Acc:HGNC:20151],ENTREZGENE_ACC
+57030,ENSG00000104888,SLC17A7,solute carrier family 17 member 7 [Source:HGNC Symbol;Acc:HGNC:16704],ENTREZGENE_ACC
+57084,ENSG00000091664,SLC17A6,solute carrier family 17 member 6 [Source:HGNC Symbol;Acc:HGNC:16703],ENTREZGENE_ACC
+6536,ENSG00000196517,SLC6A9,solute carrier family 6 member 9 [Source:HGNC Symbol;Acc:HGNC:11056],ENTREZGENE_ACC
+9152,ENSG00000165970,SLC6A5,solute carrier family 6 member 5 [Source:HGNC Symbol;Acc:HGNC:11051],ENTREZGENE_ACC
+257202,ENSG00000198704,GPX6,glutathione peroxidase 6 [Source:HGNC Symbol;Acc:HGNC:4558],ENTREZGENE_ACC
+2878,ENSG00000211445,GPX3,glutathione peroxidase 3 [Source:HGNC Symbol;Acc:HGNC:4555],ENTREZGENE_ACC
+2882,ENSG00000116157,GPX7,glutathione peroxidase 7 [Source:HGNC Symbol;Acc:HGNC:4559],ENTREZGENE_ACC
+2678,ENSG00000100031,GGT1,gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250],ENTREZGENE_ACC
+2679,None,None,None,
+358,ENSG00000240583,AQP1,aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633],ENTREZGENE_ACC
+359,ENSG00000167580,AQP2,aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634],ENTREZGENE_ACC
+361,ENSG00000171885,AQP4,aquaporin 4 [Source:HGNC Symbol;Acc:HGNC:637],ENTREZGENE_ACC
+362,ENSG00000161798,AQP5,aquaporin 5 [Source:HGNC Symbol;Acc:HGNC:638],ENTREZGENE_ACC
+4284,ENSG00000135517,MIP,major intrinsic protein of lens fiber [Source:HGNC Symbol;Acc:HGNC:7103],ENTREZGENE_ACC
+3036,ENSG00000105509,HAS1,hyaluronan synthase 1 [Source:HGNC Symbol;Acc:HGNC:4818],ENTREZGENE_ACC
+3037,ENSG00000170961,HAS2,hyaluronan synthase 2 [Source:HGNC Symbol;Acc:HGNC:4819],ENTREZGENE_ACC
+3038,ENSG00000103044,HAS3,hyaluronan synthase 3 [Source:HGNC Symbol;Acc:HGNC:4820],ENTREZGENE_ACC
+6508,ENSG00000114923,SLC4A3,solute carrier family 4 member 3 [Source:HGNC Symbol;Acc:HGNC:11029],ENTREZGENE_ACC
+6521,ENSG00000004939,SLC4A1,solute carrier family 4 member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027],ENTREZGENE_ACC
+6522,ENSG00000164889,SLC4A2,solute carrier family 4 member 2 [Source:HGNC Symbol;Acc:HGNC:11028],ENTREZGENE_ACC
+83697,ENSG00000113073,SLC4A9,solute carrier family 4 member 9 [Source:HGNC Symbol;Acc:HGNC:11035],ENTREZGENE_ACC
+9497,ENSG00000033867,SLC4A7,solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033],ENTREZGENE_ACC
+495,ENSG00000105675,ATP4A,ATPase H+/K+ transporting subunit alpha [Source:HGNC Symbol;Acc:HGNC:819],ENTREZGENE_ACC
+496,ENSG00000186009,ATP4B,ATPase H+/K+ transporting subunit beta [Source:HGNC Symbol;Acc:HGNC:820],ENTREZGENE_ACC
+8501,ENSG00000149150,SLC43A1,solute carrier family 43 member 1 [Source:HGNC Symbol;Acc:HGNC:9225],ENTREZGENE_ACC
+114134,ENSG00000151229,SLC2A13,solute carrier family 2 member 13 [Source:HGNC Symbol;Acc:HGNC:15956],ENTREZGENE_ACC
+160728,ENSG00000256870,SLC5A8,solute carrier family 5 member 8 [Source:HGNC Symbol;Acc:HGNC:19119],ENTREZGENE_ACC
+10723,ENSG00000113504,SLC12A7,solute carrier family 12 member 7 [Source:HGNC Symbol;Acc:HGNC:10915],ENTREZGENE_ACC
+6560,ENSG00000124067,SLC12A4,solute carrier family 12 member 4 [Source:HGNC Symbol;Acc:HGNC:10913],ENTREZGENE_ACC
+9990,ENSG00000140199,SLC12A6,solute carrier family 12 member 6 [Source:HGNC Symbol;Acc:HGNC:10914],ENTREZGENE_ACC
+57468,ENSG00000124140,SLC12A5,solute carrier family 12 member 5 [Source:HGNC Symbol;Acc:HGNC:13818],ENTREZGENE_ACC
+682,ENSG00000172270,BSG,basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116],ENTREZGENE_ACC
+3931,ENSG00000213398,LCAT,lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522],ENTREZGENE_ACC
+5406,ENSG00000175535,PNLIP,pancreatic lipase [Source:HGNC Symbol;Acc:HGNC:9155],ENTREZGENE_ACC
+5407,ENSG00000187021,PNLIPRP1,pancreatic lipase related protein 1 [Source:HGNC Symbol;Acc:HGNC:9156],ENTREZGENE_ACC
+5408,ENSG00000266200,PNLIPRP2,pancreatic lipase related protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:9157],ENTREZGENE_ACC
+8513,ENSG00000182333,LIPF,"lipase F, gastric type [Source:HGNC Symbol;Acc:HGNC:6622]",ENTREZGENE_ACC
+9388,ENSG00000101670,LIPG,"lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]",ENTREZGENE_ACC
+57282,ENSG00000144290,SLC4A10,solute carrier family 4 member 10 [Source:HGNC Symbol;Acc:HGNC:13811],ENTREZGENE_ACC
+9498,ENSG00000050438,SLC4A8,solute carrier family 4 member 8 [Source:HGNC Symbol;Acc:HGNC:11034],ENTREZGENE_ACC
+6528,ENSG00000105641,SLC5A5,solute carrier family 5 member 5 [Source:HGNC Symbol;Acc:HGNC:11040],ENTREZGENE_ACC
+23439,ENSG00000101892,ATP1B4,ATPase Na+/K+ transporting family member beta 4 [Source:HGNC Symbol;Acc:HGNC:808],ENTREZGENE_ACC
+476,ENSG00000163399,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799],ENTREZGENE_ACC
+477,ENSG00000018625,ATP1A2,ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800],ENTREZGENE_ACC
+478,ENSG00000105409,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:801],ENTREZGENE_ACC
+480,ENSG00000132681,ATP1A4,ATPase Na+/K+ transporting subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:14073],ENTREZGENE_ACC
+481,ENSG00000143153,ATP1B1,ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804],ENTREZGENE_ACC
+482,ENSG00000129244,ATP1B2,ATPase Na+/K+ transporting subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:805],ENTREZGENE_ACC
+483,ENSG00000069849,ATP1B3,ATPase Na+/K+ transporting subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:806],ENTREZGENE_ACC
+389015,ENSG00000180251,SLC9A4,solute carrier family 9 member A4 [Source:HGNC Symbol;Acc:HGNC:11077],ENTREZGENE_ACC
+6548,ENSG00000090020,SLC9A1,solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071],ENTREZGENE_ACC
+6549,ENSG00000115616,SLC9A2,solute carrier family 9 member A2 [Source:HGNC Symbol;Acc:HGNC:11072],ENTREZGENE_ACC
+6550,ENSG00000066230,SLC9A3,solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073],ENTREZGENE_ACC
+6553,ENSG00000135740,SLC9A5,solute carrier family 9 member A5 [Source:HGNC Symbol;Acc:HGNC:11078],ENTREZGENE_ACC
+6559,ENSG00000070915,SLC12A3,solute carrier family 12 member 3 [Source:HGNC Symbol;Acc:HGNC:10912],ENTREZGENE_ACC
+123041,ENSG00000140090,SLC24A4,solute carrier family 24 member 4 [Source:HGNC Symbol;Acc:HGNC:10978],ENTREZGENE_ACC
+25769,ENSG00000155886,SLC24A2,solute carrier family 24 member 2 [Source:HGNC Symbol;Acc:HGNC:10976],ENTREZGENE_ACC
+57419,ENSG00000185052,SLC24A3,solute carrier family 24 member 3 [Source:HGNC Symbol;Acc:HGNC:10977],ENTREZGENE_ACC
+9187,ENSG00000074621,SLC24A1,solute carrier family 24 member 1 [Source:HGNC Symbol;Acc:HGNC:10975],ENTREZGENE_ACC
+57127,ENSG00000132677,RHBG,Rh family B glycoprotein [Source:HGNC Symbol;Acc:HGNC:14572],ENTREZGENE_ACC
+6005,ENSG00000112077,RHAG,Rh associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:10006],ENTREZGENE_ACC
+6557,ENSG00000074803,SLC12A1,solute carrier family 12 member 1 [Source:HGNC Symbol;Acc:HGNC:10910],ENTREZGENE_ACC
+6558,ENSG00000064651,SLC12A2,solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911],ENTREZGENE_ACC
+6580,ENSG00000175003,SLC22A1,solute carrier family 22 member 1 [Source:HGNC Symbol;Acc:HGNC:10963],ENTREZGENE_ACC
+6476,ENSG00000090402,SI,sucrase-isomaltase [Source:HGNC Symbol;Acc:HGNC:10856],ENTREZGENE_ACC
+10861,ENSG00000145217,SLC26A1,solute carrier family 26 member 1 [Source:HGNC Symbol;Acc:HGNC:10993],ENTREZGENE_ACC
+1811,ENSG00000091138,SLC26A3,solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018],ENTREZGENE_ACC
+1836,ENSG00000155850,SLC26A2,solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994],ENTREZGENE_ACC
+7941,ENSG00000146070,PLA2G7,phospholipase A2 group VII [Source:HGNC Symbol;Acc:HGNC:9040],ENTREZGENE_ACC
+5244,ENSG00000005471,ABCB4,ATP binding cassette subfamily B member 4 [Source:HGNC Symbol;Acc:HGNC:45],ENTREZGENE_ACC
+113235,ENSG00000076351,SLC46A1,solute carrier family 46 member 1 [Source:HGNC Symbol;Acc:HGNC:30521],ENTREZGENE_ACC
+4035,ENSG00000123384,LRP1,LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692],ENTREZGENE_ACC
+10050,ENSG00000146039,SLC17A4,solute carrier family 17 member 4 [Source:HGNC Symbol;Acc:HGNC:10932],ENTREZGENE_ACC
+10246,ENSG00000112337,SLC17A2,solute carrier family 17 member 2 [Source:HGNC Symbol;Acc:HGNC:10930],ENTREZGENE_ACC
+10568,ENSG00000157765,SLC34A2,solute carrier family 34 member 2 [Source:HGNC Symbol;Acc:HGNC:11020],ENTREZGENE_ACC
+10786,ENSG00000124564,SLC17A3,solute carrier family 17 member 3 [Source:HGNC Symbol;Acc:HGNC:10931],ENTREZGENE_ACC
+6568,ENSG00000124568,SLC17A1,solute carrier family 17 member 1 [Source:HGNC Symbol;Acc:HGNC:10929],ENTREZGENE_ACC
+6569,ENSG00000131183,SLC34A1,solute carrier family 34 member 1 [Source:HGNC Symbol;Acc:HGNC:11019],ENTREZGENE_ACC
+6574,ENSG00000144136,SLC20A1,solute carrier family 20 member 1 [Source:HGNC Symbol;Acc:HGNC:10946],ENTREZGENE_ACC
+6575,ENSG00000168575,SLC20A2,solute carrier family 20 member 2 [Source:HGNC Symbol;Acc:HGNC:10947],ENTREZGENE_ACC
+142680,ENSG00000198569,SLC34A3,solute carrier family 34 member 3 [Source:HGNC Symbol;Acc:HGNC:20305],ENTREZGENE_ACC
+26279,ENSG00000117215,PLA2G2D,phospholipase A2 group IID [Source:HGNC Symbol;Acc:HGNC:9033],ENTREZGENE_ACC
+30814,ENSG00000188784,PLA2G2E,phospholipase A2 group IIE [Source:HGNC Symbol;Acc:HGNC:13414],ENTREZGENE_ACC
+5319,ENSG00000170890,PLA2G1B,phospholipase A2 group IB [Source:HGNC Symbol;Acc:HGNC:9030],ENTREZGENE_ACC
+8399,ENSG00000069764,PLA2G10,phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029],ENTREZGENE_ACC
+6578,ENSG00000174640,SLCO2A1,solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955],ENTREZGENE_ACC
+6534,ENSG00000011083,SLC6A7,solute carrier family 6 member 7 [Source:HGNC Symbol;Acc:HGNC:11054],ENTREZGENE_ACC
+5947,ENSG00000114115,RBP1,retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919],ENTREZGENE_ACC
+5948,ENSG00000114113,RBP2,retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920],ENTREZGENE_ACC
+5950,ENSG00000138207,RBP4,retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922],ENTREZGENE_ACC
+64220,ENSG00000137868,STRA6,signaling receptor and transporter of retinol STRA6 [Source:HGNC Symbol;Acc:HGNC:30650],ENTREZGENE_ACC
+113278,ENSG00000101276,SLC52A3,solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187],ENTREZGENE_ACC
+6561,ENSG00000081800,SLC13A1,solute carrier family 13 member 1 [Source:HGNC Symbol;Acc:HGNC:10916],ENTREZGENE_ACC
+9056,ENSG00000155465,SLC7A7,solute carrier family 7 member 7 [Source:HGNC Symbol;Acc:HGNC:11065],ENTREZGENE_ACC
+115019,ENSG00000174502,SLC26A9,solute carrier family 26 member 9 [Source:HGNC Symbol;Acc:HGNC:14469],ENTREZGENE_ACC
+115111,ENSG00000147606,SLC26A7,solute carrier family 26 member 7 [Source:HGNC Symbol;Acc:HGNC:14467],ENTREZGENE_ACC
+116369,ENSG00000112053,SLC26A8,solute carrier family 26 member 8 [Source:HGNC Symbol;Acc:HGNC:14468],ENTREZGENE_ACC
+284129,ENSG00000181045,SLC26A11,solute carrier family 26 member 11 [Source:HGNC Symbol;Acc:HGNC:14471],ENTREZGENE_ACC
+26266,ENSG00000164707,SLC13A4,solute carrier family 13 member 4 [Source:HGNC Symbol;Acc:HGNC:15827],ENTREZGENE_ACC
+6649,ENSG00000109610,SOD3,superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181],ENTREZGENE_ACC
+6532,ENSG00000108576,SLC6A4,solute carrier family 6 member 4 [Source:HGNC Symbol;Acc:HGNC:11050],ENTREZGENE_ACC
+10560,ENSG00000117479,SLC19A2,solute carrier family 19 member 2 [Source:HGNC Symbol;Acc:HGNC:10938],ENTREZGENE_ACC
+6567,ENSG00000147100,SLC16A2,solute carrier family 16 member 2 [Source:HGNC Symbol;Acc:HGNC:10923],ENTREZGENE_ACC
+120103,ENSG00000180773,SLC36A4,solute carrier family 36 member 4 [Source:HGNC Symbol;Acc:HGNC:19660],ENTREZGENE_ACC
+6563,ENSG00000141469,SLC14A1,solute carrier family 14 member 1 (Kidd blood group) [Source:HGNC Symbol;Acc:HGNC:10918],ENTREZGENE_ACC
+8170,ENSG00000132874,SLC14A2,solute carrier family 14 member 2 [Source:HGNC Symbol;Acc:HGNC:10919],ENTREZGENE_ACC
+948,ENSG00000135218,CD36,CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663],ENTREZGENE_ACC
+51102,ENSG00000116353,MECR,mitochondrial trans-2-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:19691],ENTREZGENE_ACC
+55825,ENSG00000115425,PECR,peroxisomal trans-2-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:18281],ENTREZGENE_ACC
+79966,ENSG00000145284,SCD5,stearoyl-CoA desaturase 5 [Source:HGNC Symbol;Acc:HGNC:21088],ENTREZGENE_ACC
+10724,ENSG00000198408,OGA,O-GlcNAcase [Source:HGNC Symbol;Acc:HGNC:7056],ENTREZGENE_ACC
+100526794,ENSG00000250741,NT5C1B-RDH14,NT5C1B-RDH14 readthrough [Source:HGNC Symbol;Acc:HGNC:38831],ENTREZGENE_ACC
+56954,ENSG00000114021,NIT2,nitrilase family member 2 [Source:HGNC Symbol;Acc:HGNC:29878],ENTREZGENE_ACC
+374569,ENSG00000166183,ASPG,asparaginase [Source:HGNC Symbol;Acc:HGNC:20123],ENTREZGENE_ACC
+102724197,None,None,None,
+124975,ENSG00000167741,GGT6,gamma-glutamyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:26891],ENTREZGENE_ACC
+2686,ENSG00000131067,GGT7,gamma-glutamyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4259],ENTREZGENE_ACC
+728441,None,None,None,
+91227,ENSG00000100121,GGTLC2,gamma-glutamyltransferase light chain 2 [Source:HGNC Symbol;Acc:HGNC:18596],ENTREZGENE_ACC
+92086,ENSG00000149435,GGTLC1,gamma-glutamyltransferase light chain 1 [Source:HGNC Symbol;Acc:HGNC:16437],ENTREZGENE_ACC
+29925,ENSG00000173540,GMPPB,GDP-mannose pyrophosphorylase B [Source:HGNC Symbol;Acc:HGNC:22932],ENTREZGENE_ACC
+29926,ENSG00000144591,GMPPA,GDP-mannose pyrophosphorylase A [Source:HGNC Symbol;Acc:HGNC:22923],ENTREZGENE_ACC
+102724560,ENSG00000160200,CBS,cystathionine beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550],ENTREZGENE_ACC
+102724560,ENSG00000274276,None,cystathionine-beta-synthase like,ENTREZGENE_ACC
+8418,None,None,None,
+57571,ENSG00000172508,CARNS1,carnosine synthase 1 [Source:HGNC Symbol;Acc:HGNC:29268],ENTREZGENE_ACC
+11332,ENSG00000097021,ACOT7,acyl-CoA thioesterase 7 [Source:HGNC Symbol;Acc:HGNC:24157],ENTREZGENE_ACC
+5538,ENSG00000131238,PPT1,palmitoyl-protein thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:9325],ENTREZGENE_ACC
+641371,ENSG00000184227,ACOT1,acyl-CoA thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:33128],ENTREZGENE_ACC
+9374,ENSG00000221988,PPT2,palmitoyl-protein thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:9326],ENTREZGENE_ACC
+33,ENSG00000115361,ACADL,acyl-CoA dehydrogenase long chain [Source:HGNC Symbol;Acc:HGNC:88],ENTREZGENE_ACC
+37,ENSG00000072778,ACADVL,acyl-CoA dehydrogenase very long chain [Source:HGNC Symbol;Acc:HGNC:92],ENTREZGENE_ACC
+132158,ENSG00000168237,GLYCTK,glycerate kinase [Source:HGNC Symbol;Acc:HGNC:24247],ENTREZGENE_ACC
+100507855,None,None,None,
+122481,ENSG00000140057,AK7,adenylate kinase 7 [Source:HGNC Symbol;Acc:HGNC:20091],ENTREZGENE_ACC
+60496,ENSG00000149313,AASDHPPT,aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase [Source:HGNC Symbol;Acc:HGNC:14235],ENTREZGENE_ACC
+641649,ENSG00000142046,TMEM91,transmembrane protein 91 [Source:HGNC Symbol;Acc:HGNC:32393],ENTREZGENE_ACC
+23475,ENSG00000103485,QPRT,quinolinate phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:9755],ENTREZGENE_ACC
+93100,ENSG00000147813,NAPRT,nicotinate phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30450],ENTREZGENE_ACC
+84890,ENSG00000181915,ADO,2-aminoethanethiol dioxygenase [Source:HGNC Symbol;Acc:HGNC:23506],ENTREZGENE_ACC
+83594,ENSG00000112874,NUDT12,nudix hydrolase 12 [Source:HGNC Symbol;Acc:HGNC:18826],ENTREZGENE_ACC
+7263,ENSG00000128311,TST,thiosulfate sulfurtransferase [Source:HGNC Symbol;Acc:HGNC:12388],ENTREZGENE_ACC
+7108,ENSG00000149809,TM7SF2,transmembrane 7 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11863],ENTREZGENE_ACC
+1595,ENSG00000001630,CYP51A1,cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649],ENTREZGENE_ACC
+130367,ENSG00000163082,SGPP2,sphingosine-1-phosphate phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:19953],ENTREZGENE_ACC
+213,ENSG00000163631,ALB,albumin [Source:HGNC Symbol;Acc:HGNC:399],ENTREZGENE_ACC
+12,ENSG00000196136,SERPINA3,serpin family A member 3 [Source:HGNC Symbol;Acc:HGNC:16],ENTREZGENE_ACC
+5265,ENSG00000197249,SERPINA1,serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941],ENTREZGENE_ACC
+338,ENSG00000084674,APOB,apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603],ENTREZGENE_ACC
+341,ENSG00000130208,APOC1,apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607],ENTREZGENE_ACC
+344,ENSG00000234906,APOC2,apolipoprotein C2 [Source:HGNC Symbol;Acc:HGNC:609],ENTREZGENE_ACC
+345,ENSG00000110245,APOC3,apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610],ENTREZGENE_ACC
+2243,ENSG00000171560,FGA,fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661],ENTREZGENE_ACC
+5340,ENSG00000122194,PLG,plasminogen [Source:HGNC Symbol;Acc:HGNC:9071],ENTREZGENE_ACC
+2147,ENSG00000180210,F2,"coagulation factor II, thrombin [Source:HGNC Symbol;Acc:HGNC:3535]",ENTREZGENE_ACC
+348,ENSG00000130203,APOE,apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613],ENTREZGENE_ACC
+335,ENSG00000118137,APOA1,apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600],ENTREZGENE_ACC
+8435,ENSG00000167780,SOAT2,sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178],ENTREZGENE_ACC
+3988,ENSG00000107798,LIPA,"lipase A, lysosomal acid type [Source:HGNC Symbol;Acc:HGNC:6617]",ENTREZGENE_ACC
+54995,ENSG00000151093,OXSM,"3-oxoacyl-ACP synthase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26063]",ENTREZGENE_ACC
+387775,ENSG00000184999,SLC22A10,solute carrier family 22 member 10 [Source:HGNC Symbol;Acc:HGNC:18057],ENTREZGENE_ACC
+26063,ENSG00000242612,DECR2,"2,4-dienoyl-CoA reductase 2 [Source:HGNC Symbol;Acc:HGNC:2754]",ENTREZGENE_ACC
+1666,ENSG00000104325,DECR1,"2,4-dienoyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:2753]",ENTREZGENE_ACC
+215,ENSG00000101986,ABCD1,ATP binding cassette subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:61],ENTREZGENE_ACC
+225,ENSG00000173208,ABCD2,ATP binding cassette subfamily D member 2 [Source:HGNC Symbol;Acc:HGNC:66],ENTREZGENE_ACC
+1622,ENSG00000155368,DBI,"diazepam binding inhibitor, acyl-CoA binding protein [Source:HGNC Symbol;Acc:HGNC:2690]",ENTREZGENE_ACC
+54716,ENSG00000163817,SLC6A20,solute carrier family 6 member 20 [Source:HGNC Symbol;Acc:HGNC:30927],ENTREZGENE_ACC
+52,ENSG00000143727,ACP1,acid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:122],ENTREZGENE_ACC
+6564,ENSG00000088386,SLC15A1,solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920],ENTREZGENE_ACC
+121260,ENSG00000139370,SLC15A4,solute carrier family 15 member 4 [Source:HGNC Symbol;Acc:HGNC:23090],ENTREZGENE_ACC
+51296,ENSG00000110446,SLC15A3,solute carrier family 15 member 3 [Source:HGNC Symbol;Acc:HGNC:18068],ENTREZGENE_ACC
+6565,ENSG00000163406,SLC15A2,solute carrier family 15 member 2 [Source:HGNC Symbol;Acc:HGNC:10921],ENTREZGENE_ACC
+28965,ENSG00000113396,SLC27A6,solute carrier family 27 member 6 [Source:HGNC Symbol;Acc:HGNC:11000],ENTREZGENE_ACC
+23205,ENSG00000103740,ACSBG1,acyl-CoA synthetase bubblegum family member 1 [Source:HGNC Symbol;Acc:HGNC:29567],ENTREZGENE_ACC
+26061,ENSG00000131373,HACL1,2-hydroxyacyl-CoA lyase 1 [Source:HGNC Symbol;Acc:HGNC:17856],ENTREZGENE_ACC
+4891,ENSG00000110911,SLC11A2,solute carrier family 11 member 2 [Source:HGNC Symbol;Acc:HGNC:10908],ENTREZGENE_ACC
+30061,ENSG00000138449,SLC40A1,solute carrier family 40 member 1 [Source:HGNC Symbol;Acc:HGNC:10909],ENTREZGENE_ACC
+1356,ENSG00000047457,CP,ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295],ENTREZGENE_ACC
+2395,ENSG00000165060,FXN,frataxin [Source:HGNC Symbol;Acc:HGNC:3951],ENTREZGENE_ACC
+9843,ENSG00000089472,HEPH,hephaestin [Source:HGNC Symbol;Acc:HGNC:4866],ENTREZGENE_ACC
+1800,ENSG00000015413,DPEP1,dipeptidase 1 [Source:HGNC Symbol;Acc:HGNC:3002],ENTREZGENE_ACC
+5184,ENSG00000124299,PEPD,peptidase D [Source:HGNC Symbol;Acc:HGNC:8840],ENTREZGENE_ACC
+1200,ENSG00000166340,TPP1,tripeptidyl peptidase 1 [Source:HGNC Symbol;Acc:HGNC:2073],ENTREZGENE_ACC
+2168,ENSG00000163586,FABP1,fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555],ENTREZGENE_ACC
+9390,ENSG00000172940,SLC22A13,solute carrier family 22 member 13 [Source:HGNC Symbol;Acc:HGNC:8494],ENTREZGENE_ACC
+10864,ENSG00000137204,SLC22A7,solute carrier family 22 member 7 [Source:HGNC Symbol;Acc:HGNC:10971],ENTREZGENE_ACC
+28982,ENSG00000162769,FLVCR1,FLVCR heme transporter 1 [Source:HGNC Symbol;Acc:HGNC:24682],ENTREZGENE_ACC
+5825,ENSG00000117528,ABCD3,ATP binding cassette subfamily D member 3 [Source:HGNC Symbol;Acc:HGNC:67],ENTREZGENE_ACC
+2495,ENSG00000167996,FTH1,ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976],ENTREZGENE_ACC
+2512,ENSG00000087086,FTL,ferritin light chain [Source:HGNC Symbol;Acc:HGNC:3999],ENTREZGENE_ACC
+94033,ENSG00000181867,FTMT,ferritin mitochondrial [Source:HGNC Symbol;Acc:HGNC:17345],ENTREZGENE_ACC
+10478,ENSG00000100372,SLC25A17,solute carrier family 25 member 17 [Source:HGNC Symbol;Acc:HGNC:10987],ENTREZGENE_ACC
+2350,ENSG00000165457,FOLR2,folate receptor beta [Source:HGNC Symbol;Acc:HGNC:3793],ENTREZGENE_ACC
+767,ENSG00000178538,CA8,carbonic anhydrase 8 [Source:HGNC Symbol;Acc:HGNC:1382],ENTREZGENE_ACC
+10060,ENSG00000069431,ABCC9,ATP binding cassette subfamily C member 9 [Source:HGNC Symbol;Acc:HGNC:60],ENTREZGENE_ACC
+3764,ENSG00000121361,KCNJ8,potassium inwardly rectifying channel subfamily J member 8 [Source:HGNC Symbol;Acc:HGNC:6269],ENTREZGENE_ACC
+3767,ENSG00000187486,KCNJ11,potassium inwardly rectifying channel subfamily J member 11 [Source:HGNC Symbol;Acc:HGNC:6257],ENTREZGENE_ACC
+6833,ENSG00000006071,ABCC8,ATP binding cassette subfamily C member 8 [Source:HGNC Symbol;Acc:HGNC:59],ENTREZGENE_ACC
+57835,ENSG00000188687,SLC4A5,solute carrier family 4 member 5 [Source:HGNC Symbol;Acc:HGNC:18168],ENTREZGENE_ACC
+6556,ENSG00000018280,SLC11A1,solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907],ENTREZGENE_ACC
+7779,ENSG00000170385,SLC30A1,solute carrier family 30 member 1 [Source:HGNC Symbol;Acc:HGNC:11012],ENTREZGENE_ACC
+54020,ENSG00000160190,SLC37A1,solute carrier family 37 member 1 [Source:HGNC Symbol;Acc:HGNC:11024],ENTREZGENE_ACC
+55065,ENSG00000132517,SLC52A1,solute carrier family 52 member 1 [Source:HGNC Symbol;Acc:HGNC:30225],ENTREZGENE_ACC
+79581,ENSG00000185803,SLC52A2,solute carrier family 52 member 2 [Source:HGNC Symbol;Acc:HGNC:30224],ENTREZGENE_ACC
+84340,ENSG00000164347,GFM2,GTP dependent ribosome recycling factor mitochondrial 2 [Source:HGNC Symbol;Acc:HGNC:29682],ENTREZGENE_ACC
+136332,ENSG00000155530,LRGUK,leucine rich repeats and guanylate kinase domain containing [Source:HGNC Symbol;Acc:HGNC:21964],ENTREZGENE_ACC
+10606,ENSG00000128050,PAICS,phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [Source:HGNC Symbol;Acc:HGNC:8587],ENTREZGENE_ACC
+160428,ENSG00000136010,ALDH1L2,aldehyde dehydrogenase 1 family member L2 [Source:HGNC Symbol;Acc:HGNC:26777],ENTREZGENE_ACC
